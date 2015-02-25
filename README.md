@@ -34,6 +34,7 @@ A live [preview](http://google.github.io/material-design-icons/) of the icon set
 1. Grab the icon libraries you need **cloning the repo** or **downloading the ZIP**. You can also save the SVG file to your system directly from github.
 2. Copy the file into your inkscape share directoy (typically ```share/inkscape```) under the ```symbols``` folder. If its not there, create it.
 3. Open your inkscape. Reload if already open.
+4. Open Symbols from ```Object > symbols``` or press ```Ctrl+Shift+Y```
 
 ## How can I request new symbols?
 
