@@ -3,6 +3,8 @@
 
 Inkscape 0.91 includes five example libraries: logic symbols, AIGA/DOT transportation symbols, map symbols, flow chart shapes and word balloons made by Martin Owens and Tavmjong Bah.
 
+![Using Inkscape Symbols](http://i.imgur.com/fHiouO8.png)
+
 ## Which symbols are included?
 
 For the moment, only [Google Material Design Icons](https://github.com/google/material-design-icons) are included, but soon there will be more available.
