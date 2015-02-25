@@ -1,0 +1,48 @@
+<svg
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:cc="http://creativecommons.org/ns#"
+     width="720"
+     height="1008"
+     viewBox="0,0,720,1008"
+     version="1.1"
+     style="fill:black;stroke:black">
+    <!-- Edit the symbol library title and description -->
+    <title>Material Design Icons [Action Set]</title>
+    <desc>Material Design Icons are the official open-source icons featured in the Google Material Design specification.</desc>
+    <!-- Edit the metadata adding the title, date, creator, rights, language, etc. -->
+    <metadata>
+        <rdf:RDF>
+            <cc:Work rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <dc:title>Material Design Icons [Action Set]</dc:title>
+                <dc:date>2015-02-18</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title>Google</dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                    <cc:Agent>
+                        <dc:title>Open Source</dc:title>
+                    </cc:Agent>
+                </dc:rights>
+                <dc:language>English</dc:language>
+
+                <dc:source>https://github.com/google/material-design-icons</dc:source>
+                <dc:description>Material Design Icons are the official open-source icons featured in the Google Material Design specification.</dc:description>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+
+    <defs>
+        <symbol>
+            <!-- Edit the icon title. It will show on inkscape hover -->
+            <title>Icon Title</title>
+            <!-- Edit the icon SVG with a clean version -->
+            <path d="M27 1.34s1.48 5.3 1.48 9.6c0 4.12-2.7 7.47-6.83 7.47s-7.25-3.34-7.25-7.47l.05-.72C10.43 15.03 8 21.23 8 28c0 8.84 7.16 16 16 16s16-7.16 16-16c0-10.79-5.19-20.41-13-26.66zM23.42 38c-3.56 0-6.45-2.81-6.45-6.28 0-3.25 2.09-5.53 5.63-6.24s7.2-2.41 9.23-5.15c.78 2.58 1.19 5.3 1.19 8.07 0 5.29-4.3 9.6-9.6 9.6z" style="stroke:none"/>
+        </symbol>
+    </defs>
+</svg>

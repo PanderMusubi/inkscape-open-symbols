@@ -1,0 +1,49 @@
+<svg
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:cc="http://creativecommons.org/ns#"
+     width="720"
+     height="1008"
+     viewBox="0,0,720,1008"
+     version="1.1"
+     style="fill:black;stroke:black">
+    <title>Material Design Icons [Alert Set]</title>
+    <desc>Material Design Icons are the official open-source icons featured in the Google Material Design specification.</desc>
+    <metadata>
+        <rdf:RDF>
+            <cc:Work rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <dc:title>Material Design Icons [Alert Set]</dc:title>
+                <dc:date>2015-02-18</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title>Xaviju</dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                    <cc:Agent>
+                        <dc:title>Open Source</dc:title>
+                    </cc:Agent>
+                </dc:rights>
+                <dc:language>English</dc:language>
+
+                <dc:source>https://github.com/google/material-design-icons</dc:source>
+                <dc:description>Material Design Icons are the official open-source icons featured in the Google Material Design specification.</dc:description>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+
+    <defs>
+        <symbol id="error">
+            <title>Error</title>
+            <path xmlns="http://www.w3.org/2000/svg" d="M24 4c-11.04 0-20 8.95-20 20s8.96 20 20 20 20-8.95 20-20-8.96-20-20-20zm2 30h-4v-4h4v4zm0-8h-4v-12h4v12z" style="stroke:none"/>
+        </symbol>
+        <symbol id="warning">
+            <title>warning</title>
+            <path xmlns="http://www.w3.org/2000/svg" d="M2 42h44l-22-38-22 38zm24-6h-4v-4h4v4zm0-8h-4v-8h4v8z" style="stroke:none"/>
+        </symbol>
+
+    </defs>
+</svg>
