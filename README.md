@@ -28,11 +28,7 @@ The included symbols libraries are:
 
 A live [preview](http://google.github.io/material-design-icons/) of the icon set is available in Google Material Design github repo.
 
-### Github Octicons
-
-- [Github Octicons](https://octicons.github.com/)
-
-
+### [Github Octicons](https://octicons.github.com/)
 
 ## How do I install them?
 
