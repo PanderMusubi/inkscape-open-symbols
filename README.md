@@ -11,6 +11,7 @@ For the moment, only [Google Material Design Icons](https://github.com/google/ma
 
 The included symbols libraries are:
 
+### Google Material Design
 * Google Material Design **Action** Set
 * Google Material Design **Alert** Set
 * Google Material Design **AV** Set
@@ -28,6 +29,12 @@ The included symbols libraries are:
 * Google Material Design **Toggle** Set
 
 A live [preview](http://google.github.io/material-design-icons/) of the icon set is available in Google Material Design github repo.
+
+### Github Octicons
+
+- [Github Octicons](https://octicons.github.com/)
+
+
 
 ## How do I install them?
 
@@ -48,8 +55,7 @@ Pull Requests are more than welcome for your favorite open source icon sets. Ple
 
 If you develop by yourself but not sure how to develop this library please read my article on medium on [how to create you own icon libraries for inkscape 0.91](https://medium.com/@xaviju/creating-your-own-symbol-library-in-inkscape-0-91-and-make-your-front-end-developer-you-338588137aaf)
 
-Awesome Icon Set libraries to be included in the future will be:
-- [Github Octicons](https://octicons.github.com/)
+Awesome Icon Set libraries to be included in the future could be:
 - [Font Awesome Icons](http://fortawesome.github.io/Font-Awesome/icons/)
 - [Foundation Icons](http://foundation.zurb.com/icon-fonts.html)
 - [Elusive Icons](http://elusiveicons.com/icons/)
