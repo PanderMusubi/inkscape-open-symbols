@@ -7,11 +7,9 @@ Inkscape 0.91 includes five example libraries: logic symbols, AIGA/DOT transport
 
 ## Which symbols are included?
 
-For the moment, only [Google Material Design Icons](https://github.com/google/material-design-icons) are included, but soon there will be more available.
-
 The included symbols libraries are:
 
-### Google Material Design
+### [Google Material Design Icons](https://github.com/google/material-design-icons) 
 * Google Material Design **Action** Set
 * Google Material Design **Alert** Set
 * Google Material Design **AV** Set
