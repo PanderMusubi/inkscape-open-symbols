@@ -7,9 +7,9 @@ Inkscape 0.91 includes five example libraries: logic symbols, AIGA/DOT transport
 
 ## Which symbols are included?
 
-The included symbols libraries are:
+The included symbols libraries so far are:
 
-### [Google Material Design Icons](https://github.com/google/material-design-icons) 
+**[Google Material Design Icons](https://github.com/google/material-design-icons)**
 * Google Material Design **Action** Set
 * Google Material Design **Alert** Set
 * Google Material Design **AV** Set
@@ -28,7 +28,11 @@ The included symbols libraries are:
 
 A live [preview](http://google.github.io/material-design-icons/) of the icon set is available in Google Material Design github repo.
 
-### [Github Octicons](https://octicons.github.com/)
+**[Github Octicons](https://octicons.github.com/)**
+GitHub's icon font
+
+**[Humble UI](https://github.com/Xaviju/inkscape-open-symbols/wiki/Humble-UI) **
+A simple UX UI elements for your wireframes created by [Xaviju](https://github.com/Xaviju)
 
 ## How do I install them?
 
@@ -44,7 +48,10 @@ A live [preview](http://google.github.io/material-design-icons/) of the icon set
 Please fill a issue and provide a SVG reference. If available and well created, it will be fast to generate.
 
 ## Why not doing it from the UI?
-**Some icons need to be SVG processed in order to be fully useful for both for designers and developers.** It is perfectly fine to use the inkscape UI for library development, but they won be as useful for developers as if it is well generated, minimized and packed for use in production development.
+It is perfectly fine to use the inkscape UI for library development, but they won be as useful for developers as if it is well generated, minimized and packed for use in production development in some cases.
+**Some icons need to be SVG processed in order to be fully useful for both for designers and developers.**
+
+**If you don't need to use it for web development you can watch this cool UI creation video**: [Creating symbol libraries in Inkscape](Creating symbol libraries in Inkscape)
 
 ## How can I contribute?
 Pull Requests are more than welcome for your favorite open source icon sets. Please don't hesitate to contact me for any help or mentorship.
