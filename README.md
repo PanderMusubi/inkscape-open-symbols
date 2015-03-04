@@ -28,10 +28,10 @@ The included symbols libraries so far are:
 
 A live [preview](http://google.github.io/material-design-icons/) of the icon set is available in Google Material Design github repo.
 
-**[Github Octicons](https://octicons.github.com/)**
+**[Github Octicons](https://octicons.github.com/)**  
 GitHub's icon font
 
-**[Humble UI](https://github.com/Xaviju/inkscape-open-symbols/wiki/Humble-UI) **
+**[Humble UI](https://github.com/Xaviju/inkscape-open-symbols/wiki/Humble-UI)**  
 A simple UX UI elements for your wireframes created by [Xaviju](https://github.com/Xaviju)
 
 ## How do I install them?
