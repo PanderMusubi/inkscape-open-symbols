@@ -32,10 +32,12 @@ A live [preview](http://google.github.io/material-design-icons/) of the icon set
 
 ## How do I install them?
 
-1. Grab the icon libraries you need **cloning the repo** or **downloading the ZIP**. You can also save the SVG file to your system directly from github.
-2. Copy the file into your inkscape share directoy (typically ```share/inkscape```) under the ```symbols``` folder. If its not there, create it.
-3. Open your inkscape. Reload if already open.
-4. Open Symbols from ```Object > symbols``` or press ```Ctrl+Shift+Y```
+1. Grab the icon libraries you need **cloning the repo** or **downloading the ZIP**. You can also save the SVG files to your system directly from github.
+2. Copy the individual SVG files into your inkscape share directoy (typically ```share/inkscape```) under the ```symbols``` folder. If it's not there, create it.
+  - For OS X, the directory is `~/.config/inkscape/symbols`.
+  - For Windows, the directory appears to be `%APPDATA%\Roaming\inkscape\symbols`.
+3. Launch Inkscape (close it first if it's already running).
+4. Open Symbols from ```Object > symbols``` or press ```Ctrl+Shift+Y```. You should see all the Material Design Icons sets as well as Octicons in the "Symbol set" dropdown.
 
 ## How can I request new symbols?
 
