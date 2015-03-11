@@ -34,6 +34,15 @@ GitHub's icon font
 **[Humble UI](https://github.com/Xaviju/inkscape-open-symbols/wiki/Humble-UI)**  
 A simple UX UI elements for your wireframes created by [Xaviju](https://github.com/Xaviju)
 
+**[Ubuntu Suru Icon Set](http://discourse.ubuntu.com/t/suru-icon-theme-for-desktop/1813)**  
+Suru is the icon theme of Ubuntu for phones and tablets. Thanks to [mivoligo](https://github.com/mivoligo) for converting them to inkscape symbols.
+
+* Ubuntu Suru **Actions** Set
+* Ubuntu Suru **Apps** Set
+* Ubuntu Suru **Devices** Set
+* Ubuntu Suru **Mimetypes** Set
+* Ubuntu Suru **Status** Set
+
 ## How do I install them?
 
 1. Grab the icon libraries you need **cloning the repo** or **downloading the ZIP**. You can also save the SVG files to your system directly from github.
