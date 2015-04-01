@@ -28,13 +28,13 @@ The included symbols libraries so far are:
 
 A live [preview](http://google.github.io/material-design-icons/) of the icon set is available in Google Material Design github repo.
 
-**[Github Octicons](https://octicons.github.com/)**  
+**[Github Octicons](https://octicons.github.com/)**
 GitHub's icon font
 
-**[Humble UI](https://github.com/Xaviju/inkscape-open-symbols/wiki/Humble-UI)**  
+**[Humble UI](https://github.com/Xaviju/inkscape-open-symbols/wiki/Humble-UI)**
 A simple UX UI elements for your wireframes created by [Xaviju](https://github.com/Xaviju)
 
-**[Ubuntu Suru Icon Set](http://discourse.ubuntu.com/t/suru-icon-theme-for-desktop/1813)**  
+**[Ubuntu Suru Icon Set](http://discourse.ubuntu.com/t/suru-icon-theme-for-desktop/1813)**
 Suru is the icon theme of Ubuntu for phones and tablets. Thanks to [mivoligo](https://github.com/mivoligo) for converting them to inkscape symbols.
 
 * Ubuntu Suru **Actions** Set
@@ -42,6 +42,9 @@ Suru is the icon theme of Ubuntu for phones and tablets. Thanks to [mivoligo](ht
 * Ubuntu Suru **Devices** Set
 * Ubuntu Suru **Mimetypes** Set
 * Ubuntu Suru **Status** Set
+
+**[Font Awesome Icons](http://fortawesome.github.io/Font-Awesome/icons/)**
+Font Awesome gives you scalable vector icons that can instantly be customized. With the collaboration of [elhombretecla](https://github.com/elhombretecla) for converting them to inkscape symbols.
 
 ## How do I install them?
 
