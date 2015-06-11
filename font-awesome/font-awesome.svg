@@ -550,7 +550,8 @@
                 <dc:date>March 2015</dc:date>
                 <dc:contributor>
                     <cc:Agent>
-                        <dc:title>elhombretecla</dc:title>
+                        <dc:title>elhombretecla (https://github.com/elhombretecla)</dc:title>
+                        <dc:title>Siriux (https://github.com/siriux)</dc:title>
                     </cc:Agent>
                 </dc:contributor>
             </cc:Work>
