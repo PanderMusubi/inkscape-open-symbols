@@ -55,6 +55,8 @@ Font Awesome gives you scalable vector icons that can instantly be customized. W
 3. Launch Inkscape (close it first if it's already running).
 4. Open Symbols from ```Object > symbols``` or press ```Ctrl+Shift+Y```. You should see all the Material Design Icons sets as well as Octicons in the "Symbol set" dropdown.
 
+Available in Arch Linux and derivated through AUR: https://aur.archlinux.org/packages/inkscape-open-symbols-git/ 
+
 ## How can I request new symbols?
 
 Please fill a issue and provide a SVG reference. If available and well created, it will be fast to generate.
