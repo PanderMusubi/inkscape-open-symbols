@@ -46,6 +46,12 @@ Suru is the icon theme of Ubuntu for phones and tablets. Thanks to [mivoligo](ht
 **[Font Awesome Icons](http://fortawesome.github.io/Font-Awesome/icons/)**
 Font Awesome gives you scalable vector icons that can instantly be customized. With the collaboration of [elhombretecla](https://github.com/elhombretecla) for converting them to inkscape symbols.
 
+**[Gnome Icon Set](https://github.com/GNOME/gnome-icon-theme-symbolic)**
+Purpose of this icon theme is to extend the base icon theme that follows the
+Tango style guidelines for specific purposes. This would include OSD messages,
+panel system/notification area, and possibly menu icons.
+* Gnome Icons **Action** Set
+
 ## How do I install them?
 
 1. Grab the icon libraries you need **cloning the repo** or **downloading the ZIP**. You can also save the SVG files to your system directly from github.
@@ -55,7 +61,7 @@ Font Awesome gives you scalable vector icons that can instantly be customized. W
 3. Launch Inkscape (close it first if it's already running).
 4. Open Symbols from ```Object > symbols``` or press ```Ctrl+Shift+Y```. You should see all the Material Design Icons sets as well as Octicons in the "Symbol set" dropdown.
 
-Available in Arch Linux and derivated through AUR: https://aur.archlinux.org/packages/inkscape-open-symbols-git/ 
+Available in Arch Linux and derivated through AUR: https://aur.archlinux.org/packages/inkscape-open-symbols-git/
 
 ## How can I request new symbols?
 
