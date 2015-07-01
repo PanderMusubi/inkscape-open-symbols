@@ -51,6 +51,7 @@ Purpose of this icon theme is to extend the base icon theme that follows the
 Tango style guidelines for specific purposes. This would include OSD messages,
 panel system/notification area, and possibly menu icons.
 * Gnome Icons **Action** Set
+* Gnome Icons **Apps** Set
 
 ## How do I install them?
 
