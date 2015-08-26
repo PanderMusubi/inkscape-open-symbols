@@ -69,7 +69,7 @@ Available in Arch Linux and derivated through AUR: https://aur.archlinux.org/pac
 Please fill a issue and provide a SVG reference. If available and well created, it will be fast to generate.
 
 ## Why not doing it from the UI?
-It is perfectly fine to use the inkscape UI for library development, but they won be as useful for developers as if it is well generated, minimized and packed for use in production development in some cases.
+It is perfectly fine to use the inkscape UI for library development, but they won't be as useful for developers as if it is well generated, minimized and packed for use in production development in some cases.
 **Some icons need to be SVG processed in order to be fully useful for both for designers and developers.**
 
 **If you don't need to use it for web development you can watch this cool UI creation video**: [Creating symbol libraries in Inkscape](Creating symbol libraries in Inkscape)
