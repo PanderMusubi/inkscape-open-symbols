@@ -53,6 +53,8 @@ panel system/notification area, and possibly menu icons.
 * Gnome Icons **Action** Set
 * Gnome Icons **Apps** Set
 
+**[Automattic Genericons](https://github.com/Automattic/Genericons)** [WIP]
+
 ## How do I install them?
 
 1. Grab the icon libraries you need **cloning the repo** or **downloading the ZIP**. You can also save the SVG files to your system directly from github.
