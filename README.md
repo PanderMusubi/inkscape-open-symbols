@@ -53,7 +53,7 @@ panel system/notification area, and possibly menu icons.
 * Gnome Icons **Action** Set
 * Gnome Icons **Apps** Set
 
-**[Automattic Genericons](https://github.com/Automattic/Genericons)** [WIP]
+**[Automattic Genericons](https://github.com/Automattic/Genericons)** Genericons are vector icons embedded in a webfont designed to be clean and simple keeping with a generic aesthetic.
 
 ## How do I install them?
 
