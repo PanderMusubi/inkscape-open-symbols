@@ -74,7 +74,7 @@ Please fill a issue and provide a SVG reference. If available and well created, 
 It is perfectly fine to use the inkscape UI for library development, but they won't be as useful for developers as if it is well generated, minimized and packed for use in production development in some cases.
 **Some icons need to be SVG processed in order to be fully useful for both for designers and developers.**
 
-**If you don't need to use it for web development you can watch this cool UI creation video**: [Creating symbol libraries in Inkscape](Creating symbol libraries in Inkscape)
+**If you don't need to use it for web development you can watch this cool UI creation video**: [Creating symbol libraries in Inkscape](https://www.youtube.com/watch?v=jdaGB0zCdHw)
 
 ## How can I contribute?
 Pull Requests are more than welcome for your favorite open source icon sets. Please don't hesitate to contact me for any help or mentorship.
