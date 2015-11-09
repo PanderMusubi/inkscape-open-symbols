@@ -65,6 +65,7 @@ panel system/notification area, and possibly menu icons.
 4. Open Symbols from ```Object > symbols``` or press ```Ctrl+Shift+Y```. You should see all the Material Design Icons sets as well as Octicons in the "Symbol set" dropdown.
 
 Available in Arch Linux and derivated through AUR: https://aur.archlinux.org/packages/inkscape-open-symbols-git/
+Need a detailed tutorial with baby steps ? Check this video: [Creating Symbol Icons in Inkscape](https://www.youtube.com/watch?v=jdaGB0zCdHw)
 
 ## How can I request new symbols?
 
@@ -86,3 +87,4 @@ Awesome Icon Set libraries to be included in the future could be:
 - [Elusive Icons](http://elusiveicons.com/icons/)
 - [Entypo](http://www.entypo.com/)
 - [Iconic](https://useiconic.com/open/)
+- [Weather Icons](https://github.com/erikflowers/weather-icons)
