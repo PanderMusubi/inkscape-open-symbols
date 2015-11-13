@@ -62,12 +62,13 @@ panel system/notification area, and possibly menu icons.
 1. Grab the icon libraries you need **cloning the repo** or **downloading the ZIP**. You can also save the SVG files to your system directly from github.
 2. Copy the individual SVG files into your inkscape share directoy (typically ```share/inkscape```) under the ```symbols``` folder. If it's not there, create it.
   - For OS X and Linux, the local user directory is `~/.config/inkscape/symbols`.
-  - For Windows, the directory appears to be `%APPDATA%\Roaming\inkscape\symbols`.
+  - For Windows, the directory is:
+    - `%PROGRAMFILES%\Inkscape\share\symbols`. (64 bits)
+	- `%PROGRAMFILES(x86)%\Inkscape\share\symbols`. (32 bits) 
 3. Launch Inkscape (close it first if it's already running).
 4. Open Symbols from ```Object > symbols``` or press ```Ctrl+Shift+Y```. You should see all the Material Design Icons sets as well as Octicons in the "Symbol set" dropdown.
 
 Available in Arch Linux and derivated through AUR: https://aur.archlinux.org/packages/inkscape-open-symbols-git/
-Need a detailed tutorial with baby steps ? Check this video: [Creating Symbol Icons in Inkscape](https://www.youtube.com/watch?v=jdaGB0zCdHw)
 
 ## How can I request new symbols?
 
