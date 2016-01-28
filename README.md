@@ -57,6 +57,10 @@ panel system/notification area, and possibly menu icons.
 
 **[Automattic Genericons](https://github.com/Automattic/Genericons)** Genericons are vector icons embedded in a webfont designed to be clean and simple keeping with a generic aesthetic.
 
+**[Taiga Icons](https://github.com/taigaio)** Icon set from Taiga: a project management platform for agile developers & designers.
+
+**[Open Iconic](https://github.com/iconic/open-iconic)** An open source icon set with 223 marks in SVG, webfont and raster formats
+
 ## How do I install them?
 
 1. Grab the icon libraries you need **cloning the repo** or **downloading the ZIP**. You can also save the SVG files to your system directly from github.
@@ -64,7 +68,7 @@ panel system/notification area, and possibly menu icons.
   - For OS X and Linux, the local user directory is `~/.config/inkscape/symbols`.
   - For Windows, the directory is:
     - `%PROGRAMFILES%\Inkscape\share\symbols`. (64 bits)
-	- `%PROGRAMFILES(x86)%\Inkscape\share\symbols`. (32 bits) 
+	- `%PROGRAMFILES(x86)%\Inkscape\share\symbols`. (32 bits)
 3. Launch Inkscape (close it first if it's already running).
 4. Open Symbols from ```Object > symbols``` or press ```Ctrl+Shift+Y```. You should see all the Material Design Icons sets as well as Octicons in the "Symbol set" dropdown.
 
