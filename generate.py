@@ -26,7 +26,7 @@ from optparse import OptionParser
 # Añadir contenido a un fichero.
 # Migrar de OptionParser to https://docs.python.org/3/library/optparse.html
 
-def cleanSVGStyles(file):
+def _cleanSVGStyles(file):
     print('Cleaning SVG....')
 
 if __name__ == '__main__':
@@ -34,27 +34,23 @@ if __name__ == '__main__':
     optp = OptionParser()
 
     # Output verbosity options.
-    optp.add_option('--folder', help='Folder to generate icons from', dest='folder')
-    optp.add_option('--file', help='File to generate icon from', dest='file')
+    optp.add_option('-i', '--input', help='Input to generate icon, it ca be a folder', dest='input')
     optp.add_option('-o', '--output', help='Output file', dest='output')
 
     opts, args = optp.parse_args()
 
-    if opts.folder is None:
-        if opts.file is None:
-            optp.error('At list one value for file or folder is needed')
-        else:
-            if opts.output is None:
-                os.system('svgo ' + opts.file)
-            else:
-                os.system('svgo ' + opts.file + ' -o ' + opts.output)
-    else:
-        if opts.file is None:
-            if opts.output is None:
-                os.system('svgo ' + opts.folder)
-            else:
-                os.system('cat ' + opts.folder + '/*.svg > ' + opts.output)
-                os.system('svgo ' + opts.output + ' -o ' + opts.output)
-                cleanSVGStyles(opts.output)
-        else:
-            optp.error('File and folder cannot exist')
+    if opts.input and opts.output:
+        os.system('cat ' + opts.input + ' > ' + opts.output)
+        os.system('svgo ' + opts.output)
+        cleanSVGStyles(opts.output)
+
+    elif not opts.input and opts.output:
+        os.system('cat *.svg > ' + opts.output)
+        os.system('svgo ' + opts.output)
+        cleanSVGStyles(opts.output)
+
+    elif opts.input and not opts.output:
+        os.system('svgo ' + opts.input)
+
+    elif not opts.input and not opts.output:
+        optp.error('At list one value is required')
