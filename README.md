@@ -1,13 +1,17 @@
 Current project status managed in [Taiga](https://tree.taiga.io/project/xavierjulian-open-source-projects/)
 
 # Inkscape Open Symbols
-**Symbol libraries are sets of SVG symbols located in one SVG document.** For the more technical audience, inkscape search for any valid SVG file with symbols (```<symbol>``` element) in your system configuration directory (typically ```share/inkscape```)
+**Symbol libraries are sets of SVG symbols located in one SVG document.** For the more technical audience, Inkscape searches for any valid SVG file with symbols (```<symbol>``` element) in your system configuration directory (typically ```share/inkscape```)
 
-Inkscape 0.91 includes five example libraries: logic symbols, AIGA/DOT transportation symbols, map symbols, flow chart shapes and word balloons made by Martin Owens and Tavmjong Bah.
+## Why use Inkscape Open Symbols?
+
+Inkscape 0.91 includes just five example libraries: Logic Symbols, AIGA/DOT Transportation Symbols, Map Symbols, Flow Chart Shapes, and Word Balloons (made by Martin Owens and Tavmjong Bah).
+
+Inkscape Open Symbols adds a whole lot more!
 
 ![Using Inkscape Symbols](http://i.imgur.com/fHiouO8.png)
 
-## Which symbols are included?
+## Which symbols are included in Inkscape Open Symbols?
 
 The included symbols libraries so far are:
 
@@ -28,7 +32,7 @@ The included symbols libraries so far are:
 * Google Material Design **Social** Set
 * Google Material Design **Toggle** Set
 
-A live [preview](http://google.github.io/material-design-icons/) of the icon set is available in Google Material Design github repo.
+  (A live [preview](http://google.github.io/material-design-icons/) of this icon set is available at the Google Material Design github repo.)
 
 **[Github Octicons](https://octicons.github.com/)**
 GitHub's icon font
@@ -61,10 +65,10 @@ panel system/notification area, and possibly menu icons.
 
 **[Open Iconic](https://github.com/iconic/open-iconic)** An open source icon set with 223 marks in SVG, webfont and raster formats
 
-## How do I install them?
+## How do I install Inkscape Open Symbols?
 
 1. Grab the icon libraries you need **cloning the repo** or **downloading the ZIP**. You can also save the SVG files to your system directly from github.
-2. Copy the individual SVG files into your inkscape share directoy (typically ```share/inkscape```) under the ```symbols``` folder. If it's not there, create it.
+2. Copy the individual SVG files into your Inkscape share directoy (typically ```share/inkscape```) under the ```symbols``` folder. If it's not there, create it.
   - For OS X and Linux, the local user directory is `~/.config/inkscape/symbols`.
   - For Windows, the directory is:
     - `%PROGRAMFILES%\Inkscape\share\symbols`. (64 bits)
@@ -76,10 +80,10 @@ Available in Arch Linux and derivated through AUR: https://aur.archlinux.org/pac
 
 ## How can I request new symbols?
 
-Please fill a issue and provide a SVG reference. If available and well created, it will be fast to generate.
+Please fill out an issue and provide a SVG reference. If available and well created, it will be fast to generate.
 
-## Why not doing it from the UI?
-It is perfectly fine to use the inkscape UI for library development, but they won't be as useful for developers as if it is well generated, minimized and packed for use in production development in some cases.
+## Why not do it from the UI?
+It is perfectly fine to use the Inkscape UI for library development, but they won't be as useful for developers as it is well generated, minimized and packed for use in production development in some cases.
 **Some icons need to be SVG processed in order to be fully useful for both for designers and developers.**
 
 **If you don't need to use it for web development you can watch this cool UI creation video**: [Creating symbol libraries in Inkscape](https://www.youtube.com/watch?v=jdaGB0zCdHw)
@@ -87,7 +91,7 @@ It is perfectly fine to use the inkscape UI for library development, but they wo
 ## How can I contribute?
 Pull Requests are more than welcome for your favorite open source icon sets. Please don't hesitate to contact me for any help or mentorship.
 
-If you develop by yourself but not sure how to develop this library please read my article on medium on [how to create you own icon libraries for inkscape 0.91](https://medium.com/@xaviju/creating-your-own-symbol-library-in-inkscape-0-91-and-make-your-front-end-developer-you-338588137aaf)
+If you are developing by yourself but are not sure how to develop this library please read my article on Medium on [how to create you own icon libraries for inkscape 0.91](https://medium.com/@xaviju/creating-your-own-symbol-library-in-inkscape-0-91-and-make-your-front-end-developer-you-338588137aaf)
 
 Awesome Icon Set libraries to be included in the future could be:
 - [Foundation Icons](http://foundation.zurb.com/icon-fonts.html)
