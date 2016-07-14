@@ -65,6 +65,8 @@ panel system/notification area, and possibly menu icons.
 
 **[Open Iconic](https://github.com/iconic/open-iconic)** An open source icon set with 223 marks in SVG, webfont and raster formats
 
+**Weatherize** A set of symbols for weather related events made by Jacques Laroche.
+
 ## How do I install Inkscape Open Symbols?
 
 1. Grab the icon libraries you need **cloning the repo** or **downloading the ZIP**. You can also save the SVG files to your system directly from github.
@@ -97,5 +99,4 @@ Awesome Icon Set libraries to be included in the future could be:
 - [Foundation Icons](http://foundation.zurb.com/icon-fonts.html)
 - [Elusive Icons](http://elusiveicons.com/icons/)
 - [Entypo](http://www.entypo.com/)
-- [Iconic](https://useiconic.com/open/)
 - [Weather Icons](https://github.com/erikflowers/weather-icons)

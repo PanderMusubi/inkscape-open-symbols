@@ -15,7 +15,7 @@
       <cc:Work rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>Symbol Example</dc:title>
+        <dc:title>Weatherize</dc:title>
         <dc:date>2016-07-13</dc:date>
         <dc:creator>
           <cc:Agent>
@@ -24,13 +24,13 @@
         </dc:creator>
         <dc:rights>
           <cc:Agent>
-            <dc:title>Public Domain</dc:title>
+            <dc:title>Open source</dc:title>
           </cc:Agent>
         </dc:rights>
         <dc:language>English</dc:language>
 
-        <dc:source>https://taiga.io/support/test-styles/</dc:source>
-        <dc:description>Symbol Example Description</dc:description>
+        <dc:source></dc:source>
+        <dc:description>An open source weather icon set made by Jacques Laroche</dc:description>
       </cc:Work>
     </rdf:RDF>
   </metadata>
