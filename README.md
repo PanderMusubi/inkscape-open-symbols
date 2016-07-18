@@ -65,7 +65,7 @@ panel system/notification area, and possibly menu icons.
 
 **[Open Iconic](https://github.com/iconic/open-iconic)** An open source icon set with 223 marks in SVG, webfont and raster formats
 
-**Entypo(http://www.entypo.com/)** 411 carefully crafted premium pictograms by [Daniel Bruce](http://www.danielbruce.se/)
+**[Entypo](http://www.entypo.com/)** 411 carefully crafted premium pictograms by [Daniel Bruce](http://www.danielbruce.se/)
 * Entypo Internet Icons ported from [Entypo's Social Extension SVG Set](http://www.entypo.com/) by [Jacques Laroche](http://currentperspectives.org/about/).
 
 **Weatherize** A set of symbols for weather related events made by **[Jacques Laroche](http://currentperspectives.org/about/)**.
