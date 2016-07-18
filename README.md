@@ -65,7 +65,9 @@ panel system/notification area, and possibly menu icons.
 
 **[Open Iconic](https://github.com/iconic/open-iconic)** An open source icon set with 223 marks in SVG, webfont and raster formats
 
-**Weatherize** A set of symbols for weather related events made by Jacques Laroche.
+**Internet Icons** A set of familiar internet symbols ported from [Entypo's Social Extension SVG Set](http://www.entypo.com/) by **[Jacques Laroche](http://currentperspectives.org/about/)**. Original Icons licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
+
+**Weatherize** A set of symbols for weather related events made by **[Jacques Laroche](http://currentperspectives.org/about/)**.
 
 ## How do I install Inkscape Open Symbols?
 
