@@ -74,7 +74,7 @@ panel system/notification area, and possibly menu icons.
 
 ## How do I install Inkscape Open Symbols?
 
-1. Grab the icon libraries you need **cloning the repo** or **downloading the ZIP**. You can also save the SVG files to your system directly from github.
+1. Grab the icon libraries you need by **cloning the repo** or **downloading the ZIP**. You can also save the SVG files to your system directly from github.
 2. Copy the individual SVG files into your Inkscape share directoy (typically ```share/inkscape```) under the ```symbols``` folder. If it's not there, create it.
   - For OS X and Linux, the local user directory is `~/.config/inkscape/symbols`.
   - For Windows, the directory is:
