@@ -70,6 +70,8 @@ panel system/notification area, and possibly menu icons.
 
 **Weatherize** A set of symbols for weather related events made by **[Jacques Laroche](http://currentperspectives.org/about/)**.
 
+**StateFAce** USA States Symbol Set with all 50 states plus D.C. and a wee continental U.S. map by **[StateFace](https://propublica.github.io/stateface/)**. Thanks to [cleversomeday](https://github.com/cleversomeday)
+
 ## How do I install Inkscape Open Symbols?
 
 1. Grab the icon libraries you need **cloning the repo** or **downloading the ZIP**. You can also save the SVG files to your system directly from github.
