@@ -72,6 +72,21 @@ panel system/notification area, and possibly menu icons.
 
 **StateFAce** USA States Symbol Set with all 50 states plus D.C. and a wee continental U.S. map by **[StateFace](https://propublica.github.io/stateface/)**. Thanks to [cleversomeday](https://github.com/cleversomeday)
 
+**[EmojiOne](http://emojione.com/)** the first complete, independent, open-source emoji set.
+
+###Icon licenses
+- Emoji one = CC BY 4.0 (Attribution) http://emojione.com/licensing/
+- Font Awesome = SIL OFL 1.1 http://fontawesome.io/license/ 
+- Genericons = GPL v2 LICENSE.TXT from https://genericons.com/
+- Gnome Icon Theme = CC BY SA 3.0 https://github.com/GNOME/gnome-icon-theme-symbolic/blob/master/COPYING
+- Humble UI = CC BY 4.0 https://github.com/Xaviju/inkscape-open-symbols/wiki/Humble-UI
+- Google Material Design Icons = Apache 2 https://github.com/google/material-design-icons
+- Taiga Icons = CC BY SA 4.0 https://github.com/taigaio/taiga-design
+- Open Iconic = MIT https://github.com/iconic/open-iconic
+- Entypo = CC BY-SA 4.0 www.entypo.com
+- StateFace = Copyright but in the copyright notes says that there are no guarantees. That the copyright note must be in all copies of the library that's all. https://propublica.github.io/stateface/
+- Wheaterize = No license or website found.
+
 ## How do I install Inkscape Open Symbols?
 
 1. Grab the icon libraries you need by **cloning the repo** or **downloading the ZIP**. You can also save the SVG files to your system directly from github.
