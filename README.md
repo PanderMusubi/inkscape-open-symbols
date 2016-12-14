@@ -112,12 +112,4 @@ It is perfectly fine to use the Inkscape UI for library development, but they wo
 **If you don't need to use it for web development you can watch this cool UI creation video**: [Creating symbol libraries in Inkscape](https://www.youtube.com/watch?v=jdaGB0zCdHw)
 
 ## How can I contribute?
-Pull Requests are more than welcome for your favorite open source icon sets. Please don't hesitate to contact me for any help or mentorship.
-
-If you are developing by yourself but are not sure how to develop this library please read my article on Medium on [how to create you own icon libraries for inkscape 0.91](https://medium.com/@xaviju/creating-your-own-symbol-library-in-inkscape-0-91-and-make-your-front-end-developer-you-338588137aaf)
-
-Awesome Icon Set libraries to be included in the future could be:
-- [Foundation Icons](http://foundation.zurb.com/icon-fonts.html)
-- [Elusive Icons](http://elusiveicons.com/icons/)
-- [Entypo](http://www.entypo.com/)
-- [Weather Icons](https://github.com/erikflowers/weather-icons)
+Check the [CONTRIBUTING](https://github.com/Xaviju/inkscape-open-symbols/blob/master/CONTRIBUTING.md) guide. :D
