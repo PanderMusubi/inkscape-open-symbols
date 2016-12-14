@@ -74,9 +74,11 @@ panel system/notification area, and possibly menu icons.
 
 **[EmojiOne](http://emojione.com/)** the first complete, independent, open-source emoji set.
 
+**[Dashicons](https://github.com/WordPress/dashicons)** Dashicons, the WordPress admin icon font.
+
 ###Icon licenses
 - Emoji one = CC BY 4.0 (Attribution) http://emojione.com/licensing/
-- Font Awesome = SIL OFL 1.1 http://fontawesome.io/license/ 
+- Font Awesome = SIL OFL 1.1 http://fontawesome.io/license/
 - Genericons = GPL v2 LICENSE.TXT from https://genericons.com/
 - Gnome Icon Theme = CC BY SA 3.0 https://github.com/GNOME/gnome-icon-theme-symbolic/blob/master/COPYING
 - Humble UI = CC BY 4.0 https://github.com/Xaviju/inkscape-open-symbols/wiki/Humble-UI
@@ -86,11 +88,12 @@ panel system/notification area, and possibly menu icons.
 - Entypo = CC BY-SA 4.0 www.entypo.com
 - StateFace = Copyright but in the copyright notes says that there are no guarantees. That the copyright note must be in all copies of the library that's all. https://propublica.github.io/stateface/
 - Wheaterize = No license or website found.
+- Dashicons = GPLv2
 
 ## How do I install Inkscape Open Symbols?
 
 1. Grab the icon libraries you need by **cloning the repo** or **downloading the ZIP**. You can also save the SVG files to your system directly from github.
-2. Copy the individual SVG files into your Inkscape share directoy (typically ```share/inkscape```) under the ```symbols``` folder. If it's not there, create it.
+2. Copy the individual SVG files into your Inkscape config folder under the ```symbols``` folder. If it's not there, create it.
   - For OS X and Linux, the local user directory is `~/.config/inkscape/symbols`.
   - For Windows, the directory is:
     - `%PROGRAMFILES%\Inkscape\share\symbols`. (64 bits)
