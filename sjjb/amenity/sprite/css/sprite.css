@@ -1,0 +1,263 @@
+.icon {
+    font-size: 10px;
+}
+
+.icon:before {
+    content:' ';
+    vertical-align:middle;
+    display: inline-block;
+    background-image: url("../svg/sprite.svg");
+    background-repeat: no-repeat;
+    background-size: 58em 1566em;
+}
+
+.no-svg .icon:before {
+    background-image: url("../svg/sprite.png");
+}
+
+
+
+  .icon.icon-bench:before {
+      background-position: 0em 0em;
+      width: 58em;
+      height: 58em;
+  }
+
+
+
+
+  .icon.icon-court:before {
+      background-position: 0em -58em;
+      width: 58em;
+      height: 58em;
+  }
+
+
+
+
+  .icon.icon-firestation:before {
+      background-position: 0em -116em;
+      width: 58em;
+      height: 58em;
+  }
+
+
+
+
+  .icon.icon-firestation2:before {
+      background-position: 0em -174em;
+      width: 58em;
+      height: 58em;
+  }
+
+
+
+
+  .icon.icon-firestation3:before {
+      background-position: 0em -232em;
+      width: 58em;
+      height: 58em;
+  }
+
+
+
+
+  .icon.icon-fountain:before {
+      background-position: 0em -290em;
+      width: 58em;
+      height: 58em;
+  }
+
+
+
+
+  .icon.icon-fountain2:before {
+      background-position: 0em -348em;
+      width: 58em;
+      height: 58em;
+  }
+
+
+
+
+  .icon.icon-library:before {
+      background-position: 0em -406em;
+      width: 58em;
+      height: 58em;
+  }
+
+
+
+
+  .icon.icon-library2:before {
+      background-position: 0em -464em;
+      width: 58em;
+      height: 58em;
+  }
+
+
+
+
+  .icon.icon-playground:before {
+      background-position: 0em -522em;
+      width: 58em;
+      height: 58em;
+  }
+
+
+
+
+  .icon.icon-police:before {
+      background-position: 0em -580em;
+      width: 58em;
+      height: 58em;
+  }
+
+
+
+
+  .icon.icon-police2:before {
+      background-position: 0em -638em;
+      width: 58em;
+      height: 58em;
+  }
+
+
+
+
+  .icon.icon-post_box:before {
+      background-position: 0em -696em;
+      width: 58em;
+      height: 58em;
+  }
+
+
+
+
+  .icon.icon-post_office:before {
+      background-position: 0em -754em;
+      width: 58em;
+      height: 58em;
+  }
+
+
+
+
+  .icon.icon-prison:before {
+      background-position: 0em -812em;
+      width: 58em;
+      height: 58em;
+  }
+
+
+
+
+  .icon.icon-public_building:before {
+      background-position: 0em -870em;
+      width: 58em;
+      height: 58em;
+  }
+
+
+
+
+  .icon.icon-public_building2:before {
+      background-position: 0em -928em;
+      width: 58em;
+      height: 58em;
+  }
+
+
+
+
+  .icon.icon-recycling:before {
+      background-position: 0em -986em;
+      width: 58em;
+      height: 58em;
+  }
+
+
+
+
+  .icon.icon-survey_point:before {
+      background-position: 0em -1044em;
+      width: 58em;
+      height: 58em;
+  }
+
+
+
+
+  .icon.icon-telephone:before {
+      background-position: 0em -1102em;
+      width: 58em;
+      height: 58em;
+  }
+
+
+
+
+  .icon.icon-toilets:before {
+      background-position: 0em -1160em;
+      width: 58em;
+      height: 58em;
+  }
+
+
+
+
+  .icon.icon-toilets_disabled:before {
+      background-position: 0em -1218em;
+      width: 58em;
+      height: 58em;
+  }
+
+
+
+
+  .icon.icon-toilets_men:before {
+      background-position: 0em -1276em;
+      width: 58em;
+      height: 58em;
+  }
+
+
+
+
+  .icon.icon-toilets_women:before {
+      background-position: 0em -1334em;
+      width: 58em;
+      height: 58em;
+  }
+
+
+
+
+  .icon.icon-town_hall:before {
+      background-position: 0em -1392em;
+      width: 58em;
+      height: 58em;
+  }
+
+
+
+
+  .icon.icon-town_hall2:before {
+      background-position: 0em -1450em;
+      width: 58em;
+      height: 58em;
+  }
+
+
+
+
+  .icon.icon-waste_bin:before {
+      background-position: 0em -1508em;
+      width: 58em;
+      height: 58em;
+  }
+
+
+
+
+
