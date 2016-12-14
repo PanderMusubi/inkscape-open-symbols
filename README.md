@@ -1,5 +1,3 @@
-Current project status managed in [Taiga](https://tree.taiga.io/project/xavierjulian-open-source-projects/)
-
 # Inkscape Open Symbols
 **Symbol libraries are sets of SVG symbols located in one SVG document.** For the more technical audience, Inkscape searches for any valid SVG file with symbols (```<symbol>``` element) in your system configuration directory (typically ```share/inkscape```)
 
