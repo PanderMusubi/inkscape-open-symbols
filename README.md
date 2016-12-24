@@ -84,7 +84,7 @@ panel system/notification area, and possibly menu icons.
 - Taiga Icons = CC BY SA 4.0 https://github.com/taigaio/taiga-design
 - Open Iconic = MIT https://github.com/iconic/open-iconic
 - Entypo = CC BY-SA 4.0 www.entypo.com
-- StateFace = Copyright but in the copyright notes says that there are no guarantees. That the copyright note must be in all copies of the library that's all. https://propublica.github.io/stateface/
+- StateFace = MIT https://propublica.github.io/stateface/
 - Wheaterize = No license or website found.
 - Dashicons = GPLv2
 
