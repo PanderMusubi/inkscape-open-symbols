@@ -87,6 +87,7 @@ panel system/notification area, and possibly menu icons.
 - StateFace = Copyright but in the copyright notes says that there are no guarantees. That the copyright note must be in all copies of the library that's all. https://propublica.github.io/stateface/
 - Wheaterize = No license or website found.
 - Dashicons = GPLv2
+- Ubuntu Suru = GPLv3 https://launchpad.net/ubuntu-themes
 
 ## How do I install Inkscape Open Symbols?
 
