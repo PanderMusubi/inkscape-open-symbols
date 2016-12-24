@@ -88,6 +88,7 @@ panel system/notification area, and possibly menu icons.
 - Wheaterize = No license or website found.
 - Dashicons = GPLv2
 - Github Octicons = MIT https://github.com/primer/octicons
+- Ubuntu Suru = GPLv3 https://launchpad.net/ubuntu-themes
 
 ## How do I install Inkscape Open Symbols?
 
