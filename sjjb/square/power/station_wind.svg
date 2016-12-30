@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 576.44501 577.45154" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<defs>
+<style type="text/css">.fil0 {fill:#EF7900}</style>
+</defs>
+<path d="m64.571 0.06355556c-41.335 0-64.571 21.371-64.571 65.036v450.123c0 40.844 20.894 62.229 62.192 62.229h452.024c41.307 0 62.229-20.316 62.229-62.229v-450.123c0-42.601-20.922-65.036-63.522-65.036-0.003 0-448.494-0.143-448.352 0z"/>
+<path opacity=".8" style="color-rendering:auto;text-decoration-color:#000000;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;block-progression:tb;text-decoration-line:none;text-decoration-style:solid;image-rendering:auto;white-space:normal;text-indent:0;text-transform:none" d="m203.13975 172.57095a3.9433293 3.9433293 0 0 0 -3.93945 3.79492l-13.78125 365.9375a3.9433293 3.9433293 0 0 0 3.88281 4.0918c84.48956 1.2057 150.2346 0.9375 235.96289 0.9375a3.9433293 3.9433293 0 0 0 3.94336 -3.94336v-113.65625a3.9433293 3.9433293 0 0 0 -3.94336 -3.94336h-179.77344l-5.84765-249.36719a3.9433293 3.9433293 0 0 0 -3.94141 -3.85156h-32.5625z" fill="#fff"/>
+<path d="m159.84873 26.180322c-0.18684-0.01123-0.36527 0.01083-0.53125 0.06836-10.62233 3.681915 33.10692 146.54772 30.98438 157.5879-2.12254 11.04017-95.708782 127.50697-87.20898 134.86523 8.4998 7.35826 110.36008-101.94504 120.98242-105.62695 10.62233-3.68192 158.2798 19.13392 160.40234 8.09375s-143.467-44.60464-151.9668-51.96289c-8.36699-7.24329-60.89063-142.31804-72.66211-143.0254z" fill-rule="evenodd" fill="#fff"/>
+</svg>

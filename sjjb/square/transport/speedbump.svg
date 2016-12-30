@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 576.44501 577.45154">
+<defs>
+<style type="text/css">.fil0 {fill:#EF7900}</style>
+</defs>
+<path d="m64.571 0.06355556c-41.335 0-64.571 21.371-64.571 65.036v450.123c0 40.844 20.894 62.229 62.192 62.229h452.024c41.307 0 62.229-20.316 62.229-62.229v-450.123c0-42.601-20.922-65.036-63.522-65.036-0.003 0-448.494-0.143-448.352 0z"/>
+<path d="m51.296 469.29556h480v-30s-80 0-100-20c-40-80-240-80-280 0-20 20-100 20-100 20z" fill="#fff"/>
+</svg>
