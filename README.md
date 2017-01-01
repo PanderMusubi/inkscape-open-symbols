@@ -116,7 +116,7 @@ panel system/notification area, and possibly menu icons.
     - `%PROGRAMFILES%\Inkscape\share\symbols`. (64 bits)
 	- `%PROGRAMFILES(x86)%\Inkscape\share\symbols`. (32 bits)
 3. Launch Inkscape (close it first if it's already running).
-4. Open Symbols from ```Object > symbols``` or press ```Ctrl+Shift+Y```. You should see all icons sets in the "Symbol set" dropdown.
+4. Open Symbols from ```Object > symbols``` or press ```Ctrl+Shift+Y```. You should see all icon sets in the "Symbol set" dropdown.
 
 Available in Arch Linux and derivated through AUR: https://aur.archlinux.org/packages/inkscape-open-symbols-git/
 
