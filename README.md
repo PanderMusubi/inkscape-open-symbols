@@ -68,25 +68,44 @@ panel system/notification area, and possibly menu icons.
 
 **Weatherize** A set of symbols for weather related events made by **[Jacques Laroche](http://currentperspectives.org/about/)**.
 
-**StateFAce** USA States Symbol Set with all 50 states plus D.C. and a wee continental U.S. map by **[StateFace](https://propublica.github.io/stateface/)**. Thanks to [cleversomeday](https://github.com/cleversomeday)
+**StateFace** USA States Symbol Set with all 50 states plus D.C. and a wee continental U.S. map by **[StateFace](https://propublica.github.io/stateface/)**. Thanks to [cleversomeday](https://github.com/cleversomeday)
 
 **[EmojiOne](http://emojione.com/)** the first complete, independent, open-source emoji set.
 
 **[Dashicons](https://github.com/WordPress/dashicons)** Dashicons, the WordPress admin icon font.
 
+**[SJJB Map Icons](http://www.sjjb.co.uk/mapicons/)** by SJBB Management, a simple consistent set of vector icons suitable for cartographic use, created specifically to be used by Open Street Map. All icons are available in a square and in an inverted version.
+* SJJB Map Icons **Accomodation** Set
+* SJJB Map Icons **Amenity** Set
+* SJJB Map Icons **Barrier** Set
+* SJJB Map Icons **Education** Set
+* SJJB Map Icons **Food** Set
+* SJJB Map Icons **Health** Set
+* SJJB Map Icons **Landuse** Set
+* SJJB Map Icons **Money** Set
+* SJJB Map Icons **Place of Worship** Set
+* SJJB Map Icons **POI** Set
+* SJJB Map Icons **Power** Set
+* SJJB Map Icons **Shopping** Set
+* SJJB Map Icons **Sport** Set
+* SJJB Map Icons **Tourist** Set
+* SJJB Map Icons **Transport** Set
+* SJJB Map Icons **Water** Set
+
 ###Icon licenses
-- Emoji one = CC BY 4.0 (Attribution) http://emojione.com/licensing/
-- Font Awesome = SIL OFL 1.1 http://fontawesome.io/license/
-- Genericons = GPL v2 LICENSE.TXT from https://genericons.com/
-- Gnome Icon Theme = CC BY SA 3.0 https://github.com/GNOME/gnome-icon-theme-symbolic/blob/master/COPYING
-- Humble UI = CC BY 4.0 https://github.com/Xaviju/inkscape-open-symbols/wiki/Humble-UI
-- Google Material Design Icons = Apache 2 https://github.com/google/material-design-icons
-- Taiga Icons = CC BY SA 4.0 https://github.com/taigaio/taiga-design
-- Open Iconic = MIT https://github.com/iconic/open-iconic
-- Entypo = CC BY-SA 4.0 www.entypo.com
-- StateFace = Copyright but in the copyright notes says that there are no guarantees. That the copyright note must be in all copies of the library that's all. https://propublica.github.io/stateface/
-- Wheaterize = No license or website found.
-- Dashicons = GPLv2
+- [Emoji one](http://emojione.com/licensing/): [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+- [Font Awesome](http://fontawesome.io/license/): SIL OFL 1.1 
+- [Genericons](https://github.com/Automattic/genericons-neue/blob/master/LICENSE.md): [GPL v2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
+- [Gnome Icon Theme](https://github.com/GNOME/gnome-icon-theme-symbolic/blob/master/COPYING): [CC BY SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) 
+- [Humble UI](https://github.com/Xaviju/inkscape-open-symbols/wiki/Humble-UI): [MIT](https://opensource.org/licenses/MIT)
+- [Google Material Design Icons](https://github.com/google/material-design-icons/blob/master/LICENSE): [Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0) 
+- [Taiga Icons](https://github.com/taigaio/taiga-design/blob/master/LICENSE): [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+- [Open Iconic](https://github.com/iconic/open-iconic/blob/master/ICON-LICENSE): [MIT](https://opensource.org/licenses/MIT)
+- [Entypo](http://www.entypo.com/): [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+- [StateFace](https://propublica.github.io/stateface/): [MIT](https://opensource.org/licenses/MIT)
+- [Wheatherize](https://github.com/jlar0che): No license or website found.
+- [Dashicons](https://github.com/WordPress/dashicons/blob/master/gpl.txt): [GPL v3](https://www.gnu.org/licenses/gpl-3.0.en.html)
+- [SJJB Map Icons](http://www.sjjb.co.uk/mapicons/introduction): [CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/)
 
 ## How do I install Inkscape Open Symbols?
 
@@ -97,7 +116,7 @@ panel system/notification area, and possibly menu icons.
     - `%PROGRAMFILES%\Inkscape\share\symbols`. (64 bits)
 	- `%PROGRAMFILES(x86)%\Inkscape\share\symbols`. (32 bits)
 3. Launch Inkscape (close it first if it's already running).
-4. Open Symbols from ```Object > symbols``` or press ```Ctrl+Shift+Y```. You should see all the Material Design Icons sets as well as Octicons in the "Symbol set" dropdown.
+4. Open Symbols from ```Object > symbols``` or press ```Ctrl+Shift+Y```. You should see all icons sets in the "Symbol set" dropdown.
 
 Available in Arch Linux and derivated through AUR: https://aur.archlinux.org/packages/inkscape-open-symbols-git/
 
@@ -106,7 +125,7 @@ Available in Arch Linux and derivated through AUR: https://aur.archlinux.org/pac
 Please fill out an issue and provide a SVG reference. If available and well created, it will be fast to generate.
 
 ## Why not do it from the UI?
-It is perfectly fine to use the Inkscape UI for library development, but they won't be as useful for developers as it is well generated, minimized and packed for use in production development in some cases.
+It is perfectly fine to use the Inkscape UI for library development, but they won't be as useful for developers as when they are well generated, minimized and packed for use in production development in some cases.
 **Some icons need to be SVG processed in order to be fully useful for both for designers and developers.**
 
 **If you don't need to use it for web development you can watch this cool UI creation video**: [Creating symbol libraries in Inkscape](https://www.youtube.com/watch?v=jdaGB0zCdHw)
