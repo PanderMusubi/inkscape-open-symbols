@@ -94,7 +94,7 @@ panel system/notification area, and possibly menu icons.
 
 ###Icon licenses
 - [Emoji one](http://emojione.com/licensing/): [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-- [Font Awesome](http://fontawesome.io/license/): SIL OFL 1.1 
+- [Font Awesome](http://fontawesome.io/license/): [SIL OFL 1.1](http://scripts.sil.org/OFL)
 - [Genericons](https://github.com/Automattic/genericons-neue/blob/master/LICENSE.md): [GPL v2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
 - [Gnome Icon Theme](https://github.com/GNOME/gnome-icon-theme-symbolic/blob/master/COPYING): [CC BY SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) 
 - [Humble UI](https://github.com/Xaviju/inkscape-open-symbols/wiki/Humble-UI): [MIT](https://opensource.org/licenses/MIT)
