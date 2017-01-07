@@ -10,3 +10,4 @@
 - [Alexandre Leroux](https://github.com/alexandreleroux) <http://animoog.org/>
 - [elhombretecla](https://github.com/elhombretecla) <soy@elhombretecla.com>
 - [cleversomeday](https://github.com/cleversomeday)
+- [Maren Hachmann](https://github.com/moini) <http://vektorrascheln.de>

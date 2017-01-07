@@ -38,4 +38,4 @@ SVGO can break many symbols, but cleans most of them very well. If some of your 
 Then, copy the code into your file replacing the previous code and retest the symbol set.
 
 ##Pull Requests
-A pull request is the best way to contribute. Your symbol set will always include your name as contributor and you will help desiners around the world to wireframe, design or create amazing user experiences.
+A pull request is the best way to contribute. Your symbol set will always include your name as contributor and you will help designers around the world to wireframe, design or create amazing user experiences.
