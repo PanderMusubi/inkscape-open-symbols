@@ -93,19 +93,22 @@ panel system/notification area, and possibly menu icons.
 * SJJB Map Icons **Water** Set
 
 ###Icon licenses
+
+- [Dashicons](https://github.com/WordPress/dashicons/blob/master/gpl.txt): [GPL v3](https://www.gnu.org/licenses/gpl-3.0.en.html)
 - [Emoji one](http://emojione.com/licensing/): [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+- [Entypo](http://www.entypo.com/): [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 - [Font Awesome](http://fontawesome.io/license/): [SIL OFL 1.1](http://scripts.sil.org/OFL)
 - [Genericons](https://github.com/Automattic/genericons-neue/blob/master/LICENSE.md): [GPL v2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
 - [Gnome Icon Theme](https://github.com/GNOME/gnome-icon-theme-symbolic/blob/master/COPYING): [CC BY SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) 
-- [Humble UI](https://github.com/Xaviju/inkscape-open-symbols/wiki/Humble-UI): [MIT](https://opensource.org/licenses/MIT)
 - [Google Material Design Icons](https://github.com/google/material-design-icons/blob/master/LICENSE): [Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0) 
-- [Taiga Icons](https://github.com/taigaio/taiga-design/blob/master/LICENSE): [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+- [Humble UI](https://github.com/Xaviju/inkscape-open-symbols/wiki/Humble-UI): [MIT](https://opensource.org/licenses/MIT)
 - [Open Iconic](https://github.com/iconic/open-iconic/blob/master/ICON-LICENSE): [MIT](https://opensource.org/licenses/MIT)
-- [Entypo](http://www.entypo.com/): [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
-- [StateFace](https://propublica.github.io/stateface/): [MIT](https://opensource.org/licenses/MIT)
-- [Wheatherize](https://github.com/jlar0che): No license or website found.
-- [Dashicons](https://github.com/WordPress/dashicons/blob/master/gpl.txt): [GPL v3](https://www.gnu.org/licenses/gpl-3.0.en.html)
 - [SJJB Map Icons](http://www.sjjb.co.uk/mapicons/introduction): [CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/)
+- [StateFace](https://propublica.github.io/stateface/): [MIT](https://opensource.org/licenses/MIT)
+- [Taiga Icons](https://github.com/taigaio/taiga-design/blob/master/LICENSE): [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+- [Github Octicons](https://github.com/primer/octicons/blob/master/LICENSE) = [MIT](https://opensource.org/licenses/MIT)
+- [Ubuntu Suru](http://bazaar.launchpad.net/~ubuntu-art-pkg/ubuntu-themes/trunk/view/525/COPYING) = [GPL v3](https://www.gnu.org/licenses/gpl-3.0.en.html)
+- [Wheatherize](https://github.com/jlar0che): No license or website found.
 
 ## How do I install Inkscape Open Symbols?
 
