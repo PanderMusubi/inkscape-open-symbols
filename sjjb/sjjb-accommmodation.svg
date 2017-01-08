@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" version="1.1" style="fill:black;stroke:none">
-    <title>SJJB icons [Accommodation Set]</title>
+    <title>SJJB Map Icons [Accommodation Set]</title>
     <desc>These map icons are an attempt to create a simple consistent set of vector icons suitable for cartographic use.</desc>
     <metadata>
         <rdf:RDF>
             <cc:Work rdf:about="">
                 <dc:format>image/svg+xml</dc:format>
                 <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-                <dc:title>SJJB icons [Accommodation Set]</dc:title>
+                <dc:title>SJJB Map Icons [Accommodation Set]</dc:title>
                 <dc:date>2017-01-07</dc:date>
                 <dc:creator>
                     <cc:Agent>
