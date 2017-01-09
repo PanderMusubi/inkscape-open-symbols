@@ -24,11 +24,10 @@
         </dc:creator>
         <dc:rights>
           <cc:Agent>
-            <dc:title>Open source</dc:title>
+            <dc:title>Creative Commons Attribution 4.0 International License</dc:title>
           </cc:Agent>
         </dc:rights>
         <dc:language>English</dc:language>
-
         <dc:source></dc:source>
         <dc:description>An open source weather icon set made by Jacques Laroche</dc:description>
       </cc:Work>
