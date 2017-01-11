@@ -3,7 +3,7 @@
 
 """
     inkscapeSymbolGenerator: A inkscape symbol library generator
-    Copyright (C) 2015 Xavi Julián Olmos
+    Copyright (C) 2015 Xavier Julián Olmos
 
     See the file LICENSE for copying permission.
 """

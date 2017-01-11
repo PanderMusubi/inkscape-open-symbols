@@ -92,7 +92,7 @@ panel system/notification area, and possibly menu icons.
 * SJJB Map Icons **Transport** Set
 * SJJB Map Icons **Water** Set
 
-###Icon licenses
+###Symbol sets licenses
 
 - [Dashicons](https://github.com/WordPress/dashicons/blob/master/gpl.txt): [GPL v2+](https://www.gnu.org/licenses/gpl-2.0.en.html)
 - [Emoji one](http://emojione.com/licensing/): [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
@@ -109,6 +109,8 @@ panel system/notification area, and possibly menu icons.
 - [Github Octicons](https://github.com/primer/octicons/blob/master/LICENSE) = [MIT](https://opensource.org/licenses/MIT)
 - [Ubuntu Suru](http://bazaar.launchpad.net/~ubuntu-art-pkg/ubuntu-themes/trunk/view/525/COPYING) = [GPL v3+](https://www.gnu.org/licenses/gpl-3.0.en.html)
 - [Wheatherize](https://github.com/jlar0che): [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+
+**Note: This repository contains multiple symbol sets with their own licenses. Using them requires you to be aware that you are subject to the license of the used symbol set. All symbol set licenses are listed in the README file and in their own file metadata. The LICENSE file refers to everything unrelated to the symbol sets.**
 
 ## How do I install Inkscape Open Symbols?
 
