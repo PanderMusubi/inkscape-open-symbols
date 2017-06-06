@@ -1,12 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   version="1.1"
-   style="fill:black;stroke:none">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" version="1.1" style="fill:black;stroke:none">
   <title>Taiga</title>
   <metadata>
     <rdf:RDF>
@@ -64,8 +56,7 @@
     <symbol
        id="icon-lock"
        viewBox="0 0 1024 1024">
-      <title
-         id="title82688">lock</title>
+      <title>lock</title>
       <path
          class="path1"
          d="M427.571 0c-149.486 0-270.822 121.6-270.822 271.411v119.639h-156.749v632.95h1024v-632.96h-156.749v-119.642c0-149.811-121.349-271.411-270.822-271.411h-168.832zM427.571 64.136h168.832c115.141 0 206.838 91.889 206.838 207.276v119.639h-582.502v-119.639c0-115.384 91.692-207.276 206.83-207.276zM64 455.201h896v504.678h-896v-504.678zM480 586.721v229.325h64v-229.325h-64z"
@@ -74,8 +65,7 @@
     <symbol
        id="icon-promote"
        viewBox="0 0 1024 1024">
-      <title
-         id="title82693">promote</title>
+      <title>promote</title>
       <path
          class="path1"
          d="M0 0v1024h1024v-1024h-1024zM64 64h416v896h-416v-896zM544 64h416v252.16h-416v-252.16zM272.589 113.485l-186.163 186.163 44.524 44.524 109.64-109.645v681.83h64v-681.83l109.645 109.645 44.518-44.518-186.163-186.168zM544 380.16h416v273.92h-416v-273.92zM544 718.080h416v241.92h-416v-241.92z"
@@ -84,8 +74,7 @@
     <symbol
        id="icon-trash"
        viewBox="0 0 1024 1024">
-      <title
-         id="title82698">trash</title>
+      <title>trash</title>
       <path
          class="path1"
          d="M273.382 0v143.726h-273.382v64h119.77v816.282h780.8v-816.282h123.43v-64h-277.018v-143.726zM337.382 64h345.6v79.726h-345.6zM183.782 207.726h89.6v682.982h64v-682.982h140.8v682.982h64v-682.982h140.8v682.982h64v-682.982h89.6v752.282h-652.8z"
@@ -94,8 +83,7 @@
     <symbol
        id="icon-unlock"
        viewBox="0 0 1024 1024">
-      <title
-         id="title82703">unlock</title>
+      <title>unlock</title>
       <path
          class="path1"
          d="M427.571 0c-146.12 0-265.318 116.191-270.618 261.325h64.036c5.158-110.612 94.822-197.197 206.592-197.197h168.832c115.139 0 206.835 91.886 206.835 207.273v119.639h-803.249v632.947h1024v-632.96h-156.749v-119.642c0-149.806-121.352-271.411-270.822-271.411zM64 455.194h896v504.678h-896zM480 586.701v229.325h64v-229.325z"
@@ -104,8 +92,7 @@
     <symbol
        id="icon-client-requirement"
        viewBox="0 0 1024 1024">
-      <title
-         id="title82708">client-requirement</title>
+      <title>client-requirement</title>
       <path
          class="path1"
          d="M273.375 0v139.336h-274.289v611.84h452.388v-64h-388.388v-483.84h61.425v243.2h606.72v-243.2h61.455v247.224h64v-306.47h-0.036v-4.754h-263.278v-139.336h-320zM337.375 64h192v75.336h-192v-75.336zM188.511 203.336h478.72v179.2h-478.72v-179.2zM395.871 254.228v73.139h64v-73.134h-64zM512.914 512v512h512v-512h-512zM576.914 576h384v70.060l-37.179-31.345-189.765 225.075-127.219-107.256-29.837 35.387v-191.921zM960.914 669.901v290.099h-384v-168.909l164.731 138.885 219.269-260.076z"

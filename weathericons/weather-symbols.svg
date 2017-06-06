@@ -1,13 +1,4 @@
-<svg
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   width="612"
-   height="396"
-   viewBox="0 0 612 396"
-   version="1.1"
-   style="fill:black;stroke:none">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" version="1.1" style="fill:black;stroke:none">
    <title>Weather Symbols</title>
    <desc>A set of symbols for weather related events</desc>
   <metadata>
