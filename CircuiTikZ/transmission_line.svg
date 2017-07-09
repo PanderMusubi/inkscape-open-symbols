@@ -1,9 +1,0 @@
-<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="300" width="300" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 300 300">
- <title>CircuiTikZ</title>
- <g transform="translate(0 -752.36)">
-  <g transform="matrix(14.999 0 0 14.999 -677.73 -1194)">
-   <path style="stroke:#000;stroke-miterlimit:10;stroke-width:.14058;fill:none" d="m45.184 139.76h0.07028m-0.07028 0h4.4001m11.201 0h4.4001m-0.07028 0h0.07028"/>
-   <path style="stroke:#000;stroke-miterlimit:10;stroke-width:.28116;fill:none" d="m60.785 139.76c0 1.1589-0.5016 2.1001-1.1203 2.1001-0.61874 0-1.1203-0.94121-1.1203-2.1001 0-1.1603 0.50161-2.1001 1.1203-2.1001 0.61874 0 1.1203 0.93983 1.1203 2.1001zm-1.1203-2.1001h-8.96c-0.61874 0-1.1203 0.93983-1.1203 2.1001 0 1.1589 0.50161 2.1001 1.1203 2.1001h8.96"/>
-  </g>
- </g>
-</svg>
