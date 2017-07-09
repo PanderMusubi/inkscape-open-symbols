@@ -9,15 +9,17 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="300"
+   height="300"
+   viewBox="0 0 300 300"
+   id="svg93521"
    version="1.1"
-   id="svg7493"
-   inkscape:version="0.92.1 r15371"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="bandpass.svg">
+  <title
+     id="title183454">CircuiTikZ</title>
   <defs
-     id="defs7487" />
+     id="defs93523" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -25,67 +27,100 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="-131.42857"
-     inkscape:cy="560"
-     inkscape:document-units="mm"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="8.8056722"
+     inkscape:cy="178.40832"
+     inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
+     units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="986"
-     inkscape:window-x="-11"
-     inkscape:window-y="-11"
-     inkscape:window-maximized="1" />
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     showguides="false" />
   <metadata
-     id="metadata7490">
+     id="metadata93526">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title>CircuiTikZ</dc:title>
+        <cc:license
+           rdf:resource="http://artlibre.org/licence/lal" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>FDominec</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:source>https://commons.wikimedia.org/wiki/File:Electrical_symbols_library.svg</dc:source>
+        <dc:language>English</dc:language>
+        <dc:description>This list of electronic components is intended to make drawing of schematics simple, fast and very flexible, using common vector image editors.</dc:description>
       </cc:Work>
+      <cc:License
+         rdf:about="http://artlibre.org/licence/lal">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+      </cc:License>
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Layer 1"
+     inkscape:label="Capa 1"
      inkscape:groupmode="layer"
-     id="layer1">
-    <path
-       inkscape:connector-curvature="0"
-       id="path648"
-       d="m 58.791244,120.10645 h 0.07028 m -0.07028,0 h 5.100119 m 9.800608,0 h 5.100119 m -0.07028,0 h 0.07028"
-       style="fill:none;stroke:#000000;stroke-width:0.14058194;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path650"
-       d="m 63.891363,115.20753 h 9.800608 v 9.79923 h -9.800608 z m 0,0"
-       style="fill:none;stroke:#000000;stroke-width:0.28116387;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path652"
-       d="m 66.341514,117.6563 c 0.389985,-0.61185 0.778591,-1.2237 1.225077,-1.2237 0.447862,0 0.835092,0.61185 1.225075,1.2237 0.389985,0.61323 0.778594,1.22508 1.225077,1.22508 0.447862,0 0.835092,-0.61185 1.225077,-1.22508"
-       style="fill:none;stroke:#000000;stroke-width:0.14058194;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path654"
-       d="m 68.057171,118.39218 1.470368,-1.47037"
-       style="fill:none;stroke:#000000;stroke-width:0.14058194;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path656"
-       d="m 66.341514,120.10645 c 0.389985,-0.61184 0.778591,-1.22507 1.225077,-1.22507 0.447862,0 0.835092,0.61323 1.225075,1.22507 0.389985,0.61323 0.778594,1.22508 1.225077,1.22508 0.447862,0 0.835092,-0.61185 1.225077,-1.22508"
-       style="fill:none;stroke:#000000;stroke-width:0.14058194;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path658"
-       d="m 66.341514,122.5566 c 0.389985,-0.61184 0.778591,-1.22507 1.225077,-1.22507 0.447862,0 0.835092,0.61323 1.225075,1.22507 0.389985,0.61323 0.778594,1.22508 1.225077,1.22508 0.447862,0 0.835092,-0.61185 1.225077,-1.22508"
-       style="fill:none;stroke:#000000;stroke-width:0.14058194;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path660"
-       d="m 68.057171,123.29248 1.470368,-1.47037"
-       style="fill:none;stroke:#000000;stroke-width:0.14058194;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1" />
+     id="layer1"
+     transform="translate(0,-752.36216)">
+    <g
+       id="layer1-2"
+       inkscape:label="Layer 1"
+       transform="matrix(14.999366,0,0,14.999366,-881.83139,-899.16887)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.14058194;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+         d="m 58.791244,120.10645 0.07028,0 m -0.07028,0 5.100119,0 m 9.800608,0 5.100119,0 m -0.07028,0 0.07028,0"
+         id="path648"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.28116387;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+         d="m 63.891363,115.20753 9.800608,0 0,9.79923 -9.800608,0 z m 0,0"
+         id="path650"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.14058194;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+         d="m 66.341514,117.6563 c 0.389985,-0.61185 0.778591,-1.2237 1.225077,-1.2237 0.447862,0 0.835092,0.61185 1.225075,1.2237 0.389985,0.61323 0.778594,1.22508 1.225077,1.22508 0.447862,0 0.835092,-0.61185 1.225077,-1.22508"
+         id="path652"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.14058194;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+         d="m 68.057171,118.39218 1.470368,-1.47037"
+         id="path654"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.14058194;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+         d="m 66.341514,120.10645 c 0.389985,-0.61184 0.778591,-1.22507 1.225077,-1.22507 0.447862,0 0.835092,0.61323 1.225075,1.22507 0.389985,0.61323 0.778594,1.22508 1.225077,1.22508 0.447862,0 0.835092,-0.61185 1.225077,-1.22508"
+         id="path656"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.14058194;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+         d="m 66.341514,122.5566 c 0.389985,-0.61184 0.778591,-1.22507 1.225077,-1.22507 0.447862,0 0.835092,0.61323 1.225075,1.22507 0.389985,0.61323 0.778594,1.22508 1.225077,1.22508 0.447862,0 0.835092,-0.61185 1.225077,-1.22508"
+         id="path658"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.14058194;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+         d="m 68.057171,123.29248 1.470368,-1.47037"
+         id="path660"
+         inkscape:connector-curvature="0" />
+    </g>
   </g>
 </svg>

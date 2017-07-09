@@ -1,71 +1,10 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
-   version="1.1"
-   id="svg12826"
-   inkscape:version="0.92.1 r15371"
-   sodipodi:docname="controlled_sinusoidal.svg">
-  <defs
-     id="defs12820" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="-131.42857"
-     inkscape:cy="560"
-     inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
-     showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="986"
-     inkscape:window-x="-11"
-     inkscape:window-y="-11"
-     inkscape:window-maximized="1" />
-  <metadata
-     id="metadata12823">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1">
-    <path
-       inkscape:connector-curvature="0"
-       id="path3018"
-       d="m 42.160291,123.8869 h 0.07028 m -0.07028,0 h 5.100119 m 9.800608,0 h 5.100119 m -0.07028,0 h 0.07028"
-       style="fill:none;stroke:#000000;stroke-width:0.14058194;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path3020"
-       d="m 47.26041,123.8869 4.900303,-4.9003 4.900305,4.9003 -4.900305,4.90031 -4.900303,-4.90031"
-       style="fill:none;stroke:#000000;stroke-width:0.28116387;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path3022"
-       d="m 52.160713,126.33706 c -0.611848,-0.38999 -1.225074,-0.77722 -1.225074,-1.22508 0,-0.44649 0.613226,-0.83509 1.225074,-1.22508 0.61323,-0.38998 1.225077,-0.77721 1.225077,-1.22507 0,-0.44649 -0.611847,-0.83509 -1.225077,-1.22508"
-       style="fill:none;stroke:#000000;stroke-width:0.28116387;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1" />
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="300" width="300" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 300 300">
+ <title>CircuiTikZ</title>
+ <g transform="translate(0 -752.36)">
+  <g transform="matrix(14.999 0 0 14.999 -632.38 -955.86)">
+   <path style="stroke:#000;stroke-miterlimit:10;stroke-width:.14058;fill:none" d="m42.16 123.89h0.07028m-0.07028 0h5.1001m9.8006 0h5.1001m-0.07028 0h0.07028"/>
+   <path style="stroke:#000;stroke-miterlimit:10;stroke-width:.28116;fill:none" d="m47.26 123.89 4.9003-4.9003 4.9003 4.9003-4.9003 4.9003-4.9003-4.9003"/>
+   <path style="stroke:#000;stroke-miterlimit:10;stroke-width:.28116;fill:none" d="m52.161 126.34c-0.61185-0.38999-1.2251-0.77722-1.2251-1.2251 0-0.44649 0.61323-0.83509 1.2251-1.2251 0.61323-0.38998 1.2251-0.77721 1.2251-1.2251 0-0.44649-0.61185-0.83509-1.2251-1.2251"/>
   </g>
+ </g>
 </svg>

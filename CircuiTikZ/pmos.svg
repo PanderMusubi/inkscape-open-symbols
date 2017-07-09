@@ -1,81 +1,12 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
-   version="1.1"
-   id="svg6213"
-   inkscape:version="0.92.1 r15371"
-   sodipodi:docname="pmos.svg">
-  <defs
-     id="defs6207" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="-131.42857"
-     inkscape:cy="560"
-     inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
-     showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="986"
-     inkscape:window-x="-11"
-     inkscape:window-y="-11"
-     inkscape:window-maximized="1" />
-  <metadata
-     id="metadata6210">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1">
-    <path
-       inkscape:connector-curvature="0"
-       id="path297"
-       d="m 74.44723,132.7471 v 5.07531 h -4.898926"
-       style="fill:none;stroke:#000000;stroke-width:0.14058194;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path299"
-       d="m 69.548304,136.66762 v 7.70048 m -1.176846,-6.54569 v 5.39089"
-       style="fill:none;stroke:#000000;stroke-width:0.28116387;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path301"
-       d="m 69.548304,143.2133 h 4.898926 v 5.07532"
-       style="fill:none;stroke:#000000;stroke-width:0.14058194;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path303"
-       d="M 68.371458,140.51786 H 64.577717"
-       style="fill:none;stroke:#000000;stroke-width:0.14058194;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path305"
-       d="m 68.371458,140.51786 c 0,-0.30868 -0.250804,-0.55949 -0.559484,-0.55949 -0.308681,0 -0.559485,0.25081 -0.559485,0.55949 0,0.30868 0.250804,0.55948 0.559485,0.55948 0.30868,0 0.559484,-0.2508 0.559484,-0.55948 z m 0,0"
-       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.14058194;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1" />
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="300" width="300" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 300 300">
+ <title>CircuiTikZ</title>
+ <g transform="translate(0 -752.36)">
+  <g transform="matrix(19.303 0 0 19.303 -1192.5 -1810.1)">
+   <path style="stroke:#000;stroke-miterlimit:10;stroke-width:.14058;fill:none" d="m74.447 132.75v5.0753h-4.8989"/>
+   <path style="stroke:#000;stroke-miterlimit:10;stroke-width:.28116;fill:none" d="m69.548 136.67v7.7005m-1.1768-6.5457v5.3909"/>
+   <path style="stroke:#000;stroke-miterlimit:10;stroke-width:.14058;fill:none" d="m69.548 143.21h4.8989v5.0753"/>
+   <path style="stroke:#000;stroke-miterlimit:10;stroke-width:.14058;fill:none" d="m68.371 140.52h-3.7937"/>
+   <path style="stroke:#000;stroke-miterlimit:10;stroke-width:.14058" d="m68.371 140.52c0-0.30868-0.2508-0.55949-0.55948-0.55949s-0.55948 0.25081-0.55948 0.55949 0.2508 0.55948 0.55948 0.55948 0.55948-0.2508 0.55948-0.55948z"/>
   </g>
+ </g>
 </svg>

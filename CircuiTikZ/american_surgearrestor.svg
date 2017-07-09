@@ -1,101 +1,16 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
-   version="1.1"
-   id="svg10317"
-   inkscape:version="0.92.1 r15371"
-   sodipodi:docname="american_surgearrestor.svg">
-  <defs
-     id="defs10311" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="-131.42857"
-     inkscape:cy="560"
-     inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
-     showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="986"
-     inkscape:window-x="-11"
-     inkscape:window-y="-11"
-     inkscape:window-maximized="1" />
-  <metadata
-     id="metadata10314">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1">
-    <path
-       inkscape:connector-curvature="0"
-       id="path671"
-       d="m 52.743625,139.00664 h 0.07028 m -0.07028,0 h 5.800161 m 8.400521,0 h 5.800164 m -0.07028,0 h 0.07028"
-       style="fill:none;stroke:#000000;stroke-width:0.14058194;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path673"
-       d="m 58.543786,139.00664 v 0"
-       style="fill:none;stroke:#000000;stroke-width:0.14058194;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path675"
-       d="m 66.524008,139.00664 c 0,-2.08773 -1.692233,-3.78133 -3.779961,-3.78133 -2.087726,0 -3.779958,1.6936 -3.779958,3.78133 0,2.08635 1.692232,3.77996 3.779958,3.77996 2.087728,0 3.779961,-1.69361 3.779961,-3.77996 z m 0,0"
-       style="fill:none;stroke:#000000;stroke-width:0.28116387;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path677"
-       d="m 66.944307,139.00664 v 0"
-       style="fill:none;stroke:#000000;stroke-width:0.14058194;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path679"
-       d="M 66.944307,139.00664 H 64.638851"
-       style="fill:none;stroke:#000000;stroke-width:0.14058194;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path681"
-       d="m 63.373811,139.00664 c 0.374827,0.0703 0.983919,0.28112 1.406977,0.52641 v -1.0542 c -0.423058,0.24529 -1.03215,0.45613 -1.406977,0.52779"
-       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path683"
-       d="m 58.543786,139.00664 h 2.305459"
-       style="fill:none;stroke:#000000;stroke-width:0.14058194;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path685"
-       d="m 62.114285,139.00664 c -0.374826,-0.0717 -0.983918,-0.2825 -1.405601,-0.52779 v 1.0542 c 0.421683,-0.24529 1.030775,-0.45613 1.405601,-0.52641"
-       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path687"
-       d="m 61.273682,140.89593 c 0,0.23151 0.18879,0.4203 0.4203,0.4203 0.23289,0 0.420303,-0.18879 0.420303,-0.4203 0,-0.23151 -0.187413,-0.4203 -0.420303,-0.4203 -0.23151,0 -0.4203,0.18879 -0.4203,0.4203 z m 0,0"
-       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778" />
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="300" width="300" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 300 300">
+ <title>CircuiTikZ</title>
+ <g transform="translate(0 -752.36)">
+  <g transform="matrix(14.999 0 0 14.999 -791.12 -1182.6)">
+   <path style="stroke:#000;stroke-miterlimit:10;stroke-width:.14058;fill:none" d="m52.744 139.01h0.07028m-0.07028 0h5.8002m8.4005 0h5.8002m-0.07028 0h0.07028"/>
+   <path style="stroke:#000;stroke-miterlimit:10;stroke-width:.14058;fill:none" d="m58.544 139.01"/>
+   <path style="stroke:#000;stroke-miterlimit:10;stroke-width:.28116;fill:none" d="m66.524 139.01c0-2.0877-1.6922-3.7813-3.78-3.7813-2.0877 0-3.78 1.6936-3.78 3.7813 0 2.0864 1.6922 3.78 3.78 3.78 2.0877 0 3.78-1.6936 3.78-3.78z"/>
+   <path style="stroke:#000;stroke-miterlimit:10;stroke-width:.14058;fill:none" d="m66.944 139.01"/>
+   <path style="stroke:#000;stroke-miterlimit:10;stroke-width:.14058;fill:none" d="m66.944 139.01h-2.3055"/>
+   <path d="m63.374 139.01c0.37483 0.0703 0.98392 0.28112 1.407 0.52641v-1.0542c-0.42306 0.24529-1.0322 0.45613-1.407 0.52779"/>
+   <path style="stroke:#000;stroke-miterlimit:10;stroke-width:.14058;fill:none" d="m58.544 139.01h2.3055"/>
+   <path d="m62.114 139.01c-0.37483-0.0717-0.98392-0.2825-1.4056-0.52779v1.0542c0.42168-0.24529 1.0308-0.45613 1.4056-0.52641"/>
+   <path d="m61.274 140.9c0 0.23151 0.18879 0.4203 0.4203 0.4203 0.23289 0 0.4203-0.18879 0.4203-0.4203s-0.18741-0.4203-0.4203-0.4203c-0.23151 0-0.4203 0.18879-0.4203 0.4203z"/>
   </g>
+ </g>
 </svg>

@@ -1,91 +1,14 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
-   version="1.1"
-   id="svg6650"
-   inkscape:version="0.92.1 r15371"
-   sodipodi:docname="full_photodiode.svg">
-  <defs
-     id="defs6644" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="-94.285714"
-     inkscape:cy="560"
-     inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
-     showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="986"
-     inkscape:window-x="-11"
-     inkscape:window-y="-11"
-     inkscape:window-maximized="1" />
-  <metadata
-     id="metadata6647">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1">
-    <path
-       inkscape:connector-curvature="0"
-       id="path165"
-       d="m 61.815053,106.63333 h 0.07028 m -0.07028,0 h 7.200248 m 5.600347,0 h 7.200251 m -0.07028,0 h 0.07028"
-       style="fill:none;stroke:#000000;stroke-width:0.14058194;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path167"
-       d="m 74.615648,106.63333 -5.600347,-3.50022 v 7.00044 l 5.600347,-3.50022"
-       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.28116387;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path169"
-       d="m 74.615648,110.13355 v -7.00044"
-       style="fill:none;stroke:#000000;stroke-width:0.28116387;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path171"
-       d="m 71.225676,102.47165 2.269628,-2.838757"
-       style="fill:none;stroke:#000000;stroke-width:0.14058194;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path173"
-       d="m 70.69513,103.13311 c 0.276987,-0.23151 0.784105,-0.63941 1.296733,-0.7717 -0.523652,0.0331 -0.744138,-0.14332 -0.826822,-0.66146 -0.01655,0.52917 -0.303167,1.11346 -0.469911,1.43316 z m 0,0"
-       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path175"
-       d="m 72.905505,103.1717 2.269628,-2.83876"
-       style="fill:none;stroke:#000000;stroke-width:0.14058194;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path177"
-       d="m 72.376338,103.83315 c 0.275608,-0.23151 0.782726,-0.63941 1.295355,-0.7717 -0.523653,0.0331 -0.744139,-0.14331 -0.826824,-0.66146 -0.01654,0.52917 -0.303166,1.11346 -0.468531,1.43316 z m 0,0"
-       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778" />
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="300" width="300" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 300 300">
+ <title>CircuiTikZ</title>
+ <g transform="translate(0 -752.36)">
+  <g transform="matrix(14.999 0 0 14.999 -927.19 -672.39)">
+   <path style="stroke:#000;stroke-miterlimit:10;stroke-width:.14058;fill:none" d="m61.815 106.63h0.07028m-0.07028 0h7.2002m5.6003 0h7.2003m-0.07028 0h0.07028"/>
+   <path style="stroke:#000;stroke-miterlimit:10;stroke-width:.28116" d="m74.616 106.63-5.6003-3.5002v7.0004l5.6003-3.5002"/>
+   <path style="stroke:#000;stroke-miterlimit:10;stroke-width:.28116;fill:none" d="m74.616 110.13v-7.0004"/>
+   <path style="stroke:#000;stroke-miterlimit:10;stroke-width:.14058;fill:none" d="m71.226 102.47 2.2696-2.8388"/>
+   <path d="m70.695 103.13c0.27699-0.23151 0.7841-0.63941 1.2967-0.7717-0.52365 0.0331-0.74414-0.14332-0.82682-0.66146-0.01655 0.52917-0.30317 1.1135-0.46991 1.4332z"/>
+   <path style="stroke:#000;stroke-miterlimit:10;stroke-width:.14058;fill:none" d="m72.906 103.17 2.2696-2.8388"/>
+   <path d="m72.376 103.83c0.27561-0.23151 0.78273-0.63941 1.2954-0.7717-0.52365 0.0331-0.74414-0.14331-0.82682-0.66146-0.01654 0.52917-0.30317 1.1135-0.46853 1.4332z"/>
   </g>
+ </g>
 </svg>

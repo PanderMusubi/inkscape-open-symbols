@@ -1,66 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
-   version="1.1"
-   id="svg8224"
-   inkscape:version="0.92.1 r15371"
-   sodipodi:docname="american_nor.svg">
-  <defs
-     id="defs8218" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="-131.42857"
-     inkscape:cy="560"
-     inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
-     showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="986"
-     inkscape:window-x="-11"
-     inkscape:window-y="-11"
-     inkscape:window-maximized="1" />
-  <metadata
-     id="metadata8221">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1">
-    <path
-       inkscape:connector-curvature="0"
-       id="path546"
-       d="m 40.680474,114.28316 h 4.236089 m -4.236089,5.60035 h 4.236089 m 11.164867,-2.80018 h -2.31097"
-       style="fill:none;stroke:#000000;stroke-width:0.14058194;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path548"
-       d="m 42.991444,111.48299 c 0.768946,0 2.309594,2.80017 2.309594,5.60034 0,2.80018 -1.540648,5.60035 -2.309594,5.60035 5.389506,0 9.624219,-2.80017 9.624219,-5.60035 0,-2.80017 -4.234713,-5.60034 -9.624219,-5.60034 m 10.779016,5.60034 c 0,-0.31832 -0.257694,-0.5774 -0.577399,-0.5774 -0.318325,0 -0.577398,0.25908 -0.577398,0.5774 0,0.31971 0.259073,0.5774 0.577398,0.5774 0.319705,0 0.577399,-0.25769 0.577399,-0.5774 z m 0,0"
-       style="fill:none;stroke:#000000;stroke-width:0.28116387;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1" />
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="300" width="300" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 300 300">
+ <title>CircuiTikZ</title>
+ <g transform="translate(0 -752.36)">
+  <g transform="matrix(19.479 0 0 19.479 -792.43 -1378.3)">
+   <path style="stroke:#000;stroke-miterlimit:10;stroke-width:.14058;fill:none" d="m40.68 114.28h4.2361m-4.2361 5.6004h4.2361m11.165-2.8002h-2.311"/>
+   <path style="stroke:#000;stroke-miterlimit:10;stroke-width:.28116;fill:none" d="m42.991 111.48c0.76895 0 2.3096 2.8002 2.3096 5.6003 0 2.8002-1.5406 5.6004-2.3096 5.6004 5.3895 0 9.6242-2.8002 9.6242-5.6004s-4.2347-5.6003-9.6242-5.6003m10.779 5.6003c0-0.31832-0.25769-0.5774-0.5774-0.5774-0.31832 0-0.5774 0.25908-0.5774 0.5774 0 0.31971 0.25907 0.5774 0.5774 0.5774 0.3197 0 0.5774-0.25769 0.5774-0.5774z"/>
   </g>
+ </g>
 </svg>
