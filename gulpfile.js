@@ -25,6 +25,7 @@ gulp.task('sprites', function () {
             $('[stroke-linejoin]').removeAttr('stroke-linejoin');
             $('[height]').removeAttr('height');
             $('[width]').removeAttr('width');
+            $('[style]').removeAttr('style');
         },
         parserOptions: { xmlMode: true }
     }))

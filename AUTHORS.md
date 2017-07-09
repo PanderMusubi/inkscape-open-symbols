@@ -11,3 +11,4 @@
 - [elhombretecla](https://github.com/elhombretecla) <soy@elhombretecla.com>
 - [cleversomeday](https://github.com/cleversomeday)
 - [Maren Hachmann](https://github.com/moini) <http://vektorrascheln.de>
+- [Joel Jose](https://github.com/joel-jose) <http://www.ee.iitb.ac.in/student/~joeljose>
