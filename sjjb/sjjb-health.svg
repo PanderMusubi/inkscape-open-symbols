@@ -1,4 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" version="1.1" style="fill:black;stroke:none">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg 
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:ns2="http://creativecommons.org/ns#" 
+    xmlns:dc="http://purl.org/dc/elements/1.1/" 
+    xmlns:cc="http://creativecommons.org/ns#"         
+    xmlns:xlink="http://www.w3.org/1999/xlink" 
+    version="1.1"
+    id="svg2"
+    style="fill:black;stroke:none">
     <title>SJJB Map Icons [Health Set]</title>
     <desc>These map icons are an attempt to create a simple consistent set of vector icons suitable for cartographic use.</desc>
     <metadata>
