@@ -1,4 +1,5 @@
 # Inkscape Open Symbols
+
 **Symbol libraries are sets of SVG symbols located in one SVG document.** For the more technical audience, Inkscape searches for any valid SVG file with symbols (```<symbol>``` element) in your system configuration directory (typically ```share/inkscape```)
 
 ## Why use Inkscape Open Symbols?
@@ -94,7 +95,7 @@ panel system/notification area, and possibly menu icons.
 * SJJB Map Icons **Transport** Set
 * SJJB Map Icons **Water** Set
 
-###Symbol sets licenses
+## Symbol sets licenses
 
 - [Dashicons](https://github.com/WordPress/dashicons/blob/master/gpl.txt): [GPL v2+](https://www.gnu.org/licenses/gpl-2.0.en.html)
 - [Emoji one](http://emojione.com/licensing/): [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
@@ -117,6 +118,9 @@ panel system/notification area, and possibly menu icons.
 
 ## How do I install Inkscape Open Symbols?
 
+In [Ubuntu](https://packages.ubuntu.com/search?keywords=inkscape-open-symbols) and [Debian](https://packages.debian.org/search?keywords=inkscape-open-symbols), it is possible to easily install Inkscape Open Symbols with a package manager of your choice. Simply typing `sudo apt-get install inkscape-open-symbols` in a shell will install it for all users.
+
+For other platform or distributions:
 1. Grab the icon libraries you need by **cloning the repo** or **downloading the ZIP**. You can also save the SVG files to your system directly from github.
 2. Copy the individual SVG files into your Inkscape config folder under the ```symbols``` folder. If it's not there, create it.
   - For OS X and Linux, the local user directory is `~/.config/inkscape/symbols`.
@@ -133,10 +137,12 @@ Available in Arch Linux and derivated through AUR: https://aur.archlinux.org/pac
 Please fill out an issue and provide a SVG reference. If available and well created, it will be fast to generate.
 
 ## Why not do it from the UI?
+
 It is perfectly fine to use the Inkscape UI for library development, but they won't be as useful for developers as when they are well generated, minimized and packed for use in production development in some cases.
 **Some icons need to be SVG processed in order to be fully useful for both for designers and developers.**
 
 **If you don't need to use it for web development you can watch this cool UI creation video**: [Creating symbol libraries in Inkscape](https://www.youtube.com/watch?v=jdaGB0zCdHw)
 
 ## How can I contribute?
+
 Check the [CONTRIBUTING](https://github.com/Xaviju/inkscape-open-symbols/blob/master/CONTRIBUTING.md) guide. :D
