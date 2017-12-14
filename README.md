@@ -49,7 +49,11 @@ Suru is the icon theme of Ubuntu for phones and tablets. Thanks to [mivoligo](ht
 * Ubuntu Suru **Status** Set
 
 **[Font Awesome Icons](http://fortawesome.github.io/Font-Awesome/icons/)**
-Font Awesome gives you scalable vector icons that can instantly be customized. With the collaboration of [elhombretecla](https://github.com/elhombretecla) for converting them to inkscape symbols.
+Font Awesome is a full suite of 675 pictographic icons for easy scalable vector graphics on websites, created and maintained by Dave Gandy.
+
+* Font Awesome **Brands** Set
+* Font Awesome **Solid** Set
+* Font Awesome **Regular** Set
 
 **[Gnome Icon Theme Symbolic](https://git.gnome.org//browse/gnome-icon-theme-symbolic/)**
 This set contains a set of icons used by the GNOME desktop. The icons are used in the panel menu, and in nautilus and other applications, to represent the different applications, files, directories, and devices.
