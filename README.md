@@ -28,6 +28,7 @@ The included symbols libraries so far are:
 * Google Material Design **Maps** Set
 * Google Material Design **Navigation** Set
 * Google Material Design **Notification** Set
+* Google Material Design **Places** Set
 * Google Material Design **Social** Set
 * Google Material Design **Toggle** Set
 
