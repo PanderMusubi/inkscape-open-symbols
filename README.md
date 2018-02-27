@@ -85,7 +85,7 @@ This set contains a set of icons used by the GNOME desktop. The icons are used i
 
 **[Dashicons](https://github.com/WordPress/dashicons)** Dashicons, the WordPress admin icon font.
 
-**[CircuiTikZ](https://upload.wikimedia.org/wikipedia/commons/6/6a/Electrical_symbols_library.svg)** This list of electronic components is intended to make drawing of schematics simple, fast and very flexible, using common vector image editors.
+**[CircuiTikZ](https://github.com/circuitikz/circuitikz/)** This list of electronic components is intended to make drawing of schematics simple, fast and very flexible, using common vector image editors.
 
 **[SJJB Map Icons](http://www.sjjb.co.uk/mapicons/)** by SJBB Management, a simple consistent set of vector icons suitable for cartographic use, created specifically to be used by Open Street Map. All icons are available in a square and in an inverted version.
 * SJJB Map Icons **Accomodation** Set
@@ -122,7 +122,7 @@ This set contains a set of icons used by the GNOME desktop. The icons are used i
 - [Github Octicons](https://github.com/primer/octicons/blob/master/LICENSE) = [MIT](https://opensource.org/licenses/MIT)
 - [Ubuntu Suru](http://bazaar.launchpad.net/~ubuntu-art-pkg/ubuntu-themes/trunk/view/525/COPYING) = [GPL v3+](https://www.gnu.org/licenses/gpl-3.0.en.html)
 - [Wheatherize](https://github.com/jlar0che): [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
-- [CircuiTikZ](https://upload.wikimedia.org/wikipedia/commons/6/6a/Electrical_symbols_library.svg) [Public Domain](https://creativecommons.org/licenses/publicdomain/)
+- [CircuiTikZ](https://github.com/circuitikz/circuitikz/blob/master/gpl-3.0_license.txt) [GPL v3+](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
 **Note: This repository contains multiple symbol sets with their own licenses. Using them requires you to be aware that you are subject to the license of the used symbol set. All symbol set licenses are listed in the README file and in their own file metadata. The LICENSE file refers to everything unrelated to the symbol sets.**
 
