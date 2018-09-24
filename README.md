@@ -137,9 +137,7 @@ For other platform or distributions:
 1. Grab the icon libraries you need by **cloning the repo** or **downloading the ZIP**. You can also save the SVG files to your system directly from github.
 2. Copy the individual SVG files into your Inkscape config folder under the ```symbols``` folder. If it's not there, create it.
   - For OS X and Linux, the local user directory is `~/.config/inkscape/symbols`.
-  - For Windows, the directory is:
-    - `%PROGRAMFILES%\Inkscape\share\symbols`. (64 bits)
-	- `%PROGRAMFILES(x86)%\Inkscape\share\symbols`. (32 bits)
+  - For Windows, the local user roaming directory is `%APPDATA%\inkscape\symbols`.
 3. Launch Inkscape (close it first if it's already running).
 4. Open Symbols from ```Object > symbols``` or press ```Ctrl+Shift+Y```. You should see all icon sets in the "Symbol set" dropdown.
 
