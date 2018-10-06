@@ -90,7 +90,7 @@ This set contains a set of icons used by the GNOME desktop. The icons are used i
 **[Ionicons](http://ionicons.com/)** The premium icon font for Ionic Framework.
 
 **[SJJB Map Icons](http://www.sjjb.co.uk/mapicons/)** by SJBB Management, a simple consistent set of vector icons suitable for cartographic use, created specifically to be used by Open Street Map. All icons are available in a square and in an inverted version.
-* SJJB Map Icons **Accomodation** Set
+* SJJB Map Icons **Accommodation** Set
 * SJJB Map Icons **Amenity** Set
 * SJJB Map Icons **Barrier** Set
 * SJJB Map Icons **Education** Set
