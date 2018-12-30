@@ -10,13 +10,14 @@
     version="1.1"
     id="svg2"
     style="fill:black;stroke:none">
-    <title id="title179986">Suru icons [Status set]</title>
+    <title id="title179986">Suru Icons [Status Set]</title>
+    <desc>Status set of Suru, the icon theme of Ubuntu for phones and tablets</desc>
     <metadata>
         <rdf:RDF>
             <cc:Work rdf:about="">
                 <dc:format>image/svg+xml</dc:format>
                 <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-                <dc:title>Suru Icons</dc:title>
+                <dc:title>Suru Icons [Status Set]</dc:title>
                 <dc:date>2015-10-05</dc:date>
                 <dc:creator>
                     <cc:Agent>
@@ -4017,7 +4018,7 @@
             <cc:Work rdf:about="">
                 <dc:format>image/svg+xml</dc:format>
                 <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-                <dc:title>Suru icons [Status set]</dc:title>
+                <dc:title>Suru Icons [Status Set]</dc:title>
             </cc:Work>
         </rdf:RDF>
     </metadata>

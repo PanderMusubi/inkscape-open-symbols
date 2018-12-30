@@ -75,7 +75,7 @@ This set contains a set of icons used by the GNOME desktop. The icons are used i
 **[Open Iconic](https://github.com/iconic/open-iconic)** An open source icon set with 223 marks in SVG, webfont and raster formats
 
 **[Entypo](http://www.entypo.com/)** 411 carefully crafted premium pictograms by [Daniel Bruce](http://www.danielbruce.se/)
-* Entypo Internet Icons ported from [Entypo's Social Extension SVG Set](http://www.entypo.com/) by [Jacques Laroche](http://currentperspectives.org/about/).
+* Entypo Icons **Social** Set, icons ported from [Entypo's Social Extension SVG Set](http://www.entypo.com/) by [Jacques Laroche](http://currentperspectives.org/about/).
 
 **Weatherize** A set of symbols for weather related events made by **[Jacques Laroche](http://currentperspectives.org/about/)**.
 

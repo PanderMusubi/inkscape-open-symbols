@@ -10,13 +10,14 @@
     version="1.1"
     id="svg2"
     style="fill:black;stroke:none">
-    <title id="title8998">Suru icons [Mimetypes set]</title>
+    <title id="title8998">Suru Icons [Mimetypes Set]</title>
+    <desc>Mimetypes set of Suru, the icon theme of Ubuntu for phones and tablets</desc>
     <metadata>
         <rdf:RDF>
             <cc:Work rdf:about="">
                 <dc:format>image/svg+xml</dc:format>
                 <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-                <dc:title>Suru Icons</dc:title>
+                <dc:title>Suru Icons [Mimetypes Set]</dc:title>
                 <dc:date>2015-10-05</dc:date>
                 <dc:creator>
                     <cc:Agent>
@@ -419,7 +420,7 @@
             <cc:Work rdf:about="">
                 <dc:format>image/svg+xml</dc:format>
                 <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-                <dc:title>Suru icons [Mimetypes set]</dc:title>
+                <dc:title>Suru Icons [Mimetypes Set]</dc:title>
             </cc:Work>
         </rdf:RDF>
     </metadata>
