@@ -40,8 +40,8 @@ GitHub's icon font
 **[Humble UI](https://github.com/Xaviju/inkscape-open-symbols/wiki/Humble-UI)**
 A simple UX UI elements for your wireframes created by [Xaviju](https://github.com/Xaviju)
 
-**[Ubuntu Suru Icon Set](http://discourse.ubuntu.com/t/suru-icon-theme-for-desktop/1813)**
-Suru is the icon theme of Ubuntu for phones and tablets. Thanks to [mivoligo](https://github.com/mivoligo) for converting them to inkscape symbols.
+**[Suru Icon Set](https://snwh.org/suru)**
+Suru is the icon theme originally created for Ubuntu phones and tablets. Thanks to [mivoligo](https://github.com/mivoligo) for converting them to inkscape symbols.
 
 * Ubuntu Suru **Actions** Set
 * Ubuntu Suru **Apps** Set
@@ -122,7 +122,7 @@ This set contains a set of icons used by the GNOME desktop. The icons are used i
 - [StateFace](https://propublica.github.io/stateface/): [MIT](https://opensource.org/licenses/MIT)
 - [Taiga Icons](https://github.com/taigaio/taiga-design/blob/master/LICENSE): [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 - [Github Octicons](https://github.com/primer/octicons/blob/master/LICENSE) = [MIT](https://opensource.org/licenses/MIT)
-- [Ubuntu Suru](http://bazaar.launchpad.net/~ubuntu-art-pkg/ubuntu-themes/trunk/view/525/COPYING) = [GPL v3+](https://www.gnu.org/licenses/gpl-3.0.en.html)
+- [Suru](https://github.com/snwh/suru-icon-theme/blob/master/COPYING) = [GPL v3+](https://www.gnu.org/licenses/gpl-3.0.en.html)
 - [Wheatherize](https://github.com/jlar0che): [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 - [CircuiTikZ](https://github.com/circuitikz/circuitikz/blob/master/gpl-3.0_license.txt) [GPL v3+](https://www.gnu.org/licenses/gpl-3.0.en.html)
 - [Ionicons](https://github.com/ionic-team/ionicons/blob/master/LICENSE) [MIT](https://opensource.org/licenses/MIT)
