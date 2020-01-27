@@ -4,7 +4,7 @@ New symbol sets and fixes to current symbol sets are essential for keeping Inksc
 ## License
 This repository contains multiple symbol sets with their own licenses. Using them requires you to be aware that you are subject to the license of the used symbol set. All symbol set licenses are listed in the README file and in their own file metadata. The LICENSE file refers to everything unrelated to the symbol sets.
 
-##Getting Started
+## Getting Started
 To create a new symbol set is not required any advanced technical knowledge, although knowledge of basic gulp, npm and SVG will be very useful.
 
 Please ensure that you have already installed:
@@ -12,7 +12,7 @@ Please ensure that you have already installed:
 - [svgo](https://github.com/svg/svgo) _optional, but highly recommended_
 - [Inkscape](https://inkscape.org/) _yes,of course_
 
-##New iconset
+## New iconset
 
 1. Create a new folder ```<nameofyoursymbols>``` and add all the SVGs that you want to turn into a new symbol set.
 2. Execute ```npm install``` to install the required libraries
@@ -27,7 +27,7 @@ Please ensure that you have already installed:
 
 A new symbol library should look like [this](https://github.com/Xaviju/inkscape-open-symbols/blob/master/dashicons/dashicons-set.svg)
 
-##Testing the iconset.
+## Testing the iconset
 Testing the iconset is as important as creating it.
 
 1. Copy your new symbol set file into ```~/.config/inkscape/symbols```
@@ -35,10 +35,9 @@ Testing the iconset is as important as creating it.
 3. Unfold the symbol selector. Ensure that your new iconset is in the list and has a recognizable name.
 4. Click and review the icons. Ensure that are not broken.
 
-
-##Fixing broken icons.
+## Fixing broken icons
 SVGO can break many symbols, but cleans most of them very well. If some of your symbols are broken while testing, check which one is and try clening it manually using [SVGOMG](https://jakearchibald.github.io/svgomg/).
 Then, copy the code into your file replacing the previous code and retest the symbol set.
 
-##Pull Requests
+## Pull Requests
 A pull request is the best way to contribute. Your symbol set will always include your name as contributor and you will help designers around the world to wireframe, design or create amazing user experiences.
