@@ -2,14 +2,13 @@
 # -*- coding: utf-8 -*-
 
 """
-    inkscapeSymbolGenerator: A inkscape symbol library generator
+    inkscapeSymbolGenerator: An Inkscape symbol library generator
     Copyright (C) 2015 Xavier Julián Olmos
 
     See the file LICENSE for copying permission.
 """
 
-import sys, os
-import logging
+import os
 from optparse import OptionParser
 
 ####Objetivo

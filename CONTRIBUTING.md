@@ -36,7 +36,7 @@ Testing the iconset is as important as creating it.
 4. Click and review the icons. Ensure that are not broken.
 
 ## Fixing broken icons
-SVGO can break many symbols, but cleans most of them very well. If some of your symbols are broken while testing, check which one is and try clening it manually using [SVGOMG](https://jakearchibald.github.io/svgomg/).
+SVGO can break many symbols, but cleans most of them very well. If some of your symbols are broken while testing, check which one is and try cleaning it manually using [SVGOMG](https://jakearchibald.github.io/svgomg/).
 Then, copy the code into your file replacing the previous code and retest the symbol set.
 
 ## Pull Requests
