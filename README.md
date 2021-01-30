@@ -134,14 +134,14 @@ This set contains a set of icons used by the GNOME desktop. The icons are used i
 In [Ubuntu](https://packages.ubuntu.com/search?keywords=inkscape-open-symbols) and [Debian](https://packages.debian.org/search?keywords=inkscape-open-symbols), it is possible to easily install Inkscape Open Symbols with a package manager of your choice. Simply typing `sudo apt-get install inkscape-open-symbols` in a shell will install it for all users.
 
 For other platform or distributions:
-1. Grab the icon libraries you need by **cloning the repo** or **downloading the ZIP**. You can also save the SVG files to your system directly from github.
+1. Grab the icon libraries you need by **cloning the repo** or **downloading the ZIP**. You can also save the SVG files to your system directly from GitHub.
 2. Copy the individual SVG files into your Inkscape config folder under the ```symbols``` folder. If it's not there, create it.
   - For OS X and Linux, the local user directory is `~/.config/inkscape/symbols`.
   - For Windows, the local user roaming directory is `%APPDATA%\inkscape\symbols`.
 3. Launch Inkscape (close it first if it's already running).
 4. Open Symbols from ```Object > symbols``` or press ```Ctrl+Shift+Y```. You should see all icon sets in the "Symbol set" dropdown.
 
-Available in Arch Linux and derivated through AUR: https://aur.archlinux.org/packages/inkscape-open-symbols-git/
+Available in Arch Linux and distributed through AUR: https://aur.archlinux.org/packages/inkscape-open-symbols-git/
 
 ## How can I request new symbols?
 
