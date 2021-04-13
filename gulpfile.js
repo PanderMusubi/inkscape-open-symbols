@@ -11,7 +11,7 @@ if (util.env.dest && util.env.iconset ) {
     throw err;
 }
 
-gulp.task('sprites', function () {
+function sprites () {
   return gulp.src('**/' + util.env.iconset + '/*.svg')
     .pipe(cheerio({
         run: function ($) {
@@ -34,6 +34,6 @@ gulp.task('sprites', function () {
     }))
     // .pipe(rename(util.env.iconset + '-symbols.svg'))
     .pipe(gulp.dest(dist));
-});
+}
 
-gulp.task('default', ['sprites']);
+gulp.task('default', gulp.series(sprites));
