@@ -1,6 +1,8 @@
 #!/bin/bash
 
 # Preparations are:
+# sudo apt-get install npm gulp
+# sudo npm install -g npm
 # sudo npm -g install svgo
 # npm install
 
