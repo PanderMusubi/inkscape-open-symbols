@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# Preparations are:
+# sudo npm -g install svgo
+# npm install
+
 set -e
 
 if [ ! -e tmp ]; then
