@@ -1,4 +1,5 @@
 #!/bin/bash
+set -e
 
 # Preparations are:
 # sudo apt-get install npm gulp
@@ -6,18 +7,8 @@
 # sudo npm -g install svgo
 # npm install
 
-set -e
-
-if [ ! -e tmp ]; then
-    mkdir tmp
-fi
-cd tmp
-rm -rf material-design \
-material-design-outlined \
-material-design-round \
-material-design-sharp \
-material-design-twotone
-
+DIRECTORIES='material-design material-design-outlined material-design-round material-design-sharp material-design-twotone'
+rm -rf $DIRECTORIES
 if [ -e material-design-icons ]; then
     cd material-design-icons
     git pull -r
@@ -25,29 +16,29 @@ else
     git clone https://github.com/google/material-design-icons.git
     cd material-design-icons
 fi
+cd src
 
-cd src/
-for i in *; do # category
-    echo $i
-    cd $i
-    for j in *; do # icon
-        echo \ \ $j
-        cd $j
-        for k in *; do # style
-            if [ $k = materialicons ]; then
-                cd $k
-                mkdir -p ../../../../../material-design/material-design-$i
+for CATEGORY in *; do
+    echo $CATEGORY
+    cd $CATEGORY
+    for ICON in *; do
+        echo \ \ $ICON
+        cd $ICON
+        for STYLE in *; do
+            if [ $STYLE = materialicons ]; then
+                cd $STYLE
+                mkdir -p ../../../../../material-design/material-design-$CATEGORY
                 if [ -e 36px.svg ]; then # resolution
-                    cp 36px.svg ../../../../../material-design/material-design-$i/$j.svg
+                    cp 36px.svg ../../../../../material-design/material-design-$CATEGORY/$ICON.svg
                 else
                     if [ -e 24px.svg ]; then
-                        cp 24px.svg ../../../../../material-design/material-design-$i/$j.svg
+                        cp 24px.svg ../../../../../material-design/material-design-$CATEGORY/$ICON.svg
                     else
                         if [ -e 20px.svg ]; then
-                            cp 20px.svg ../../../../../material-design/material-design-$i/$j.svg
+                            cp 20px.svg ../../../../../material-design/material-design-$CATEGORY/$ICON.svg
                         else
                             if [ -e 18px.svg ]; then
-                                cp 18px.svg ../../../../../material-design/material-design-$i/$j.svg
+                                cp 18px.svg ../../../../../material-design/material-design-$CATEGORY/$ICON.svg
                             else
                                 echo ERROR: Unsupported resolution
                                 pwd
@@ -59,20 +50,20 @@ for i in *; do # category
                 fi
                 cd ..
             fi
-            if [ $k = materialiconsoutlined ]; then
-                cd $k
-                mkdir -p ../../../../../material-design-outlined/material-design-outlined-$i
+            if [ $STYLE = materialiconsoutlined ]; then
+                cd $STYLE
+                mkdir -p ../../../../../material-design-outlined/material-design-outlined-$CATEGORY
                 if [ -e 36px.svg ]; then # resolution
-                    cp 36px.svg ../../../../../material-design-outlined/material-design-outlined-$i/$j.svg
+                    cp 36px.svg ../../../../../material-design-outlined/material-design-outlined-$CATEGORY/$ICON.svg
                 else
                     if [ -e 24px.svg ]; then
-                        cp 24px.svg ../../../../../material-design-outlined/material-design-outlined-$i/$j.svg
+                        cp 24px.svg ../../../../../material-design-outlined/material-design-outlined-$CATEGORY/$ICON.svg
                     else
                         if [ -e 20px.svg ]; then
-                            cp 20px.svg ../../../../../material-design-outlined/material-design-outlined-$i/$j.svg
+                            cp 20px.svg ../../../../../material-design-outlined/material-design-outlined-$CATEGORY/$ICON.svg
                         else
                             if [ -e 18px.svg ]; then
-                                cp 18px.svg ../../../../../material-design-outlined/material-design-outlined-$i/$j.svg
+                                cp 18px.svg ../../../../../material-design-outlined/material-design-outlined-$CATEGORY/$ICON.svg
                             else
                                 echo ERROR: Unsupported resolution
                                 pwd
@@ -84,20 +75,20 @@ for i in *; do # category
                 fi
                 cd ..
             fi
-            if [ $k = materialiconsround ]; then
-                cd $k
-                mkdir -p ../../../../../material-design-round/material-design-round-$i
+            if [ $STYLE = materialiconsround ]; then
+                cd $STYLE
+                mkdir -p ../../../../../material-design-round/material-design-round-$CATEGORY
                 if [ -e 36px.svg ]; then # resolution
-                    cp 36px.svg ../../../../../material-design-round/material-design-round-$i/$j.svg
+                    cp 36px.svg ../../../../../material-design-round/material-design-round-$CATEGORY/$ICON.svg
                 else
                     if [ -e 24px.svg ]; then
-                        cp 24px.svg ../../../../../material-design-round/material-design-round-$i/$j.svg
+                        cp 24px.svg ../../../../../material-design-round/material-design-round-$CATEGORY/$ICON.svg
                     else
                         if [ -e 20px.svg ]; then
-                            cp 20px.svg ../../../../../material-design-round/material-design-round-$i/$j.svg
+                            cp 20px.svg ../../../../../material-design-round/material-design-round-$CATEGORY/$ICON.svg
                         else
                             if [ -e 18px.svg ]; then
-                                cp 18px.svg ../../../../../material-design-round/material-design-round-$i/$j.svg
+                                cp 18px.svg ../../../../../material-design-round/material-design-round-$CATEGORY/$ICON.svg
                             else
                                 echo ERROR: Unsupported resolution
                                 pwd
@@ -109,20 +100,20 @@ for i in *; do # category
                 fi
                 cd ..
             fi
-            if [ $k = materialiconssharp ]; then
-                cd $k
-                mkdir -p ../../../../../material-design-sharp/material-design-sharp-$i
+            if [ $STYLE = materialiconssharp ]; then
+                cd $STYLE
+                mkdir -p ../../../../../material-design-sharp/material-design-sharp-$CATEGORY
                 if [ -e 36px.svg ]; then # resolution
-                    cp 36px.svg ../../../../../material-design-sharp/material-design-sharp-$i/$j.svg
+                    cp 36px.svg ../../../../../material-design-sharp/material-design-sharp-$CATEGORY/$ICON.svg
                 else
                     if [ -e 24px.svg ]; then
-                        cp 24px.svg ../../../../../material-design-sharp/material-design-sharp-$i/$j.svg
+                        cp 24px.svg ../../../../../material-design-sharp/material-design-sharp-$CATEGORY/$ICON.svg
                     else
                         if [ -e 20px.svg ]; then
-                            cp 20px.svg ../../../../../material-design-sharp/material-design-sharp-$i/$j.svg
+                            cp 20px.svg ../../../../../material-design-sharp/material-design-sharp-$CATEGORY/$ICON.svg
                         else
                             if [ -e 18px.svg ]; then
-                                cp 18px.svg ../../../../../material-design-sharp/material-design-sharp-$i/$j.svg
+                                cp 18px.svg ../../../../../material-design-sharp/material-design-sharp-$CATEGORY/$ICON.svg
                             else
                                 echo ERROR: Unsupported resolution
                                 pwd
@@ -134,20 +125,20 @@ for i in *; do # category
                 fi
                 cd ..
             fi
-            if [ $k = materialiconstwotone ]; then
-                cd $k
-                mkdir -p ../../../../../material-design-twotone/material-design-twotone-$i
+            if [ $STYLE = materialiconstwotone ]; then
+                cd $STYLE
+                mkdir -p ../../../../../material-design-twotone/material-design-twotone-$CATEGORY
                 if [ -e 36px.svg ]; then # resolution
-                    cp 36px.svg ../../../../../material-design-twotone/material-design-twotone-$i/$j.svg
+                    cp 36px.svg ../../../../../material-design-twotone/material-design-twotone-$CATEGORY/$ICON.svg
                 else
                     if [ -e 24px.svg ]; then
-                        cp 24px.svg ../../../../../material-design-twotone/material-design-twotone-$i/$j.svg
+                        cp 24px.svg ../../../../../material-design-twotone/material-design-twotone-$CATEGORY/$ICON.svg
                     else
                         if [ -e 20px.svg ]; then
-                            cp 20px.svg ../../../../../material-design-twotone/material-design-twotone-$i/$j.svg
+                            cp 20px.svg ../../../../../material-design-twotone/material-design-twotone-$CATEGORY/$ICON.svg
                         else
                             if [ -e 18px.svg ]; then
-                                cp 18px.svg ../../../../../material-design-twotone/material-design-twotone-$i/$j.svg
+                                cp 18px.svg ../../../../../material-design-twotone/material-design-twotone-$CATEGORY/$ICON.svg
                             else
                                 echo ERROR: Unsupported resolution
                                 pwd
@@ -159,23 +150,17 @@ for i in *; do # category
                 fi
                 cd ..
             fi
-        done # icon
+        done # STYLE
         cd ..
-    done # category
+    done # ICON
     cd ..
+done # CATEGORY
+
+cd ../.. # material-design-icons/src
+
+for DIRECTORY in $DIRECTORIES; do
+    svgo -q -r -i $DIRECTORY
+    for i in $DIRECTORY/*; do
+        gulp --iconset $i --dest .
+    done
 done
-cd ../..
-
-svgo -r -i material-design
-svgo -r -i material-design-outlined
-svgo -r -i material-design-round
-svgo -r -i material-design-sharp
-svgo -r -i material-design-twotone
-
-cd ..
-gulp --iconset tmp/material-design --dest tmp/material-design
-gulp --iconset tmp/material-design-outlined --dest tmp/material-design-outlined
-gulp --iconset tmp/material-design-round --dest tmp/material-design-round
-gulp --iconset tmp/material-design-sharp --dest tmp/material-design-sharp
-gulp --iconset tmp/material-design-twotone --dest tmp/material-design-twotone
-
