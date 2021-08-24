@@ -161,6 +161,6 @@ cd ../.. # material-design-icons/src
 for DIRECTORY in $DIRECTORIES; do
     svgo -q -r -i $DIRECTORY
     for i in $DIRECTORY/*; do
-        gulp --iconset $i --dest .
+        gulp --max-old-space-size=4096 --iconset $i --dest .
     done
 done
