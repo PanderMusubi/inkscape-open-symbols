@@ -15,6 +15,10 @@ Inkscape Open Symbols adds a whole lot more!
 The included symbols libraries so far are:
 
 **[Google Material Design Icons](https://github.com/google/material-design-icons)**
+
+<details>
+<summary>Sets</summary>
+
 * Google Material Design **Action** Set
 * Google Material Design **Alert** Set
 * Google Material Design **AV** Set
@@ -31,8 +35,10 @@ The included symbols libraries so far are:
 * Google Material Design **Places** Set
 * Google Material Design **Social** Set
 * Google Material Design **Toggle** Set
-
   (A live [preview](http://google.github.io/material-design-icons/) of this icon set is available at the Google Material Design github repo.)
+
+</details>
+<br/>
 
 **[Github Octicons](https://octicons.github.com/)**
 GitHub's icon font
@@ -43,24 +49,40 @@ A simple UX UI elements for your wireframes created by [Xaviju](https://github.c
 **[Suru Icon Set](https://snwh.org/suru)**
 Suru is the icon theme originally created for Ubuntu phones and tablets. Thanks to [mivoligo](https://github.com/mivoligo) for converting them to inkscape symbols.
 
+<details>
+<summary>Sets</summary>
+
 * Ubuntu Suru **Actions** Set
 * Ubuntu Suru **Apps** Set
 * Ubuntu Suru **Devices** Set
 * Ubuntu Suru **Mimetypes** Set
 * Ubuntu Suru **Status** Set
 
+</details>
+<br/>
+
 **[Font Awesome Icons](http://fortawesome.github.io/Font-Awesome/icons/)**
 Font Awesome is a full suite of 675 pictographic icons for easy scalable vector graphics on websites, created and maintained by Dave Gandy.
+
+<details>
+<summary>Sets</summary>
 
 * Font Awesome **Brands** Set
 * Font Awesome **Solid** Set
 * Font Awesome **Regular** Set
+
+</details>
+<br/>
 
 **[Fork Awesome](https://forkaweso.me/Fork-Awesome/)**
 Fork Awesome is a fork of Font Awesome that accepts contributions.
 
 **[Gnome Icon Theme Symbolic](https://git.gnome.org//browse/gnome-icon-theme-symbolic/)**
 This set contains a set of icons used by the GNOME desktop. The icons are used in the panel menu, and in nautilus and other applications, to represent the different applications, files, directories, and devices.
+
+<details>
+<summary>Sets</summary>
+
 * Gnome Symbolic **Action** Set
 * Gnome Symbolic **Apps** Set
 * Gnome Symbolic **Categories** Set
@@ -70,6 +92,9 @@ This set contains a set of icons used by the GNOME desktop. The icons are used i
 * Gnome Symbolic **Mimetypes** Set
 * Gnome Symbolic **Places** Set
 * Gnome Symbolic **Status** Set
+
+</details>
+<br/>
 
 **[Automattic Genericons](https://github.com/Automattic/Genericons)** Genericons are vector icons embedded in a webfont designed to be clean and simple keeping with a generic aesthetic.
 
@@ -93,6 +118,10 @@ This set contains a set of icons used by the GNOME desktop. The icons are used i
 **[Ionicons](http://ionicons.com/)** The premium icon font for Ionic Framework.
 
 **[SJJB Map Icons](http://www.sjjb.co.uk/mapicons/)** by SJBB Management, a simple consistent set of vector icons suitable for cartographic use, created specifically to be used by Open Street Map. All icons are available in a square and in an inverted version.
+
+<details>
+<summary>Sets</summary>
+
 * SJJB Map Icons **Accommodation** Set
 * SJJB Map Icons **Amenity** Set
 * SJJB Map Icons **Barrier** Set
@@ -110,31 +139,44 @@ This set contains a set of icons used by the GNOME desktop. The icons are used i
 * SJJB Map Icons **Transport** Set
 * SJJB Map Icons **Water** Set
 
+</details>
+<br/>
+
 ## Symbol sets licenses
 
-- [Dashicons](https://github.com/WordPress/dashicons/blob/master/gpl.txt): [GPL v2+](https://www.gnu.org/licenses/gpl-2.0.en.html)
-- [Emoji one](http://emojione.com/licensing/): [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-- [Entypo](http://www.entypo.com/): [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
-- [Font Awesome](http://fontawesome.io/license/): [SIL OFL 1.1](http://scripts.sil.org/OFL)
-- [Genericons](https://github.com/Automattic/genericons-neue/blob/master/COPYING.md): [GPL v2+](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
-- [Gnome Icon Theme Symbolic](https://git.gnome.org//browse/gnome-icon-theme-symbolic/): [CC BY SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
-- [Google Material Design Icons](https://github.com/google/material-design-icons/blob/master/LICENSE): [Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0)
-- [Humble UI](https://github.com/Xaviju/inkscape-open-symbols/wiki/Humble-UI): [MIT](https://opensource.org/licenses/MIT)
-- [Open Iconic](https://github.com/iconic/open-iconic/blob/master/ICON-LICENSE): [MIT](https://opensource.org/licenses/MIT)
-- [SJJB Map Icons](http://www.sjjb.co.uk/mapicons/introduction): [CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/)
-- [StateFace](https://propublica.github.io/stateface/): [MIT](https://opensource.org/licenses/MIT)
-- [Taiga Icons](https://github.com/taigaio/taiga-design/blob/master/LICENSE): [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
-- [Github Octicons](https://github.com/primer/octicons/blob/master/LICENSE) = [MIT](https://opensource.org/licenses/MIT)
-- [Suru](https://github.com/snwh/suru-icon-theme/blob/master/COPYING) = [GPL v3+](https://www.gnu.org/licenses/gpl-3.0.en.html)
-- [Wheatherize](https://github.com/jlar0che): [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
-- [CircuiTikZ](https://github.com/circuitikz/circuitikz/blob/master/gpl-3.0_license.txt) [GPL v3+](https://www.gnu.org/licenses/gpl-3.0.en.html)
-- [Ionicons](https://github.com/ionic-team/ionicons/blob/master/LICENSE) [MIT](https://opensource.org/licenses/MIT)
+- [Dashicons](https://github.com/WordPress/dashicons/blob/master/gpl.txt) : [GPL v2+]
+- [Emoji one](http://emojione.com/licensing/) : [CC BY 4.0]
+- [Entypo](http://www.entypo.com/) : [CC BY-SA 4.0]
+- [Font Awesome](http://fontawesome.io/license/) : [SIL OFL 1.1]
+- [Genericons](https://github.com/Automattic/genericons-neue/blob/master/COPYING.md) : [GPL v2+]
+- [Gnome Icon Theme Symbolic](https://git.gnome.org//browse/gnome-icon-theme-symbolic/) : [CC BY-SA 3.0]
+- [Google Material Design Icons](https://github.com/google/material-design-icons/blob/master/LICENSE) : [Apache 2.0]
+- [Humble UI](https://github.com/Xaviju/inkscape-open-symbols/wiki/Humble-UI) : [MIT]
+- [Open Iconic](https://github.com/iconic/open-iconic/blob/master/ICON-LICENSE) : [MIT]
+- [SJJB Map Icons](http://www.sjjb.co.uk/mapicons/introduction) : [CC0 Public Domain Dedication]
+- [StateFace](https://propublica.github.io/stateface/) : [MIT]
+- [Taiga Icons](https://github.com/taigaio/taiga-design/blob/master/LICENSE) : [CC BY-SA 4.0]
+- [Github Octicons](https://github.com/primer/octicons/blob/master/LICENSE) : [MIT]
+- [Suru](https://github.com/snwh/suru-icon-theme/blob/master/COPYING) : [GPL v3+]
+- [Wheatherize](https://github.com/jlar0che) : [CC BY-SA 4.0]
+- [CircuiTikZ](https://github.com/circuitikz/circuitikz/blob/master/gpl-3.0_license.txt) : [GPL v3+]
+- [Ionicons](https://github.com/ionic-team/ionicons/blob/master/LICENSE) : [MIT]
 
 **Note: This repository contains multiple symbol sets with their own licenses. Using them requires you to be aware that you are subject to the license of the used symbol set. All symbol set licenses are listed in the README file and in their own file metadata. The LICENSE file refers to everything unrelated to the symbol sets.**
 
+[MIT]: https://opensource.org/licenses/MIT
+[Apache 2.0]: http://www.apache.org/licenses/LICENSE-2.0
+[SIL OFL 1.1]: http://scripts.sil.org/OFL
+[GPL v2+]: https://www.gnu.org/licenses/gpl-2.0.en.html
+[GPL V3+]: https://www.gnu.org/licenses/gpl-3.0.en.html
+[CC0 Public Domain Dedication]: https://creativecommons.org/publicdomain/zero/1.0/
+[CC BY-SA 3.0]: https://creativecommons.org/licenses/by-sa/3.0/
+[CC BY-SA 4.0]: https://creativecommons.org/licenses/by-sa/4.0/
+[CC BY 4.0]: https://creativecommons.org/licenses/by/4.0/
+
 ## How do I install Inkscape Open Symbols?
 
-In [Ubuntu](https://packages.ubuntu.com/search?keywords=inkscape-open-symbols) and [Debian](https://packages.debian.org/search?keywords=inkscape-open-symbols), it is possible to easily install Inkscape Open Symbols with a package manager of your choice. Simply typing `sudo apt-get install inkscape-open-symbols` in a shell will install it for all users.
+In [Ubuntu] and [Debian], it is possible to easily install Inkscape Open Symbols with a package manager of your choice. Simply typing `sudo apt-get install inkscape-open-symbols` in a shell will install it for all users.
 
 For other platform or distributions:
 1. Grab the icon libraries you need by **cloning the repo** or **downloading the ZIP**. You can also save the SVG files to your system directly from GitHub.
@@ -144,7 +186,11 @@ For other platform or distributions:
 3. Launch Inkscape (close it first if it's already running).
 4. Open Symbols from ```Object > symbols``` or press ```Ctrl+Shift+Y```. You should see all icon sets in the "Symbol set" dropdown.
 
-Available in Arch Linux and distributed through AUR: https://aur.archlinux.org/packages/inkscape-open-symbols-git/
+Available in Arch Linux and distributed through [AUR]
+
+[Ubuntu]: https://packages.ubuntu.com/search?keywords=inkscape-open-symbols
+[Debian]: https://packages.debian.org/search?keywords=inkscape-open-symbols
+[AUR]: https://aur.archlinux.org/packages/inkscape-open-symbols-git/
 
 ## How can I request new symbols?
 
