@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:ns2="http://creativecommons.org/ns#" 
+    xmlns:dc="http://purl.org/dc/elements/1.1/" 
+    xmlns:cc="http://creativecommons.org/ns#"         
+    xmlns:xlink="http://www.w3.org/1999/xlink" 
+    width="720"
+    height="1008"
+    
+    version="1.1"
+    id="svg2"
+    style="fill:none;stroke:black">
+    <title>Material Design Icons [Home Set]</title>
+    <desc>Material Design Icons are the official open-source icons featured in the Google Material Design specification.</desc>
+    <metadata>
+        <rdf:RDF>
+            <cc:Work rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <dc:title>Material Design Icons [Home Set]</dc:title>
+                <dc:date>2021-11-08</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title>Google</dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                    <cc:Agent>
+                        <dc:title>Open Source</dc:title>
+                    </cc:Agent>
+                </dc:rights>
+                <dc:language>English</dc:language>
+
+                <dc:source>https://github.com/google/material-design-icons</dc:source>
+                <dc:description>Material Design Icons are the official open-source icons featured in the Google Material Design specification.</dc:description>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+
+    <defs>
+        <symbol id="sensor_door" viewBox="0 0 100 100">
+          <title>sensor_door</title>
+          <path d="M0 0h24v24H0z"/><path d="M18 2H6c-1.1 0-2 .9-2 2v18h16V4c0-1.1-.9-2-2-2zm-2.5 11.5c-.83 0-1.5-.67-1.5-1.5s.67-1.5 1.5-1.5 1.5.67 1.5 1.5-.67 1.5-1.5 1.5z"/>
+        </symbol>
+        <symbol id="sensor_window" viewBox="0 0 100 100">
+          <title>sensor_window</title>
+          <path d="M0 0h24v24H0z"/><path d="M18 4v16H6V4h12m0-2H6c-1.1 0-2 .9-2 2v16c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zM7 19h10v-6H7v6zm3-9h4v1h3V5H7v6h3v-1z"/>
+        </symbol>
+    </defs>
+</svg>

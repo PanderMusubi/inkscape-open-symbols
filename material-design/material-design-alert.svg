@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:ns2="http://creativecommons.org/ns#" 
+    xmlns:dc="http://purl.org/dc/elements/1.1/" 
+    xmlns:cc="http://creativecommons.org/ns#"         
+    xmlns:xlink="http://www.w3.org/1999/xlink" 
+    width="720"
+    height="1008"
+    
+    version="1.1"
+    id="svg2"
+    style="fill:none;stroke:black">
+    <title>Material Design Icons [Alert Set]</title>
+    <desc>Material Design Icons are the official open-source icons featured in the Google Material Design specification.</desc>
+    <metadata>
+        <rdf:RDF>
+            <cc:Work rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <dc:title>Material Design Icons [Alert Set]</dc:title>
+                <dc:date>2021-11-08</dc:date>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title>Google</dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                    <cc:Agent>
+                        <dc:title>Open Source</dc:title>
+                    </cc:Agent>
+                </dc:rights>
+                <dc:language>English</dc:language>
+
+                <dc:source>https://github.com/google/material-design-icons</dc:source>
+                <dc:description>Material Design Icons are the official open-source icons featured in the Google Material Design specification.</dc:description>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+
+    <defs>
+        <symbol id="add_alert" viewBox="0 0 100 100">
+          <title>add_alert</title>
+          <path d="M0 0h24v24H0V0z"/><path d="M10.01 21.01c0 1.1.89 1.99 1.99 1.99s1.99-.89 1.99-1.99h-3.98zm8.87-4.19V11c0-3.25-2.25-5.97-5.29-6.69v-.72C13.59 2.71 12.88 2 12 2s-1.59.71-1.59 1.59v.72A6.873 6.873 0 0 0 5.12 11v5.82L3 18.94V20h18v-1.06l-2.12-2.12zM16 13.01h-3v3h-2v-3H8V11h3V8h2v3h3v2.01z"/>
+        </symbol>
+        <symbol id="auto_delete" viewBox="0 0 100 100">
+          <title>auto_delete</title>
+          <path d="M0 0h24v24H0z"/><path d="M15 2h-3.5l-1-1h-5l-1 1H1v2h14zM16 9c-.7 0-1.37.1-2 .29V5H2v12c0 1.1.9 2 2 2h5.68A6.999 6.999 0 0 0 23 16c0-3.87-3.13-7-7-7zm0 12c-2.76 0-5-2.24-5-5s2.24-5 5-5 5 2.24 5 5-2.24 5-5 5z"/><path d="M16.5 12H15v5l3.6 2.1.8-1.2-2.9-1.7z"/>
+        </symbol>
+        <symbol id="error" viewBox="0 0 100 100">
+          <title>error</title>
+          <path d="M0 0h24v24H0z"/><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 15h-2v-2h2v2zm0-4h-2V7h2v6z"/>
+        </symbol>
+        <symbol id="error_outline" viewBox="0 0 100 100">
+          <title>error_outline</title>
+          <path d="M0 0h24v24H0V0z"/><path d="M11 15h2v2h-2zm0-8h2v6h-2zm.99-5C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zM12 20c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"/>
+        </symbol>
+        <symbol id="notification_important" viewBox="0 0 100 100">
+          <title>notification_important</title>
+          <path d="M0 0h24v24H0V0z"/><path d="M18 16v-5c0-3.07-1.64-5.64-4.5-6.32V4c0-.83-.67-1.5-1.5-1.5s-1.5.67-1.5 1.5v.68C7.63 5.36 6 7.92 6 11v5l-2 2v1h16v-1l-2-2zm-5 0h-2v-2h2v2zm0-4h-2V8h2v4zm-1 10c1.1 0 2-.9 2-2h-4a2 2 0 0 0 2 2z"/>
+        </symbol>
+        <symbol id="warning" viewBox="0 0 100 100">
+          <title>warning</title>
+          <path d="M0 0h24v24H0z"/><path d="M1 21h22L12 2 1 21zm12-3h-2v-2h2v2zm0-4h-2v-4h2v4z"/>
+        </symbol>
+        <symbol id="warning_amber" viewBox="0 0 100 100">
+          <title>warning_amber</title>
+          <path d="M0 0h24v24H0z"/><path d="M12 5.99 19.53 19H4.47L12 5.99M12 2 1 21h22L12 2z"/><path d="M13 16h-2v2h2zM13 10h-2v5h2z"/>
+        </symbol>
+    </defs>
+</svg>

@@ -164,3 +164,5 @@ for DIRECTORY in $DIRECTORIES; do
         gulp --max-old-space-size=4096 --iconset $i --dest .
     done
 done
+
+#TODO
