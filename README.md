@@ -15,6 +15,10 @@ Inkscape Open Symbols adds a whole lot more!
 The included symbols libraries so far are:
 
 **[Google Material Design Icons](https://github.com/google/material-design-icons)**
+
+<details>
+<summary>Sets</summary>
+
 * Google Material Design **Action** Set
 * Google Material Design **Alert** Set
 * Google Material Design **AV** Set
@@ -31,8 +35,10 @@ The included symbols libraries so far are:
 * Google Material Design **Places** Set
 * Google Material Design **Social** Set
 * Google Material Design **Toggle** Set
-
   (A live [preview](http://google.github.io/material-design-icons/) of this icon set is available at the Google Material Design github repo.)
+
+</details>
+<br/>
 
 **[Github Octicons](https://octicons.github.com/)**
 GitHub's icon font
@@ -43,24 +49,40 @@ A simple UX UI elements for your wireframes created by [Xaviju](https://github.c
 **[Suru Icon Set](https://snwh.org/suru)**
 Suru is the icon theme originally created for Ubuntu phones and tablets. Thanks to [mivoligo](https://github.com/mivoligo) for converting them to inkscape symbols.
 
+<details>
+<summary>Sets</summary>
+
 * Ubuntu Suru **Actions** Set
 * Ubuntu Suru **Apps** Set
 * Ubuntu Suru **Devices** Set
 * Ubuntu Suru **Mimetypes** Set
 * Ubuntu Suru **Status** Set
 
+</details>
+<br/>
+
 **[Font Awesome Icons](http://fortawesome.github.io/Font-Awesome/icons/)**
 Font Awesome is a full suite of 675 pictographic icons for easy scalable vector graphics on websites, created and maintained by Dave Gandy.
+
+<details>
+<summary>Sets</summary>
 
 * Font Awesome **Brands** Set
 * Font Awesome **Solid** Set
 * Font Awesome **Regular** Set
+
+</details>
+<br/>
 
 **[Fork Awesome](https://forkaweso.me/Fork-Awesome/)**
 Fork Awesome is a fork of Font Awesome that accepts contributions.
 
 **[Gnome Icon Theme Symbolic](https://git.gnome.org//browse/gnome-icon-theme-symbolic/)**
 This set contains a set of icons used by the GNOME desktop. The icons are used in the panel menu, and in nautilus and other applications, to represent the different applications, files, directories, and devices.
+
+<details>
+<summary>Sets</summary>
+
 * Gnome Symbolic **Action** Set
 * Gnome Symbolic **Apps** Set
 * Gnome Symbolic **Categories** Set
@@ -70,6 +92,9 @@ This set contains a set of icons used by the GNOME desktop. The icons are used i
 * Gnome Symbolic **Mimetypes** Set
 * Gnome Symbolic **Places** Set
 * Gnome Symbolic **Status** Set
+
+</details>
+<br/>
 
 **[Automattic Genericons](https://github.com/Automattic/Genericons)** Genericons are vector icons embedded in a webfont designed to be clean and simple keeping with a generic aesthetic.
 
@@ -93,6 +118,10 @@ This set contains a set of icons used by the GNOME desktop. The icons are used i
 **[Ionicons](http://ionicons.com/)** The premium icon font for Ionic Framework.
 
 **[SJJB Map Icons](http://www.sjjb.co.uk/mapicons/)** by SJBB Management, a simple consistent set of vector icons suitable for cartographic use, created specifically to be used by Open Street Map. All icons are available in a square and in an inverted version.
+
+<details>
+<summary>Sets</summary>
+
 * SJJB Map Icons **Accommodation** Set
 * SJJB Map Icons **Amenity** Set
 * SJJB Map Icons **Barrier** Set
@@ -109,6 +138,9 @@ This set contains a set of icons used by the GNOME desktop. The icons are used i
 * SJJB Map Icons **Tourist** Set
 * SJJB Map Icons **Transport** Set
 * SJJB Map Icons **Water** Set
+
+</details>
+<br/>
 
 ## Symbol sets licenses
 
@@ -144,7 +176,7 @@ This set contains a set of icons used by the GNOME desktop. The icons are used i
 
 ## How do I install Inkscape Open Symbols?
 
-In [Ubuntu](https://packages.ubuntu.com/search?keywords=inkscape-open-symbols) and [Debian](https://packages.debian.org/search?keywords=inkscape-open-symbols), it is possible to easily install Inkscape Open Symbols with a package manager of your choice. Simply typing `sudo apt-get install inkscape-open-symbols` in a shell will install it for all users.
+In [Ubuntu] and [Debian], it is possible to easily install Inkscape Open Symbols with a package manager of your choice. Simply typing `sudo apt-get install inkscape-open-symbols` in a shell will install it for all users.
 
 For other platform or distributions:
 1. Grab the icon libraries you need by **cloning the repo** or **downloading the ZIP**. You can also save the SVG files to your system directly from GitHub.
@@ -154,7 +186,11 @@ For other platform or distributions:
 3. Launch Inkscape (close it first if it's already running).
 4. Open Symbols from ```Object > symbols``` or press ```Ctrl+Shift+Y```. You should see all icon sets in the "Symbol set" dropdown.
 
-Available in Arch Linux and distributed through AUR: https://aur.archlinux.org/packages/inkscape-open-symbols-git/
+Available in Arch Linux and distributed through [AUR]
+
+[Ubuntu]: https://packages.ubuntu.com/search?keywords=inkscape-open-symbols
+[Debian]: https://packages.debian.org/search?keywords=inkscape-open-symbols
+[AUR]: https://aur.archlinux.org/packages/inkscape-open-symbols-git/
 
 ## How can I request new symbols?
 
