@@ -112,25 +112,35 @@ This set contains a set of icons used by the GNOME desktop. The icons are used i
 
 ## Symbol sets licenses
 
-- [Dashicons](https://github.com/WordPress/dashicons/blob/master/gpl.txt): [GPL v2+](https://www.gnu.org/licenses/gpl-2.0.en.html)
-- [Emoji one](http://emojione.com/licensing/): [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-- [Entypo](http://www.entypo.com/): [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
-- [Font Awesome](http://fontawesome.io/license/): [SIL OFL 1.1](http://scripts.sil.org/OFL)
-- [Genericons](https://github.com/Automattic/genericons-neue/blob/master/COPYING.md): [GPL v2+](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
-- [Gnome Icon Theme Symbolic](https://git.gnome.org//browse/gnome-icon-theme-symbolic/): [CC BY SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
-- [Google Material Design Icons](https://github.com/google/material-design-icons/blob/master/LICENSE): [Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0)
-- [Humble UI](https://github.com/Xaviju/inkscape-open-symbols/wiki/Humble-UI): [MIT](https://opensource.org/licenses/MIT)
-- [Open Iconic](https://github.com/iconic/open-iconic/blob/master/ICON-LICENSE): [MIT](https://opensource.org/licenses/MIT)
-- [SJJB Map Icons](http://www.sjjb.co.uk/mapicons/introduction): [CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/)
-- [StateFace](https://propublica.github.io/stateface/): [MIT](https://opensource.org/licenses/MIT)
-- [Taiga Icons](https://github.com/taigaio/taiga-design/blob/master/LICENSE): [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
-- [Github Octicons](https://github.com/primer/octicons/blob/master/LICENSE) = [MIT](https://opensource.org/licenses/MIT)
-- [Suru](https://github.com/snwh/suru-icon-theme/blob/master/COPYING) = [GPL v3+](https://www.gnu.org/licenses/gpl-3.0.en.html)
-- [Wheatherize](https://github.com/jlar0che): [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
-- [CircuiTikZ](https://github.com/circuitikz/circuitikz/blob/master/gpl-3.0_license.txt) [GPL v3+](https://www.gnu.org/licenses/gpl-3.0.en.html)
-- [Ionicons](https://github.com/ionic-team/ionicons/blob/master/LICENSE) [MIT](https://opensource.org/licenses/MIT)
+- [Dashicons](https://github.com/WordPress/dashicons/blob/master/gpl.txt) : [GPL v2+]
+- [Emoji one](http://emojione.com/licensing/) : [CC BY 4.0]
+- [Entypo](http://www.entypo.com/) : [CC BY-SA 4.0]
+- [Font Awesome](http://fontawesome.io/license/) : [SIL OFL 1.1]
+- [Genericons](https://github.com/Automattic/genericons-neue/blob/master/COPYING.md) : [GPL v2+]
+- [Gnome Icon Theme Symbolic](https://git.gnome.org//browse/gnome-icon-theme-symbolic/) : [CC BY-SA 3.0]
+- [Google Material Design Icons](https://github.com/google/material-design-icons/blob/master/LICENSE) : [Apache 2.0]
+- [Humble UI](https://github.com/Xaviju/inkscape-open-symbols/wiki/Humble-UI) : [MIT]
+- [Open Iconic](https://github.com/iconic/open-iconic/blob/master/ICON-LICENSE) : [MIT]
+- [SJJB Map Icons](http://www.sjjb.co.uk/mapicons/introduction) : [CC0 Public Domain Dedication]
+- [StateFace](https://propublica.github.io/stateface/) : [MIT]
+- [Taiga Icons](https://github.com/taigaio/taiga-design/blob/master/LICENSE) : [CC BY-SA 4.0]
+- [Github Octicons](https://github.com/primer/octicons/blob/master/LICENSE) : [MIT]
+- [Suru](https://github.com/snwh/suru-icon-theme/blob/master/COPYING) : [GPL v3+]
+- [Wheatherize](https://github.com/jlar0che) : [CC BY-SA 4.0]
+- [CircuiTikZ](https://github.com/circuitikz/circuitikz/blob/master/gpl-3.0_license.txt) : [GPL v3+]
+- [Ionicons](https://github.com/ionic-team/ionicons/blob/master/LICENSE) : [MIT]
 
 **Note: This repository contains multiple symbol sets with their own licenses. Using them requires you to be aware that you are subject to the license of the used symbol set. All symbol set licenses are listed in the README file and in their own file metadata. The LICENSE file refers to everything unrelated to the symbol sets.**
+
+[MIT]: https://opensource.org/licenses/MIT
+[Apache 2.0]: http://www.apache.org/licenses/LICENSE-2.0
+[SIL OFL 1.1]: http://scripts.sil.org/OFL
+[GPL v2+]: https://www.gnu.org/licenses/gpl-2.0.en.html
+[GPL V3+]: https://www.gnu.org/licenses/gpl-3.0.en.html
+[CC0 Public Domain Dedication]: https://creativecommons.org/publicdomain/zero/1.0/
+[CC BY-SA 3.0]: https://creativecommons.org/licenses/by-sa/3.0/
+[CC BY-SA 4.0]: https://creativecommons.org/licenses/by-sa/4.0/
+[CC BY 4.0]: https://creativecommons.org/licenses/by/4.0/
 
 ## How do I install Inkscape Open Symbols?
 
