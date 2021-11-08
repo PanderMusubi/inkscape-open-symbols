@@ -57,7 +57,7 @@ Font Awesome is a full suite of 675 pictographic icons for easy scalable vector 
 * Font Awesome **Regular** Set
 
 **[Fork Awesome](https://forkaweso.me/Fork-Awesome/)**
-Fort Awesome is a fork of Font Awesome that accepts contributions.
+Fork Awesome is a fork of Font Awesome that accepts contributions.
 
 **[Gnome Icon Theme Symbolic](https://git.gnome.org//browse/gnome-icon-theme-symbolic/)**
 This set contains a set of icons used by the GNOME desktop. The icons are used in the panel menu, and in nautilus and other applications, to represent the different applications, files, directories, and devices.
