@@ -42,6 +42,9 @@ Set               | normal | Outlined | Round | Sharp | Twotone
 **Social**        | ✓      | WIP      | WIP   | WIP   | WIP
 **Toggle**        | ✓      | WIP      | WIP   | WIP   | WIP
 
+Here WIP stands for work in progress and the related files should not yet be
+packaged for distribution.
+
 A live [preview](http://google.github.io/material-design-icons/) of this icon set is available at the Google Material Design github repo.
 
 </details>
@@ -50,11 +53,11 @@ A live [preview](http://google.github.io/material-design-icons/) of this icon se
 **[Github Octicons](https://octicons.github.com/)**
 GitHub's icon font
 
-**[Humble UI](https://github.com/Xaviju/inkscape-open-symbols/wiki/Humble-UI)**
+**[Humble UI](https://github.com/PanderMusubi/inkscape-open-symbols/wiki/Humble-UI)**
 A simple UX UI elements for your wireframes created by [Xaviju](https://github.com/Xaviju)
 
 **[Suru Icon Set](https://snwh.org/suru)**
-Suru is the icon theme originally created for Ubuntu phones and tablets. Thanks to [mivoligo](https://github.com/mivoligo) for converting them to inkscape symbols.
+Suru is the icon theme originally created for Ubuntu phones and tablets. Thanks to [mivoligo](https://github.com/mivoligo) for converting them to Inkscape symbols.
 
 <details>
 <summary>Sets</summary>
@@ -149,26 +152,35 @@ This set contains a set of icons used by the GNOME desktop. The icons are used i
 </details>
 <br/>
 
-## Symbol sets licenses
+## Symbol set licenses
 
-- [Dashicons](https://github.com/WordPress/dashicons/blob/master/gpl.txt) : [GPL v2+]
-- [Emoji one](http://emojione.com/licensing/) : [CC BY 4.0]
-- [Entypo](http://www.entypo.com/) : [CC BY-SA 4.0]
-- [Font Awesome](http://fontawesome.io/license/) : [SIL OFL 1.1]
-- [Genericons](https://github.com/Automattic/genericons-neue/blob/master/COPYING.md) : [GPL v2+]
-- [Gnome Icon Theme Symbolic](https://git.gnome.org//browse/gnome-icon-theme-symbolic/) : [CC BY-SA 3.0]
-- [Google Material Design Icons](https://github.com/google/material-design-icons/blob/master/LICENSE) : [Apache 2.0]
-- [Humble UI](https://github.com/Xaviju/inkscape-open-symbols/wiki/Humble-UI) : [MIT]
-- [Open Iconic](https://github.com/iconic/open-iconic/blob/master/ICON-LICENSE) : [MIT]
-- [SJJB Map Icons](http://www.sjjb.co.uk/mapicons/introduction) : [CC0 Public Domain Dedication]
-- [StateFace](https://propublica.github.io/stateface/) : [MIT]
-- [Taiga Icons](https://github.com/taigaio/taiga-design/blob/master/LICENSE) : [CC BY-SA 4.0]
-- [Github Octicons](https://github.com/primer/octicons/blob/master/LICENSE) : [MIT]
-- [Suru](https://github.com/snwh/suru-icon-theme/blob/master/COPYING) : [GPL v3+]
-- [Wheatherize](https://github.com/jlar0che) : [CC BY-SA 4.0]
-- [CircuiTikZ](https://github.com/circuitikz/circuitikz/blob/master/gpl-3.0_license.txt) : [GPL v3+]
-- [Ionicons](https://github.com/ionic-team/ionicons/blob/master/LICENSE) : [MIT]
-
+- [Apache 2.0]
+  - [Google Material Design Icons](https://github.com/google/material-design-icons/blob/master/LICENSE)
+- [CC0 Public Domain Dedication]
+  - [SJJB Map Icons](http://www.sjjb.co.uk/mapicons/introduction)
+- [CC BY-SA 3.0]
+  - [Gnome Icon Theme Symbolic](https://git.gnome.org//browse/gnome-icon-theme-symbolic/)
+- [CC BY 4.0]
+  - [Emoji one](http://emojione.com/licensing/)
+- [CC BY-SA 4.0]
+  - [Entypo](http://www.entypo.com/)
+  - [Taiga Icons](https://github.com/taigaio/taiga-design/blob/master/LICENSE)
+  - [Wheatherize](https://github.com/jlar0che)
+- [GPL v2+]
+  - [Dashicons](https://github.com/WordPress/dashicons/blob/master/gpl.txt)
+  - [Genericons](https://github.com/Automattic/genericons-neue/blob/master/COPYING.md)
+- [GPL v3+]
+  - [CircuiTikZ](https://github.com/circuitikz/circuitikz/blob/master/gpl-3.0_license.txt)
+  - [Suru](https://github.com/snwh/suru-icon-theme/blob/master/COPYING)
+- [MIT]
+  - [Humble UI](https://github.com/PanderMusubi/inkscape-open-symbols/wiki/Humble-UI)
+  - [Github Octicons](https://github.com/primer/octicons/blob/master/LICENSE)
+  - [Ionicons](https://github.com/ionic-team/ionicons/blob/master/LICENSE)
+  - [Open Iconic](https://github.com/iconic/open-iconic/blob/master/ICON-LICENSE)
+  - [StateFace](https://propublica.github.io/stateface/)
+- [SIL OFL 1.1]
+  - [Font Awesome](http://fontawesome.io/license/)
+  
 **Note: This repository contains multiple symbol sets with their own licenses. Using them requires you to be aware that you are subject to the license of the used symbol set. All symbol set licenses are listed in the README file and in their own file metadata. The LICENSE file refers to everything unrelated to the symbol sets.**
 
 [MIT]: https://opensource.org/licenses/MIT
@@ -212,9 +224,13 @@ It is perfectly fine to use the Inkscape UI for library development, but they wo
 
 ## How can I contribute?
 
-Check the [CONTRIBUTING](https://github.com/Xaviju/inkscape-open-symbols/blob/master/CONTRIBUTING.md) guide. :D
+Give a star to the repo at https://github.com/PanderMusubi/inkscape-open-symbols
 
 Upvote or help solve the following Inkscape issues regarding symbols:
-- https://gitlab.com/inkscape/inbox/-/issues/5827
+- https://gitlab.com/inkscape/inkscape/-/issues/2916
 - https://github.com/flathub/org.inkscape.Inkscape/issues/95
 - https://bugs.launchpad.net/inkscape/+bug/1514481
+- https://gitlab.com/inkscape/inkscape-web/-/issues/526
+
+Check the [CONTRIBUTING](https://github.com/PanderMusubi/inkscape-open-symbols/blob/master/CONTRIBUTING.md) guide.
+
