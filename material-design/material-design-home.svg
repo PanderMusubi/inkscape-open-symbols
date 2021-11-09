@@ -12,7 +12,7 @@
     
     version="1.1"
     id="svg2"
-    style="fill:none;stroke:black">
+    style="fill:black;stroke:none">
     <title>Material Design Icons [Home Set]</title>
     <desc>Material Design Icons are the official open-source icons featured in the Google Material Design specification.</desc>
     <metadata>
@@ -21,7 +21,7 @@
                 <dc:format>image/svg+xml</dc:format>
                 <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
                 <dc:title>Material Design Icons [Home Set]</dc:title>
-                <dc:date>2021-11-08</dc:date>
+                <dc:date>2021-11-09</dc:date>
                 <dc:creator>
                     <cc:Agent>
                         <dc:title>Google</dc:title>

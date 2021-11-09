@@ -1,349 +1,168 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-    xmlns="http://www.w3.org/2000/svg"
-    xmlns:svg="http://www.w3.org/2000/svg"
-    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
-    xmlns:ns2="http://creativecommons.org/ns#" 
-    xmlns:dc="http://purl.org/dc/elements/1.1/" 
-    xmlns:cc="http://creativecommons.org/ns#"         
-    xmlns:xlink="http://www.w3.org/1999/xlink" 
-    width="720"
-    height="1008"
-    
-    version="1.1"
-    id="svg2"
-    style="fill:none;stroke:black">
-    <title>Material Design Icons [Content Set]</title>
-    <desc>Material Design Icons are the official open-source icons featured in the Google Material Design specification.</desc>
-    <metadata>
-        <rdf:RDF>
-            <cc:Work rdf:about="">
-                <dc:format>image/svg+xml</dc:format>
-                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-                <dc:title>Material Design Icons [Content Set]</dc:title>
-                <dc:date>2021-11-08</dc:date>
-                <dc:creator>
-                    <cc:Agent>
-                        <dc:title>Google</dc:title>
-                    </cc:Agent>
-                </dc:creator>
-                <dc:rights>
-                    <cc:Agent>
-                        <dc:title>Open Source</dc:title>
-                    </cc:Agent>
-                </dc:rights>
-                <dc:language>English</dc:language>
+<svg 
+xmlns="http://www.w3.org/2000/svg"
+xmlns:svg="http://www.w3.org/2000/svg"
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+xmlns:ns2="http://creativecommons.org/ns#" 
+xmlns:dc="http://purl.org/dc/elements/1.1/" 
+xmlns:cc="http://creativecommons.org/ns#"         
+xmlns:xlink="http://www.w3.org/1999/xlink" 
+version="1.1"
+id="svg2"
+style="fill:black;stroke:none">
+<title>Material Design Icons [Content Set]</title>
+<desc>Material Design Icons are the official open-source icons featured in the Google Material Design specification.</desc>
+<metadata>
+    <rdf:RDF>
+    <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>Material Design Icons [Content Set]</dc:title>
+    <dc:date>2015-02-18</dc:date>
+    <dc:creator>
+    <cc:Agent>
+    <dc:title>Google</dc:title>
+</cc:Agent>
+</dc:creator>
+<dc:rights>
+<cc:Agent>
+<dc:title>Open Source</dc:title>
+</cc:Agent>
+</dc:rights>
+<dc:language>English</dc:language>
 
-                <dc:source>https://github.com/google/material-design-icons</dc:source>
-                <dc:description>Material Design Icons are the official open-source icons featured in the Google Material Design specification.</dc:description>
-            </cc:Work>
-        </rdf:RDF>
-    </metadata>
+<dc:source>https://github.com/google/material-design-icons</dc:source>
+<dc:description>Material Design Icons are the official open-source icons featured in the Google Material Design specification.</dc:description>
+</cc:Work>
+</rdf:RDF>
+</metadata>
 
-    <defs>
-        <symbol id="add" viewBox="0 0 100 100">
-          <title>add</title>
-          <path d="M0 0h24v24H0z"/><path d="M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6v2z"/>
-        </symbol>
-        <symbol id="add_box" viewBox="0 0 100 100">
-          <title>add_box</title>
-          <path d="M0 0h24v24H0z"/><path d="M19 3H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-2 10h-4v4h-2v-4H7v-2h4V7h2v4h4v2z"/>
-        </symbol>
-        <symbol id="add_circle" viewBox="0 0 100 100">
-          <title>add_circle</title>
-          <path d="M0 0h24v24H0z"/><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm5 11h-4v4h-2v-4H7v-2h4V7h2v4h4v2z"/>
-        </symbol>
-        <symbol id="add_circle_outline" viewBox="0 0 100 100">
-          <title>add_circle_outline</title>
-          <path d="M0 0h24v24H0z"/><path d="M13 7h-2v4H7v2h4v4h2v-4h4v-2h-4V7zm-1-5C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z"/>
-        </symbol>
-        <symbol id="add_link" viewBox="0 0 100 100">
-          <title>add_link</title>
-          <path d="M0 0h24v24H0"/><path d="M8 11h8v2H8zm12.1 1H22c0-2.76-2.24-5-5-5h-4v1.9h4c1.71 0 3.1 1.39 3.1 3.1zM3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76 0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71 0-3.1-1.39-3.1-3.1zM19 12h-2v3h-3v2h3v3h2v-3h3v-2h-3z"/>
-        </symbol>
-        <symbol id="amp_stories" viewBox="0 0 100 100">
-          <title>amp_stories</title>
-          <path d="M0 0h24v24H0z"/><path d="M7 4h10v15H7zM3 6h2v11H3zM19 6h2v11h-2z"/>
-        </symbol>
-        <symbol id="archive" viewBox="0 0 100 100">
-          <title>archive</title>
-          <path d="M0 0h24v24H0z"/><path d="m20.54 5.23-1.39-1.68C18.88 3.21 18.47 3 18 3H6c-.47 0-.88.21-1.16.55L3.46 5.23C3.17 5.57 3 6.02 3 6.5V19c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V6.5c0-.48-.17-.93-.46-1.27zM12 17.5 6.5 12H10v-2h4v2h3.5L12 17.5zM5.12 5l.81-1h12l.94 1H5.12z"/>
-        </symbol>
-        <symbol id="attribution" viewBox="0 0 100 100">
-          <title>attribution</title>
-          <path d="M0 0h24v24H0z"/><path d="M12 8.5c-.91 0-2.75.46-2.75 1.38v4.62h1.5V19h2.5v-4.5h1.5V9.88c0-.91-1.84-1.38-2.75-1.38z"/><path d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"/><circle cx="12" cy="6.5" r="1.5"/>
-        </symbol>
-        <symbol id="backspace" viewBox="0 0 100 100">
-          <title>backspace</title>
-          <path d="M0 0h24v24H0z"/><path d="M22 3H7c-.69 0-1.23.35-1.59.88L0 12l5.41 8.11c.36.53.9.89 1.59.89h15c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-3 12.59L17.59 17 14 13.41 10.41 17 9 15.59 12.59 12 9 8.41 10.41 7 14 10.59 17.59 7 19 8.41 15.41 12 19 15.59z"/>
-        </symbol>
-        <symbol id="ballot" viewBox="0 0 100 100">
-          <title>ballot</title>
-          <path d="M0 0h24v24H0z"/><path d="M13 9.5h5v-2h-5v2zm0 7h5v-2h-5v2zm6 4.5H5c-1.1 0-2-.9-2-2V5c0-1.1.9-2 2-2h14c1.1 0 2 .9 2 2v14c0 1.1-.9 2-2 2zM6 11h5V6H6v5zm1-4h3v3H7V7zM6 18h5v-5H6v5zm1-4h3v3H7v-3z"/>
-        </symbol>
-        <symbol id="biotech" viewBox="0 0 100 100">
-          <title>biotech</title>
-          <path d="M0 0h24v24H0z"/><path d="M7 19c-1.1 0-2 .9-2 2h14c0-1.1-.9-2-2-2h-4v-2h3c1.1 0 2-.9 2-2h-8c-1.66 0-3-1.34-3-3 0-1.09.59-2.04 1.46-2.56C8.17 9.03 8 8.54 8 8c0-.21.04-.42.09-.62A5.01 5.01 0 0 0 5 12c0 2.76 2.24 5 5 5v2H7z"/><path d="M10.56 5.51C11.91 5.54 13 6.64 13 8c0 .75-.33 1.41-.85 1.87l.59 1.62.94-.34.34.94 1.88-.68-.34-.94.94-.34-2.74-7.53-.94.34-.34-.94-1.88.68.34.94-.94.35.56 1.54z"/><circle cx="10.5" cy="8" r="1.5"/>
-        </symbol>
-        <symbol id="block" viewBox="0 0 100 100">
-          <title>block</title>
-          <path d="M0 0h24v24H0z"/><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zM4 12c0-4.42 3.58-8 8-8 1.85 0 3.55.63 4.9 1.69L5.69 16.9A7.902 7.902 0 0 1 4 12zm8 8c-1.85 0-3.55-.63-4.9-1.69L18.31 7.1A7.902 7.902 0 0 1 20 12c0 4.42-3.58 8-8 8z"/>
-        </symbol>
-        <symbol id="block_flipped" viewBox="0 0 100 100">
-          <title>block_flipped</title>
-          <path d="M0 0h24v24H0z"/><path d="M22 12c0-5.5-4.5-10-10-10S2 6.5 2 12s4.5 10 10 10 10-4.5 10-10zM5.7 7.1l11.2 11.2c-1.3 1.1-3 1.7-4.9 1.7-4.4 0-8-3.6-8-8 0-1.9.6-3.6 1.7-4.9zM20 12c0 1.9-.6 3.6-1.7 4.9L7.1 5.7C8.4 4.6 10.1 4 12 4c4.4 0 8 3.6 8 8z"/>
-        </symbol>
-        <symbol id="bolt" viewBox="0 0 100 100">
-          <title>bolt</title>
-          <path d="M11 21h-1l1-7H7.5c-.58 0-.57-.32-.38-.66.19-.34.05-.08.07-.12C8.48 10.94 10.42 7.54 13 3h1l-1 7h3.5c.49 0 .56.33.47.51l-.07.15C12.96 17.55 11 21 11 21z"/>
-        </symbol>
-        <symbol id="calculate" viewBox="0 0 100 100">
-          <title>calculate</title>
-          <path d="M0 0h24v24H0z"/><path d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-5.97 4.06L14.09 6l1.41 1.41L16.91 6l1.06 1.06-1.41 1.41 1.41 1.41-1.06 1.06-1.41-1.4-1.41 1.41-1.06-1.06 1.41-1.41-1.41-1.42zm-6.78.66h5v1.5h-5v-1.5zM11.5 16h-2v2H8v-2H6v-1.5h2v-2h1.5v2h2V16zm6.5 1.25h-5v-1.5h5v1.5zm0-2.5h-5v-1.5h5v1.5z"/>
-        </symbol>
-        <symbol id="change_circle" viewBox="0 0 100 100">
-          <title>change_circle</title>
-          <path d="M0 0h24v24H0z"/><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm.06 17v-2.01H12c-1.28 0-2.56-.49-3.54-1.46a5.006 5.006 0 0 1-.64-6.29l1.1 1.1c-.71 1.33-.53 3.01.59 4.13.7.7 1.62 1.03 2.54 1.01v-2.14l2.83 2.83L12.06 19zm4.11-4.24-1.1-1.1c.71-1.33.53-3.01-.59-4.13A3.482 3.482 0 0 0 12 8.5h-.06v2.15L9.11 7.83 11.94 5v2.02c1.3-.02 2.61.45 3.6 1.45 1.7 1.7 1.91 4.35.63 6.29z"/>
-        </symbol>
-        <symbol id="clear" viewBox="0 0 100 100">
-          <title>clear</title>
-          <path d="M0 0h24v24H0z"/><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/>
-        </symbol>
-        <symbol id="content_copy" viewBox="0 0 100 100">
-          <title>content_copy</title>
-          <path d="M0 0h24v24H0z"/><path d="M16 1H4c-1.1 0-2 .9-2 2v14h2V3h12V1zm3 4H8c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h11c1.1 0 2-.9 2-2V7c0-1.1-.9-2-2-2zm0 16H8V7h11v14z"/>
-        </symbol>
-        <symbol id="content_cut" viewBox="0 0 100 100">
-          <title>content_cut</title>
-          <path d="M0 0h24v24H0z"/><circle cx="6" cy="18" r="2"/><circle cx="12" cy="12" r=".5"/><circle cx="6" cy="6" r="2"/><path d="M9.64 7.64c.23-.5.36-1.05.36-1.64 0-2.21-1.79-4-4-4S2 3.79 2 6s1.79 4 4 4c.59 0 1.14-.13 1.64-.36L10 12l-2.36 2.36C7.14 14.13 6.59 14 6 14c-2.21 0-4 1.79-4 4s1.79 4 4 4 4-1.79 4-4c0-.59-.13-1.14-.36-1.64L12 14l7 7h3v-1L9.64 7.64zM6 8c-1.1 0-2-.89-2-2s.9-2 2-2 2 .89 2 2-.9 2-2 2zm0 12c-1.1 0-2-.89-2-2s.9-2 2-2 2 .89 2 2-.9 2-2 2zm6-7.5c-.28 0-.5-.22-.5-.5s.22-.5.5-.5.5.22.5.5-.22.5-.5.5zM19 3l-6 6 2 2 7-7V3z"/>
-        </symbol>
-        <symbol id="content_paste" viewBox="0 0 100 100">
-          <title>content_paste</title>
-          <path d="M0 0h24v24H0z"/><path d="M19 2h-4.18C14.4.84 13.3 0 12 0c-1.3 0-2.4.84-2.82 2H5c-1.1 0-2 .9-2 2v16c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm-7 0c.55 0 1 .45 1 1s-.45 1-1 1-1-.45-1-1 .45-1 1-1zm7 18H5V4h2v3h10V4h2v16z"/>
-        </symbol>
-        <symbol id="content_paste_off" viewBox="0 0 100 100">
-          <title>content_paste_off</title>
-          <path d="M0 0h24v24H0z"/><path d="M21.19 21.19 2.81 2.81 1.39 4.22 3 5.83V19c0 1.1.9 2 2 2h13.17l1.61 1.61 1.41-1.42zM5 19V7.83L16.17 19H5zM17 8V5h2v11.17l2 2V5c0-1.1-.9-2-2-2h-4.18C14.4 1.84 13.3 1 12 1s-2.4.84-2.82 2H5.83l5 5H17zm-5-5c.55 0 1 .45 1 1s-.45 1-1 1-1-.45-1-1 .45-1 1-1z"/>
-        </symbol>
-        <symbol id="copy_all" viewBox="0 0 100 100">
-          <title>copy_all</title>
-          <path d="M0 0h24v24H0z"/><path d="M18 2H9c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h9c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm0 14H9V4h9v12zM3 15v-2h2v2H3zm0-5.5h2v2H3v-2zM10 20h2v2h-2v-2zm-7-1.5v-2h2v2H3zM5 22c-1.1 0-2-.9-2-2h2v2zm3.5 0h-2v-2h2v2zm5 0v-2h2c0 1.1-.9 2-2 2zM5 6v2H3c0-1.1.9-2 2-2z"/>
-        </symbol>
-        <symbol id="create" viewBox="0 0 100 100">
-          <title>create</title>
-          <path d="M0 0h24v24H0z"/><path d="M3 17.25V21h3.75L17.81 9.94l-3.75-3.75L3 17.25zM20.71 7.04a.996.996 0 0 0 0-1.41l-2.34-2.34a.996.996 0 0 0-1.41 0l-1.83 1.83 3.75 3.75 1.83-1.83z"/>
-        </symbol>
-        <symbol id="delete_sweep" viewBox="0 0 100 100">
-          <title>delete_sweep</title>
-          <path d="M0 0h24v24H0z"/><path d="M15 16h4v2h-4zm0-8h7v2h-7zm0 4h6v2h-6zM3 18c0 1.1.9 2 2 2h6c1.1 0 2-.9 2-2V8H3v10zM14 5h-3l-1-1H6L5 5H2v2h12z"/>
-        </symbol>
-        <symbol id="drafts" viewBox="0 0 100 100">
-          <title>drafts</title>
-          <path d="M0 0h24v24H0z"/><path d="M21.99 8c0-.72-.37-1.35-.94-1.7L12 1 2.95 6.3C2.38 6.65 2 7.28 2 8v10c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2l-.01-10zM12 13 3.74 7.84 12 3l8.26 4.84L12 13z"/>
-        </symbol>
-        <symbol id="dynamic_feed" viewBox="0 0 100 100">
-          <title>dynamic_feed</title>
-          <path d="M0 0h24v24H0z"/><path d="M8 8H6v7c0 1.1.9 2 2 2h9v-2H8V8z"/><path d="M20 3h-8c-1.1 0-2 .9-2 2v6c0 1.1.9 2 2 2h8c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm0 8h-8V7h8v4zM4 12H2v7c0 1.1.9 2 2 2h9v-2H4v-7z"/>
-        </symbol>
-        <symbol id="file_copy" viewBox="0 0 100 100">
-          <title>file_copy</title>
-          <path d="M0 0h24v24H0z"/><path d="M16 1H4c-1.1 0-2 .9-2 2v14h2V3h12V1zm-1 4 6 6v10c0 1.1-.9 2-2 2H7.99C6.89 23 6 22.1 6 21l.01-14c0-1.1.89-2 1.99-2h7zm-1 7h5.5L14 6.5V12z"/>
-        </symbol>
-        <symbol id="filter_list" viewBox="0 0 100 100">
-          <title>filter_list</title>
-          <path d="M0 0h24v24H0z"/><path d="M10 18h4v-2h-4v2zM3 6v2h18V6H3zm3 7h12v-2H6v2z"/>
-        </symbol>
-        <symbol id="flag" viewBox="0 0 100 100">
-          <title>flag</title>
-          <path d="M0 0h24v24H0z"/><path d="M14.4 6 14 4H5v17h2v-7h5.6l.4 2h7V6z"/>
-        </symbol>
-        <symbol id="font_download" viewBox="0 0 100 100">
-          <title>font_download</title>
-          <path d="M0 0h24v24H0V0z"/><path d="M9.93 13.5h4.14L12 7.98zM20 2H4c-1.1 0-2 .9-2 2v16c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm-4.05 16.5-1.14-3H9.17l-1.12 3H5.96l5.11-13h1.86l5.11 13h-2.09z"/>
-        </symbol>
-        <symbol id="font_download_off" viewBox="0 0 100 100">
-          <title>font_download_off</title>
-          <path d="M0 0h24v24H0z"/><path d="m12.58 9.75-.87-.87.23-.66h.1l.54 1.53zm-2.23-2.23L10.92 6h2.14l2.55 6.79L22 19.17V4c0-1.1-.9-2-2-2H4.83l5.52 5.52zm10.14 15.79L19.17 22H4c-1.1 0-2-.9-2-2V4.83L.69 3.51 2.1 2.1l19.8 19.8-1.41 1.41zm-8.39-8.38-3.3-3.3L6.41 18h2.08l1.09-3.07h2.52z"/>
-        </symbol>
-        <symbol id="forward" viewBox="0 0 100 100">
-          <title>forward</title>
-          <path d="M0 0h24v24H0z"/><path d="M12 8V4l8 8-8 8v-4H4V8z"/>
-        </symbol>
-        <symbol id="gesture" viewBox="0 0 100 100">
-          <title>gesture</title>
-          <path d="M0 0h24v24H0z"/><path d="M4.59 6.89c.7-.71 1.4-1.35 1.71-1.22.5.2 0 1.03-.3 1.52-.25.42-2.86 3.89-2.86 6.31 0 1.28.48 2.34 1.34 2.98.75.56 1.74.73 2.64.46 1.07-.31 1.95-1.4 3.06-2.77 1.21-1.49 2.83-3.44 4.08-3.44 1.63 0 1.65 1.01 1.76 1.79-3.78.64-5.38 3.67-5.38 5.37 0 1.7 1.44 3.09 3.21 3.09 1.63 0 4.29-1.33 4.69-6.1H21v-2.5h-2.47c-.15-1.65-1.09-4.2-4.03-4.2-2.25 0-4.18 1.91-4.94 2.84-.58.73-2.06 2.48-2.29 2.72-.25.3-.68.84-1.11.84-.45 0-.72-.83-.36-1.92.35-1.09 1.4-2.86 1.85-3.52.78-1.14 1.3-1.92 1.3-3.28C8.95 3.69 7.31 3 6.44 3 5.12 3 3.97 4 3.72 4.25c-.36.36-.66.66-.88.93l1.75 1.71zm9.29 11.66c-.31 0-.74-.26-.74-.72 0-.6.73-2.2 2.87-2.76-.3 2.69-1.43 3.48-2.13 3.48z"/>
-        </symbol>
-        <symbol id="how_to_reg" viewBox="0 0 100 100">
-          <title>how_to_reg</title>
-          <path d="M0 0h24v24H0z"/><g><path d="m9 17 3-2.94a9.34 9.34 0 0 0-1-.06c-2.67 0-8 1.34-8 4v2h9l-3-3zm2-5c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4M15.47 20.5 12 17l1.4-1.41 2.07 2.08 5.13-5.17 1.4 1.41z"/></g>
-        </symbol>
-        <symbol id="how_to_vote" viewBox="0 0 100 100">
-          <title>how_to_vote</title>
-          <path d="M0 0h24v24H0V0z"/><path d="M18 13h-.68l-2 2h1.91L19 17H5l1.78-2h2.05l-2-2H6l-3 3v4c0 1.1.89 2 1.99 2H19a2 2 0 0 0 2-2v-4l-3-3zm-1-5.05-4.95 4.95-3.54-3.54 4.95-4.95L17 7.95zm-4.24-5.66L6.39 8.66a.996.996 0 0 0 0 1.41l4.95 4.95c.39.39 1.02.39 1.41 0l6.36-6.36a.996.996 0 0 0 0-1.41L14.16 2.3a.975.975 0 0 0-1.4-.01z"/>
-        </symbol>
-        <symbol id="inbox" viewBox="0 0 100 100">
-          <title>inbox</title>
-          <path d="M0 0h24v24H0V0z"/><path d="M19 3H4.99c-1.11 0-1.98.89-1.98 2L3 19c0 1.1.88 2 1.99 2H19c1.1 0 2-.9 2-2V5a2 2 0 0 0-2-2zm0 12h-4c0 1.66-1.35 3-3 3s-3-1.34-3-3H4.99V5H19v10z"/>
-        </symbol>
-        <symbol id="insights" viewBox="0 0 100 100">
-          <title>insights</title>
-          <path d="M0 0h24v24H0z"/><path d="M21 8c-1.45 0-2.26 1.44-1.93 2.51l-3.55 3.56c-.3-.09-.74-.09-1.04 0l-2.55-2.55C12.27 10.45 11.46 9 10 9c-1.45 0-2.27 1.44-1.93 2.52l-4.56 4.55C2.44 15.74 1 16.55 1 18c0 1.1.9 2 2 2 1.45 0 2.26-1.44 1.93-2.51l4.55-4.56c.3.09.74.09 1.04 0l2.55 2.55C12.73 16.55 13.54 18 15 18c1.45 0 2.27-1.44 1.93-2.52l3.56-3.55c1.07.33 2.51-.48 2.51-1.93 0-1.1-.9-2-2-2z"/><path d="m15 9 .94-2.07L18 6l-2.06-.93L15 3l-.92 2.07L12 6l2.08.93zM3.5 11 4 9l2-.5L4 8l-.5-2L3 8l-2 .5L3 9z"/>
-        </symbol>
-        <symbol id="inventory" viewBox="0 0 100 100">
-          <title>inventory</title>
-          <path d="M0 0h24v24H0V0z"/><path d="M20 2H4c-1 0-2 .9-2 2v3.01c0 .72.43 1.34 1 1.69V20c0 1.1 1.1 2 2 2h14c.9 0 2-.9 2-2V8.7c.57-.35 1-.97 1-1.69V4c0-1.1-1-2-2-2zm-5 12H9v-2h6v2zm5-7H4V4l16-.02V7z"/>
-        </symbol>
-        <symbol id="inventory_2" viewBox="0 0 100 100">
-          <title>inventory_2</title>
-          <path d="M0 0h24v24H0z"/><path d="M20 2H4c-1 0-2 .9-2 2v3.01c0 .72.43 1.34 1 1.69V20c0 1.1 1.1 2 2 2h14c.9 0 2-.9 2-2V8.7c.57-.35 1-.97 1-1.69V4c0-1.1-1-2-2-2zm-5 12H9v-2h6v2zm5-7H4V4h16v3z"/>
-        </symbol>
-        <symbol id="link" viewBox="0 0 100 100">
-          <title>link</title>
-          <path d="M0 0h24v24H0z"/><path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76 0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71 0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71 0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76 0 5-2.24 5-5s-2.24-5-5-5z"/>
-        </symbol>
-        <symbol id="link_off" viewBox="0 0 100 100">
-          <title>link_off</title>
-          <path d="M0 0h24v24H0V0z"/><path d="M17 7h-4v1.9h4c1.71 0 3.1 1.39 3.1 3.1 0 1.43-.98 2.63-2.31 2.98l1.46 1.46C20.88 15.61 22 13.95 22 12c0-2.76-2.24-5-5-5zm-1 4h-2.19l2 2H16zM2 4.27l3.11 3.11A4.991 4.991 0 0 0 2 12c0 2.76 2.24 5 5 5h4v-1.9H7c-1.71 0-3.1-1.39-3.1-3.1 0-1.59 1.21-2.9 2.76-3.07L8.73 11H8v2h2.73L13 15.27V17h1.73l4.01 4L20 19.74 3.27 3 2 4.27z"/><path d="M0 24V0"/>
-        </symbol>
-        <symbol id="low_priority" viewBox="0 0 100 100">
-          <title>low_priority</title>
-          <path d="M0 0h24v24H0z"/><path d="M14 5h8v2h-8zm0 5.5h8v2h-8zm0 5.5h8v2h-8zM2 11.5C2 15.08 4.92 18 8.5 18H9v2l3-3-3-3v2h-.5C6.02 16 4 13.98 4 11.5S6.02 7 8.5 7H12V5H8.5C4.92 5 2 7.92 2 11.5z"/>
-        </symbol>
-        <symbol id="mail" viewBox="0 0 100 100">
-          <title>mail</title>
-          <path d="M0 0h24v24H0z"/><path d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4-8 5-8-5V6l8 5 8-5v2z"/>
-        </symbol>
-        <symbol id="markunread" viewBox="0 0 100 100">
-          <title>markunread</title>
-          <path d="M0 0h24v24H0z"/><path d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4-8 5-8-5V6l8 5 8-5v2z"/>
-        </symbol>
-        <symbol id="move_to_inbox" viewBox="0 0 100 100">
-          <title>move_to_inbox</title>
-          <path d="M0 0h24v24H0V0z"/><path d="M19 3H4.99c-1.11 0-1.98.9-1.98 2L3 19c0 1.1.88 2 1.99 2H19c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm0 12h-4c0 1.66-1.35 3-3 3s-3-1.34-3-3H4.99V5H19v10zm-3-5h-2V7h-4v3H8l4 4 4-4z"/>
-        </symbol>
-        <symbol id="next_week" viewBox="0 0 100 100">
-          <title>next_week</title>
-          <path d="M0 0h24v24H0z"/><path d="M20 7h-4V5c0-.55-.22-1.05-.59-1.41C15.05 3.22 14.55 3 14 3h-4c-1.1 0-2 .9-2 2v2H4c-1.1 0-2 .9-2 2v11c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V9c0-1.1-.9-2-2-2zM10 5h4v2h-4V5zm1 13.5-1-1 3-3-3-3 1-1 4 4-4 4z"/>
-        </symbol>
-        <symbol id="outlined_flag" viewBox="0 0 100 100">
-          <title>outlined_flag</title>
-          <path d="M0 0h24v24H0z"/><path d="m14 6-1-2H5v17h2v-7h5l1 2h7V6h-6zm4 8h-4l-1-2H7V6h5l1 2h5v6z"/>
-        </symbol>
-        <symbol id="policy" viewBox="0 0 100 100">
-          <title>policy</title>
-          <path d="M0 0h24v24H0z"/><path d="m21 5-9-4-9 4v6c0 5.55 3.84 10.74 9 12 2.3-.56 4.33-1.9 5.88-3.71l-3.12-3.12a4.994 4.994 0 0 1-6.29-.64 5.003 5.003 0 0 1 0-7.07 5.003 5.003 0 0 1 7.07 0 5.006 5.006 0 0 1 .64 6.29l2.9 2.9C20.29 15.69 21 13.38 21 11V5z"/><circle cx="12" cy="12" r="3"/>
-        </symbol>
-        <symbol id="push_pin" viewBox="0 0 100 100">
-          <title>push_pin</title>
-          <path d="M0 0h24v24H0z"/><path d="M16 9V4h1c.55 0 1-.45 1-1s-.45-1-1-1H7c-.55 0-1 .45-1 1s.45 1 1 1h1v5c0 1.66-1.34 3-3 3v2h5.97v7l1 1 1-1v-7H19v-2c-1.66 0-3-1.34-3-3z"/>
-        </symbol>
-        <symbol id="redo" viewBox="0 0 100 100">
-          <title>redo</title>
-          <path d="M0 0h24v24H0z"/><path d="M18.4 10.6C16.55 8.99 14.15 8 11.5 8c-4.65 0-8.58 3.03-9.96 7.22L3.9 16a8.002 8.002 0 0 1 7.6-5.5c1.95 0 3.73.72 5.12 1.88L13 16h9V7l-3.6 3.6z"/>
-        </symbol>
-        <symbol id="remove" viewBox="0 0 100 100">
-          <title>remove</title>
-          <path d="M0 0h24v24H0z"/><path d="M19 13H5v-2h14v2z"/>
-        </symbol>
-        <symbol id="remove_circle" viewBox="0 0 100 100">
-          <title>remove_circle</title>
-          <path d="M0 0h24v24H0z"/><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm5 11H7v-2h10v2z"/>
-        </symbol>
-        <symbol id="remove_circle_outline" viewBox="0 0 100 100">
-          <title>remove_circle_outline</title>
-          <path d="M0 0h24v24H0z"/><path d="M7 11v2h10v-2H7zm5-9C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z"/>
-        </symbol>
-        <symbol id="reply" viewBox="0 0 100 100">
-          <title>reply</title>
-          <path d="M0 0h24v24H0z"/><path d="M10 9V5l-7 7 7 7v-4.1c5 0 8.5 1.6 11 5.1-1-5-4-10-11-11z"/>
-        </symbol>
-        <symbol id="reply_all" viewBox="0 0 100 100">
-          <title>reply_all</title>
-          <path d="M0 0h24v24H0z"/><path d="M7 8V5l-7 7 7 7v-3l-4-4 4-4zm6 1V5l-7 7 7 7v-4.1c5 0 8.5 1.6 11 5.1-1-5-4-10-11-11z"/>
-        </symbol>
-        <symbol id="report" viewBox="0 0 100 100">
-          <title>report</title>
-          <path d="M0 0h24v24H0z"/><path d="M15.73 3H8.27L3 8.27v7.46L8.27 21h7.46L21 15.73V8.27L15.73 3zM12 17.3c-.72 0-1.3-.58-1.3-1.3 0-.72.58-1.3 1.3-1.3.72 0 1.3.58 1.3 1.3 0 .72-.58 1.3-1.3 1.3zm1-4.3h-2V7h2v6z"/>
-        </symbol>
-        <symbol id="report_gmailerrorred" viewBox="0 0 100 100">
-          <title>report_gmailerrorred</title>
-          <path d="M0 0h24v24H0z"/><path d="M15.73 3H8.27L3 8.27v7.46L8.27 21h7.46L21 15.73V8.27L15.73 3zM19 14.9 14.9 19H9.1L5 14.9V9.1L9.1 5h5.8L19 9.1v5.8z"/><path d="M11 7h2v6h-2zM11 15h2v2h-2z"/>
-        </symbol>
-        <symbol id="report_off" viewBox="0 0 100 100">
-          <title>report_off</title>
-          <path d="M0 0h24v24H0z"/><path d="M11 7h2v2.92l6.91 6.91 1.09-1.1V8.27L15.73 3H8.27L7.18 4.1 11 7.92zm11.27 14.73-20-20.01L1 2.99l3.64 3.64L3 8.27v7.46L8.27 21h7.46l1.64-1.63L21 23l1.27-1.27zM12 17.3c-.72 0-1.3-.58-1.3-1.3s.58-1.3 1.3-1.3 1.3.58 1.3 1.3-.58 1.3-1.3 1.3z"/>
-        </symbol>
-        <symbol id="save" viewBox="0 0 100 100">
-          <title>save</title>
-          <path d="M0 0h24v24H0z"/><path d="M17 3H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14c1.1 0 2-.9 2-2V7l-4-4zm-5 16c-1.66 0-3-1.34-3-3s1.34-3 3-3 3 1.34 3 3-1.34 3-3 3zm3-10H5V5h10v4z"/>
-        </symbol>
-        <symbol id="save_alt" viewBox="0 0 100 100">
-          <title>save_alt</title>
-          <path d="M0 0h24v24H0z"/><path d="M19 12v7H5v-7H3v7c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2v-7h-2zm-6 .67 2.59-2.58L17 11.5l-5 5-5-5 1.41-1.41L11 12.67V3h2z"/>
-        </symbol>
-        <symbol id="select_all" viewBox="0 0 100 100">
-          <title>select_all</title>
-          <path d="M0 0h24v24H0z"/><path d="M3 5h2V3c-1.1 0-2 .9-2 2zm0 8h2v-2H3v2zm4 8h2v-2H7v2zM3 9h2V7H3v2zm10-6h-2v2h2V3zm6 0v2h2c0-1.1-.9-2-2-2zM5 21v-2H3c0 1.1.9 2 2 2zm-2-4h2v-2H3v2zM9 3H7v2h2V3zm2 18h2v-2h-2v2zm8-8h2v-2h-2v2zm0 8c1.1 0 2-.9 2-2h-2v2zm0-12h2V7h-2v2zm0 8h2v-2h-2v2zm-4 4h2v-2h-2v2zm0-16h2V3h-2v2zM7 17h10V7H7v10zm2-8h6v6H9V9z"/>
-        </symbol>
-        <symbol id="send" viewBox="0 0 100 100">
-          <title>send</title>
-          <path d="M0 0h24v24H0z"/><path d="M2.01 21 23 12 2.01 3 2 10l15 2-15 2z"/>
-        </symbol>
-        <symbol id="shield" viewBox="0 0 100 100">
-          <title>shield</title>
-          <path d="M0 0h24v24H0z"/><path d="M12 1 3 5v6c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V5l-9-4z"/>
-        </symbol>
-        <symbol id="sort" viewBox="0 0 100 100">
-          <title>sort</title>
-          <path d="M0 0h24v24H0z"/><path d="M3 18h6v-2H3v2zM3 6v2h18V6H3zm0 7h12v-2H3v2z"/>
-        </symbol>
-        <symbol id="square_foot" viewBox="0 0 100 100">
-          <title>square_foot</title>
-          <path d="M0 0h24v24H0z"/><path d="m17.66 17.66-1.06 1.06-.71-.71 1.06-1.06-1.94-1.94-1.06 1.06-.71-.71 1.06-1.06-1.94-1.94-1.06 1.06-.71-.71 1.06-1.06L9.7 9.7l-1.06 1.06-.71-.71 1.06-1.06-1.94-1.94-1.06 1.06-.71-.71 1.06-1.06L4 4v14c0 1.1.9 2 2 2h14l-2.34-2.34zM7 17v-5.76L12.76 17H7z"/>
-        </symbol>
-        <symbol id="stacked_bar_chart" viewBox="0 0 100 100">
-          <title>stacked_bar_chart</title>
-          <path d="M0 0h24v24H0z"/><path d="M6 10h3v10H6zm0-5h3v4H6zm10 11h3v4h-3zm0-3h3v2h-3zm-5 0h3v7h-3zm0-4h3v3h-3z"/>
-        </symbol>
-        <symbol id="stream" viewBox="0 0 100 100">
-          <title>stream</title>
-          <path d="M0 0h24v24H0z"/><circle cx="20" cy="12" r="2"/><circle cx="4" cy="12" r="2"/><circle cx="12" cy="20" r="2"/><path d="M10.05 8.59 6.03 4.55h-.01l-.31-.32-1.42 1.41 4.02 4.05.01-.01.31.32zm3.893.027 4.405-4.392L19.76 5.64l-4.405 4.393zM10.01 15.36l-1.42-1.41-4.03 4.01-.32.33 1.41 1.41 4.03-4.02zm9.75 2.94-3.99-4.01-.36-.35L14 15.35l3.99 4.01.35.35z"/><circle cx="12" cy="4" r="2"/>
-        </symbol>
-        <symbol id="tag" viewBox="0 0 100 100">
-          <title>tag</title>
-          <path d="M20 10V8h-4V4h-2v4h-4V4H8v4H4v2h4v4H4v2h4v4h2v-4h4v4h2v-4h4v-2h-4v-4h4zm-6 4h-4v-4h4v4z"/>
-        </symbol>
-        <symbol id="text_format" viewBox="0 0 100 100">
-          <title>text_format</title>
-          <path d="M0 0h24v24H0z"/><path d="M5 17v2h14v-2H5zm4.5-4.2h5l.9 2.2h2.1L12.75 4h-1.5L6.5 15h2.1l.9-2.2zM12 5.98 13.87 11h-3.74L12 5.98z"/>
-        </symbol>
-        <symbol id="unarchive" viewBox="0 0 100 100">
-          <title>unarchive</title>
-          <path d="M0 0h24v24H0z"/><path d="m20.55 5.22-1.39-1.68A1.51 1.51 0 0 0 18 3H6c-.47 0-.88.21-1.15.55L3.46 5.22C3.17 5.57 3 6.01 3 6.5V19a2 2 0 0 0 2 2h14c1.1 0 2-.9 2-2V6.5c0-.49-.17-.93-.45-1.28zM12 9.5l5.5 5.5H14v2h-4v-2H6.5L12 9.5zM5.12 5l.82-1h12l.93 1H5.12z"/>
-        </symbol>
-        <symbol id="undo" viewBox="0 0 100 100">
-          <title>undo</title>
-          <path d="M0 0h24v24H0z"/><path d="M12.5 8c-2.65 0-5.05.99-6.9 2.6L2 7v9h9l-3.62-3.62c1.39-1.16 3.16-1.88 5.12-1.88 3.54 0 6.55 2.31 7.6 5.5l2.37-.78C21.08 11.03 17.15 8 12.5 8z"/>
-        </symbol>
-        <symbol id="upcoming" viewBox="0 0 100 100">
-          <title>upcoming</title>
-          <path d="M0 0h24v24H0z"/><path d="m21.16 7.26-1.41-1.41-3.56 3.55 1.41 1.41s3.45-3.52 3.56-3.55zM11 3h2v5h-2zM6.4 10.81 7.81 9.4 4.26 5.84 2.84 7.26c.11.03 3.56 3.55 3.56 3.55zM20 12h-5c0 1.66-1.34 3-3 3s-3-1.34-3-3H4c-1.1 0-2 .9-2 2v5c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2v-5c0-1.1-.9-2-2-2z"/>
-        </symbol>
-        <symbol id="waves" viewBox="0 0 100 100">
-          <title>waves</title>
-          <path d="M17 16.99c-1.35 0-2.2.42-2.95.8-.65.33-1.18.6-2.05.6-.9 0-1.4-.25-2.05-.6-.75-.38-1.57-.8-2.95-.8s-2.2.42-2.95.8c-.65.33-1.17.6-2.05.6v1.95c1.35 0 2.2-.42 2.95-.8.65-.33 1.17-.6 2.05-.6s1.4.25 2.05.6c.75.38 1.57.8 2.95.8s2.2-.42 2.95-.8c.65-.33 1.18-.6 2.05-.6.9 0 1.4.25 2.05.6.75.38 1.58.8 2.95.8v-1.95c-.9 0-1.4-.25-2.05-.6-.75-.38-1.6-.8-2.95-.8zm0-4.45c-1.35 0-2.2.43-2.95.8-.65.32-1.18.6-2.05.6-.9 0-1.4-.25-2.05-.6-.75-.38-1.57-.8-2.95-.8s-2.2.43-2.95.8c-.65.32-1.17.6-2.05.6v1.95c1.35 0 2.2-.43 2.95-.8.65-.35 1.15-.6 2.05-.6s1.4.25 2.05.6c.75.38 1.57.8 2.95.8s2.2-.43 2.95-.8c.65-.35 1.15-.6 2.05-.6s1.4.25 2.05.6c.75.38 1.58.8 2.95.8v-1.95c-.9 0-1.4-.25-2.05-.6-.75-.38-1.6-.8-2.95-.8zm2.95-8.08c-.75-.38-1.58-.8-2.95-.8s-2.2.42-2.95.8c-.65.32-1.18.6-2.05.6-.9 0-1.4-.25-2.05-.6-.75-.37-1.57-.8-2.95-.8s-2.2.42-2.95.8c-.65.33-1.17.6-2.05.6v1.93c1.35 0 2.2-.43 2.95-.8.65-.33 1.17-.6 2.05-.6s1.4.25 2.05.6c.75.38 1.57.8 2.95.8s2.2-.43 2.95-.8c.65-.32 1.18-.6 2.05-.6.9 0 1.4.25 2.05.6.75.38 1.58.8 2.95.8V5.04c-.9 0-1.4-.25-2.05-.58zM17 8.09c-1.35 0-2.2.43-2.95.8-.65.35-1.15.6-2.05.6s-1.4-.25-2.05-.6c-.75-.38-1.57-.8-2.95-.8s-2.2.43-2.95.8c-.65.35-1.15.6-2.05.6v1.95c1.35 0 2.2-.43 2.95-.8.65-.32 1.18-.6 2.05-.6s1.4.25 2.05.6c.75.38 1.57.8 2.95.8s2.2-.43 2.95-.8c.65-.32 1.18-.6 2.05-.6.9 0 1.4.25 2.05.6.75.38 1.58.8 2.95.8V9.49c-.9 0-1.4-.25-2.05-.6-.75-.38-1.6-.8-2.95-.8z"/>
-        </symbol>
-        <symbol id="web_stories" viewBox="0 0 100 100">
-          <title>web_stories</title>
-          <path d="M0 0h24v24H0z"/><path d="M18 4c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2V4zM3 20c0 1.1.9 2 2 2h9c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2H5c-1.1 0-2 .9-2 2v16zm19-2c.83 0 1.5-.67 1.5-1.5v-9c0-.83-.67-1.5-1.5-1.5v12z"/>
-        </symbol>
-        <symbol id="weekend" viewBox="0 0 100 100">
-          <title>weekend</title>
-          <path d="M0 0h24v24H0z"/><path d="M21 10c-1.1 0-2 .9-2 2v3H5v-3a2 2 0 1 0-4 0v5c0 1.1.9 2 2 2h18c1.1 0 2-.9 2-2v-5c0-1.1-.9-2-2-2zm-3-5H6c-1.1 0-2 .9-2 2v2.15c1.16.41 2 1.52 2 2.81V14h12v-2.03c0-1.3.84-2.4 2-2.81V7c0-1.1-.9-2-2-2z"/>
-        </symbol>
-        <symbol id="where_to_vote" viewBox="0 0 100 100">
-          <title>where_to_vote</title>
-          <path d="M0 0h24v24H0V0z"/><path d="M12 2c3.86 0 7 3.14 7 7 0 5.25-7 13-7 13S5 14.25 5 9c0-3.86 3.14-7 7-7zm-1.53 12L17 7.41 15.6 6l-5.13 5.18L8.4 9.09 7 10.5l3.47 3.5z"/>
-        </symbol>
-    </defs>
+<defs>
+    <symbol viewBox="0 0 24 24" id="ic_add_24px">
+        <path d="M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6v2z" />
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="ic_add_box_24px">
+        <path d="M19 3H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-2 10h-4v4h-2v-4H7v-2h4V7h2v4h4v2z" />
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="ic_add_circle_24px">
+        <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm5 11h-4v4h-2v-4H7v-2h4V7h2v4h4v2z" />
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="ic_add_circle_outline_24px">
+        <path d="M13 7h-2v4H7v2h4v4h2v-4h4v-2h-4V7zm-1-5C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z" />
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="ic_archive_24px">
+        <path d="M20.54 5.23l-1.39-1.68A1.45 1.45 0 0 0 18 3H6c-.47 0-.88.21-1.16.55L3.46 5.23C3.17 5.57 3 6.02 3 6.5V19c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V6.5c0-.48-.17-.93-.46-1.27zM12 17.5L6.5 12H10v-2h4v2h3.5L12 17.5zM5.12 5l.81-1h12l.94 1H5.12z" />
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="ic_backspace_24px">
+        <path d="M22 3H7c-.69 0-1.23.35-1.59.88L0 12l5.41 8.11c.36.53.9.89 1.59.89h15c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-3 12.59L17.59 17 14 13.41 10.41 17 9 15.59 12.59 12 9 8.41 10.41 7 14 10.59 17.59 7 19 8.41 15.41 12 19 15.59z" />
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="ic_block_24px">
+        <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zM4 12c0-4.42 3.58-8 8-8 1.85 0 3.55.63 4.9 1.69L5.69 16.9A7.902 7.902 0 0 1 4 12zm8 8c-1.85 0-3.55-.63-4.9-1.69L18.31 7.1A7.902 7.902 0 0 1 20 12c0 4.42-3.58 8-8 8z" />
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="ic_clear_24px">
+        <path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z" />
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="ic_content_copy_24px">
+        <path d="M16 1H4c-1.1 0-2 .9-2 2v14h2V3h12V1zm3 4H8c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h11c1.1 0 2-.9 2-2V7c0-1.1-.9-2-2-2zm0 16H8V7h11v14z" />
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="ic_content_cut_24px">
+        <path d="M9.64 7.64c.23-.5.36-1.05.36-1.64 0-2.21-1.79-4-4-4S2 3.79 2 6s1.79 4 4 4c.59 0 1.14-.13 1.64-.36L10 12l-2.36 2.36C7.14 14.13 6.59 14 6 14c-2.21 0-4 1.79-4 4s1.79 4 4 4 4-1.79 4-4c0-.59-.13-1.14-.36-1.64L12 14l7 7h3v-1L9.64 7.64zM6 8a2 2 0 1 1 0-4 2 2 0 0 1 0 4zm0 12a2 2 0 1 1 0-4 2 2 0 0 1 0 4zm6-7.5c-.28 0-.5-.22-.5-.5s.22-.5.5-.5.5.22.5.5-.22.5-.5.5zM19 3l-6 6 2 2 7-7V3z"
+        />
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="ic_content_paste_24px">
+        <path d="M19 2h-4.18C14.4.84 13.3 0 12 0c-1.3 0-2.4.84-2.82 2H5c-1.1 0-2 .9-2 2v16c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm-7 0c.55 0 1 .45 1 1s-.45 1-1 1-1-.45-1-1 .45-1 1-1zm7 18H5V4h2v3h10V4h2v16z" />
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="ic_create_24px">
+        <path d="M3 17.25V21h3.75L17.81 9.94l-3.75-3.75L3 17.25zM20.71 7.04a.996.996 0 0 0 0-1.41l-2.34-2.34a.996.996 0 0 0-1.41 0l-1.83 1.83 3.75 3.75 1.83-1.83z" />
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="ic_delete_sweep_24px">
+        <path d="M15 16h4v2h-4zm0-8h7v2h-7zm0 4h6v2h-6zM3 18c0 1.1.9 2 2 2h6c1.1 0 2-.9 2-2V8H3v10zM14 5h-3l-1-1H6L5 5H2v2h12z" />
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="ic_drafts_24px">
+        <path d="M21.99 8c0-.72-.37-1.35-.94-1.7L12 1 2.95 6.3C2.38 6.65 2 7.28 2 8v10c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2l-.01-10zM12 13L3.74 7.84 12 3l8.26 4.84L12 13z" />
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="ic_filter_list_24px">
+        <path d="M10 18h4v-2h-4v2zM3 6v2h18V6H3zm3 7h12v-2H6v2z" />
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="ic_flag_24px">
+        <path d="M14.4 6L14 4H5v17h2v-7h5.6l.4 2h7V6z" />
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="ic_font_download_24px">
+        <path d="M9.93 13.5h4.14L12 7.98zM20 2H4c-1.1 0-2 .9-2 2v16c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm-4.05 16.5l-1.14-3H9.17l-1.12 3H5.96l5.11-13h1.86l5.11 13h-2.09z" />
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="ic_forward_24px">
+        <path d="M12 8V4l8 8-8 8v-4H4V8z" />
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="ic_gesture_24px">
+        <path d="M4.59 6.89c.7-.71 1.4-1.35 1.71-1.22.5.2 0 1.03-.3 1.52-.25.42-2.86 3.89-2.86 6.31 0 1.28.48 2.34 1.34 2.98.75.56 1.74.73 2.64.46 1.07-.31 1.95-1.4 3.06-2.77 1.21-1.49 2.83-3.44 4.08-3.44 1.63 0 1.65 1.01 1.76 1.79-3.78.64-5.38 3.67-5.38 5.37 0 1.7 1.44 3.09 3.21 3.09 1.63 0 4.29-1.33 4.69-6.1H21v-2.5h-2.47c-.15-1.65-1.09-4.2-4.03-4.2-2.25 0-4.18 1.91-4.94 2.84-.58.73-2.06 2.48-2.29 2.72-.25.3-.68.84-1.11.84-.45 0-.72-.83-.36-1.92.35-1.09 1.4-2.86 1.85-3.52.78-1.14 1.3-1.92 1.3-3.28C8.95 3.69 7.31 3 6.44 3 5.12 3 3.97 4 3.72 4.25c-.36.36-.66.66-.88.93l1.75 1.71zm9.29 11.66c-.31 0-.74-.26-.74-.72 0-.6.73-2.2 2.87-2.76-.3 2.69-1.43 3.48-2.13 3.48z"
+        />
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="ic_inbox_24px">
+        <path d="M19 3H4.99c-1.11 0-1.98.89-1.98 2L3 19c0 1.1.88 2 1.99 2H19c1.1 0 2-.9 2-2V5a2 2 0 0 0-2-2zm0 12h-4c0 1.66-1.35 3-3 3s-3-1.34-3-3H4.99V5H19v10z" />
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="ic_link_24px">
+        <path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76 0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71 0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71 0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76 0 5-2.24 5-5s-2.24-5-5-5z" />
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="ic_low_priority_24px">
+        <path d="M14 5h8v2h-8zm0 5.5h8v2h-8zm0 5.5h8v2h-8zM2 11.5C2 15.08 4.92 18 8.5 18H9v2l3-3-3-3v2h-.5C6.02 16 4 13.98 4 11.5S6.02 7 8.5 7H12V5H8.5C4.92 5 2 7.92 2 11.5z" />
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="ic_mail_24px">
+        <path d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z" />
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="ic_markunread_24px">
+        <path d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z" />
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="ic_move_to_inbox_24px">
+        <path d="M19 3H4.99c-1.11 0-1.98.9-1.98 2L3 19c0 1.1.88 2 1.99 2H19c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm0 12h-4c0 1.66-1.35 3-3 3s-3-1.34-3-3H4.99V5H19v10zm-3-5h-2V7h-4v3H8l4 4 4-4z" />
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="ic_next_week_24px">
+        <path fill="#010101" d="M20 7h-4V5c0-.55-.22-1.05-.59-1.41C15.05 3.22 14.55 3 14 3h-4c-1.1 0-2 .9-2 2v2H4c-1.1 0-2 .9-2 2v11c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V9c0-1.1-.9-2-2-2zM10 5h4v2h-4V5zm1 13.5l-1-1 3-3-3-3 1-1 4 4-4 4z" />
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="ic_redo_24px">
+        <path d="M18.4 10.6C16.55 8.99 14.15 8 11.5 8c-4.65 0-8.58 3.03-9.96 7.22L3.9 16a8.002 8.002 0 0 1 7.6-5.5c1.95 0 3.73.72 5.12 1.88L13 16h9V7l-3.6 3.6z" />
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="ic_remove_24px">
+        <path d="M19 13H5v-2h14v2z" />
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="ic_remove_circle_24px">
+        <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm5 11H7v-2h10v2z" />
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="ic_remove_circle_outline_24px">
+        <path d="M7 11v2h10v-2H7zm5-9C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z" />
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="ic_reply_24px">
+        <path d="M10 9V5l-7 7 7 7v-4.1c5 0 8.5 1.6 11 5.1-1-5-4-10-11-11z" />
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="ic_reply_all_24px">
+        <path d="M7 8V5l-7 7 7 7v-3l-4-4 4-4zm6 1V5l-7 7 7 7v-4.1c5 0 8.5 1.6 11 5.1-1-5-4-10-11-11z" />
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="ic_report_24px">
+        <path d="M15.73 3H8.27L3 8.27v7.46L8.27 21h7.46L21 15.73V8.27L15.73 3zM12 17.3c-.72 0-1.3-.58-1.3-1.3 0-.72.58-1.3 1.3-1.3.72 0 1.3.58 1.3 1.3 0 .72-.58 1.3-1.3 1.3zm1-4.3h-2V7h2v6z" />
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="ic_save_24px">
+        <path d="M17 3H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14c1.1 0 2-.9 2-2V7l-4-4zm-5 16c-1.66 0-3-1.34-3-3s1.34-3 3-3 3 1.34 3 3-1.34 3-3 3zm3-10H5V5h10v4z" />
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="ic_select_all_24px">
+        <path d="M3 5h2V3c-1.1 0-2 .9-2 2zm0 8h2v-2H3v2zm4 8h2v-2H7v2zM3 9h2V7H3v2zm10-6h-2v2h2V3zm6 0v2h2c0-1.1-.9-2-2-2zM5 21v-2H3c0 1.1.9 2 2 2zm-2-4h2v-2H3v2zM9 3H7v2h2V3zm2 18h2v-2h-2v2zm8-8h2v-2h-2v2zm0 8c1.1 0 2-.9 2-2h-2v2zm0-12h2V7h-2v2zm0 8h2v-2h-2v2zm-4 4h2v-2h-2v2zm0-16h2V3h-2v2zM7 17h10V7H7v10zm2-8h6v6H9V9z"
+        />
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="ic_send_24px">
+        <path d="M2.01 21L23 12 2.01 3 2 10l15 2-15 2z" />
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="ic_sort_24px">
+        <path d="M3 18h6v-2H3v2zM3 6v2h18V6H3zm0 7h12v-2H3v2z" />
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="ic_text_format_24px">
+        <path d="M5 17v2h14v-2H5zm4.5-4.2h5l.9 2.2h2.1L12.75 4h-1.5L6.5 15h2.1l.9-2.2zM12 5.98L13.87 11h-3.74L12 5.98z" />
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="ic_unarchive_24px">
+        <path d="M20.55 5.22l-1.39-1.68A1.51 1.51 0 0 0 18 3H6c-.47 0-.88.21-1.15.55L3.46 5.22C3.17 5.57 3 6.01 3 6.5V19a2 2 0 0 0 2 2h14c1.1 0 2-.9 2-2V6.5c0-.49-.17-.93-.45-1.28zM12 9.5l5.5 5.5H14v2h-4v-2H6.5L12 9.5zM5.12 5l.82-1h12l.93 1H5.12z" />
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="ic_undo_24px">
+        <path d="M12.5 8c-2.65 0-5.05.99-6.9 2.6L2 7v9h9l-3.62-3.62c1.39-1.16 3.16-1.88 5.12-1.88 3.54 0 6.55 2.31 7.6 5.5l2.37-.78C21.08 11.03 17.15 8 12.5 8z" />
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="ic_weekend_24px">
+        <path d="M21 10c-1.1 0-2 .9-2 2v3H5v-3c0-1.1-.9-2-2-2s-2 .9-2 2v5c0 1.1.9 2 2 2h18c1.1 0 2-.9 2-2v-5c0-1.1-.9-2-2-2zm-3-5H6c-1.1 0-2 .9-2 2v2.15c1.16.41 2 1.51 2 2.82V14h12v-2.03c0-1.3.84-2.4 2-2.82V7c0-1.1-.9-2-2-2z" fill="#010101" />
+    </symbol>
+</defs>
 </svg>

@@ -19,23 +19,30 @@ The included symbols libraries so far are:
 <details>
 <summary>Sets</summary>
 
-* Google Material Design **Action** Set
-* Google Material Design **Alert** Set
-* Google Material Design **AV** Set
-* Google Material Design **Communication** Set
-* Google Material Design **Content** Set
-* Google Material Design **Device** Set
-* Google Material Design **Editor** Set
-* Google Material Design **File** Set
-* Google Material Design **Hardware** Set
-* Google Material Design **Image** Set
-* Google Material Design **Maps** Set
-* Google Material Design **Navigation** Set
-* Google Material Design **Notification** Set
-* Google Material Design **Places** Set
-* Google Material Design **Social** Set
-* Google Material Design **Toggle** Set
-  (A live [preview](http://google.github.io/material-design-icons/) of this icon set is available at the Google Material Design github repo.)
+Google Material Design are available in the following styles.
+
+Set               | normal | Outlined | Round | Sharp | Twotone
+------------------|--------|----------|-------|-------|--------
+**Action**        | ✓      | WIP      | WIP   | WIP   | WIP
+**Alert**         | ✓      | WIP      | WIP   | WIP   | WIP
+**AV**            | ✓      | WIP      | WIP   | WIP   | WIP
+**Communication** | ✓      | WIP      | WIP   | WIP   | WIP
+**Content**       | ✓      | WIP      | WIP   | WIP   | WIP
+**Device**        | ✓      | WIP      | WIP   | WIP   | WIP
+**Editor**        | ✓      | WIP      | WIP   | WIP   | WIP
+**File**          | ✓      | WIP      | WIP   | WIP   | WIP
+**Hardware**      | ✓      | WIP      | WIP   | WIP   | WIP
+**Home**          | WIP    | WIP      | WIP   | WIP   | WIP
+**Image**         | ✓      | WIP      | WIP   | WIP   | WIP
+**Maps**          | ✓      | WIP      | WIP   | WIP   | WIP
+**Navigation**    | ✓      | WIP      | WIP   | WIP   | WIP
+**Notification**  | ✓      | WIP      | WIP   | WIP   | WIP
+**Places**        | ✓      | WIP      | WIP   | WIP   | WIP
+**Search**        | WIP    | WIP      | WIP   | WIP   | WIP
+**Social**        | ✓      | WIP      | WIP   | WIP   | WIP
+**Toggle**        | ✓      | WIP      | WIP   | WIP   | WIP
+
+A live [preview](http://google.github.io/material-design-icons/) of this icon set is available at the Google Material Design github repo.
 
 </details>
 <br/>
@@ -206,3 +213,8 @@ It is perfectly fine to use the Inkscape UI for library development, but they wo
 ## How can I contribute?
 
 Check the [CONTRIBUTING](https://github.com/Xaviju/inkscape-open-symbols/blob/master/CONTRIBUTING.md) guide. :D
+
+Upvote or help solve the following Inkscape issues regarding symbols:
+- https://gitlab.com/inkscape/inbox/-/issues/5827
+- https://github.com/flathub/org.inkscape.Inkscape/issues/95
+- https://bugs.launchpad.net/inkscape/+bug/1514481

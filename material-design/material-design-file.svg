@@ -1,197 +1,86 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-    xmlns="http://www.w3.org/2000/svg"
-    xmlns:svg="http://www.w3.org/2000/svg"
-    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
-    xmlns:ns2="http://creativecommons.org/ns#" 
-    xmlns:dc="http://purl.org/dc/elements/1.1/" 
-    xmlns:cc="http://creativecommons.org/ns#"         
-    xmlns:xlink="http://www.w3.org/1999/xlink" 
-    width="720"
-    height="1008"
-    
-    version="1.1"
-    id="svg2"
-    style="fill:none;stroke:black">
-    <title>Material Design Icons [File Set]</title>
-    <desc>Material Design Icons are the official open-source icons featured in the Google Material Design specification.</desc>
-    <metadata>
-        <rdf:RDF>
-            <cc:Work rdf:about="">
-                <dc:format>image/svg+xml</dc:format>
-                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-                <dc:title>Material Design Icons [File Set]</dc:title>
-                <dc:date>2021-11-08</dc:date>
-                <dc:creator>
-                    <cc:Agent>
-                        <dc:title>Google</dc:title>
-                    </cc:Agent>
-                </dc:creator>
-                <dc:rights>
-                    <cc:Agent>
-                        <dc:title>Open Source</dc:title>
-                    </cc:Agent>
-                </dc:rights>
-                <dc:language>English</dc:language>
+<svg 
+xmlns="http://www.w3.org/2000/svg"
+xmlns:svg="http://www.w3.org/2000/svg"
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+xmlns:ns2="http://creativecommons.org/ns#" 
+xmlns:dc="http://purl.org/dc/elements/1.1/" 
+xmlns:cc="http://creativecommons.org/ns#"         
+xmlns:xlink="http://www.w3.org/1999/xlink" 
+version="1.1"
+id="svg2"
+style="fill:black;stroke:none">
+<title>Material Design Icons [File Set]</title>
+<desc>Material Design Icons are the official open-source icons featured in the Google Material Design specification.</desc>
+<metadata>
+    <rdf:RDF>
+    <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>Material Design Icons [File Set]</dc:title>
+    <dc:date>2015-02-18</dc:date>
+    <dc:creator>
+    <cc:Agent>
+    <dc:title>Google</dc:title>
+</cc:Agent>
+</dc:creator>
+<dc:rights>
+<cc:Agent>
+<dc:title>Open Source</dc:title>
+</cc:Agent>
+</dc:rights>
+<dc:language>English</dc:language>
 
-                <dc:source>https://github.com/google/material-design-icons</dc:source>
-                <dc:description>Material Design Icons are the official open-source icons featured in the Google Material Design specification.</dc:description>
-            </cc:Work>
-        </rdf:RDF>
-    </metadata>
+<dc:source>https://github.com/google/material-design-icons</dc:source>
+<dc:description>Material Design Icons are the official open-source icons featured in the Google Material Design specification.</dc:description>
+</cc:Work>
+</rdf:RDF>
+</metadata>
 
-    <defs>
-        <symbol id="approval" viewBox="0 0 100 100">
-          <title>approval</title>
-          <path d="M0 0h24v24H0z"/><path d="M4 16v6h16v-6c0-1.1-.9-2-2-2H6c-1.1 0-2 .9-2 2zm14 2H6v-2h12v2zM12 2C9.24 2 7 4.24 7 7l5 7 5-7c0-2.76-2.24-5-5-5zm0 9L9 7c0-1.66 1.34-3 3-3s3 1.34 3 3l-3 4z"/>
-        </symbol>
-        <symbol id="attach_email" viewBox="0 0 100 100">
-          <title>attach_email</title>
-          <path d="M0 0h24v24H0z"/><path d="M21 10V4c0-1.1-.9-2-2-2H3c-1.1 0-1.99.9-1.99 2L1 16c0 1.1.9 2 2 2h11v-5c0-1.66 1.34-3 3-3h4zm-10 1L3 6V4l8 5 8-5v2l-8 5z"/><path d="M21 14v4c0 1.1-.9 2-2 2s-2-.9-2-2v-4.5c0-.28.22-.5.5-.5s.5.22.5.5V18h2v-4.5a2.5 2.5 0 0 0-5 0V18c0 2.21 1.79 4 4 4s4-1.79 4-4v-4h-2z"/>
-        </symbol>
-        <symbol id="attachment" viewBox="0 0 100 100">
-          <title>attachment</title>
-          <path d="M0 0h24v24H0V0z"/><path d="M2 12.5C2 9.46 4.46 7 7.5 7H18c2.21 0 4 1.79 4 4s-1.79 4-4 4H9.5a2.5 2.5 0 0 1 0-5H17v2H9.41c-.55 0-.55 1 0 1H18c1.1 0 2-.9 2-2s-.9-2-2-2H7.5C5.57 9 4 10.57 4 12.5S5.57 16 7.5 16H17v2H7.5C4.46 18 2 15.54 2 12.5z"/>
-        </symbol>
-        <symbol id="cloud" viewBox="0 0 100 100">
-          <title>cloud</title>
-          <path d="M0 0h24v24H0z"/><path d="M19.35 10.04A7.49 7.49 0 0 0 12 4C9.11 4 6.6 5.64 5.35 8.04A5.994 5.994 0 0 0 0 14c0 3.31 2.69 6 6 6h13c2.76 0 5-2.24 5-5 0-2.64-2.05-4.78-4.65-4.96z"/>
-        </symbol>
-        <symbol id="cloud_circle" viewBox="0 0 100 100">
-          <title>cloud_circle</title>
-          <path d="M0 0h24v24H0z"/><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm4.5 14H8c-1.66 0-3-1.34-3-3s1.34-3 3-3l.14.01A3.98 3.98 0 0 1 12 7c2.21 0 4 1.79 4 4h.5a2.5 2.5 0 0 1 0 5z"/>
-        </symbol>
-        <symbol id="cloud_done" viewBox="0 0 100 100">
-          <title>cloud_done</title>
-          <path d="M0 0h24v24H0z"/><path d="M19.35 10.04A7.49 7.49 0 0 0 12 4C9.11 4 6.6 5.64 5.35 8.04A5.994 5.994 0 0 0 0 14c0 3.31 2.69 6 6 6h13c2.76 0 5-2.24 5-5 0-2.64-2.05-4.78-4.65-4.96zM10 17l-3.5-3.5 1.41-1.41L10 14.17 15.18 9l1.41 1.41L10 17z"/>
-        </symbol>
-        <symbol id="cloud_download" viewBox="0 0 100 100">
-          <title>cloud_download</title>
-          <path d="M0 0h24v24H0z"/><path d="M19.35 10.04A7.49 7.49 0 0 0 12 4C9.11 4 6.6 5.64 5.35 8.04A5.994 5.994 0 0 0 0 14c0 3.31 2.69 6 6 6h13c2.76 0 5-2.24 5-5 0-2.64-2.05-4.78-4.65-4.96zM17 13l-5 5-5-5h3V9h4v4h3z"/>
-        </symbol>
-        <symbol id="cloud_off" viewBox="0 0 100 100">
-          <title>cloud_off</title>
-          <path d="M0 0h24v24H0z"/><path d="M19.35 10.04A7.49 7.49 0 0 0 12 4c-1.48 0-2.85.43-4.01 1.17l1.46 1.46a5.497 5.497 0 0 1 8.05 4.87v.5H19c1.66 0 3 1.34 3 3 0 1.13-.64 2.11-1.56 2.62l1.45 1.45C23.16 18.16 24 16.68 24 15c0-2.64-2.05-4.78-4.65-4.96zM3 5.27l2.75 2.74C2.56 8.15 0 10.77 0 14c0 3.31 2.69 6 6 6h11.73l2 2L21 20.73 4.27 4 3 5.27zM7.73 10l8 8H6c-2.21 0-4-1.79-4-4s1.79-4 4-4h1.73z"/>
-        </symbol>
-        <symbol id="cloud_queue" viewBox="0 0 100 100">
-          <title>cloud_queue</title>
-          <path d="M0 0h24v24H0z"/><path d="M19.35 10.04A7.49 7.49 0 0 0 12 4C9.11 4 6.6 5.64 5.35 8.04A5.994 5.994 0 0 0 0 14c0 3.31 2.69 6 6 6h13c2.76 0 5-2.24 5-5 0-2.64-2.05-4.78-4.65-4.96zM19 18H6c-2.21 0-4-1.79-4-4s1.79-4 4-4h.71C7.37 7.69 9.48 6 12 6c3.04 0 5.5 2.46 5.5 5.5v.5H19c1.66 0 3 1.34 3 3s-1.34 3-3 3z"/>
-        </symbol>
-        <symbol id="cloud_upload" viewBox="0 0 100 100">
-          <title>cloud_upload</title>
-          <path d="M0 0h24v24H0z"/><path d="M19.35 10.04A7.49 7.49 0 0 0 12 4C9.11 4 6.6 5.64 5.35 8.04A5.994 5.994 0 0 0 0 14c0 3.31 2.69 6 6 6h13c2.76 0 5-2.24 5-5 0-2.64-2.05-4.78-4.65-4.96zM14 13v4h-4v-4H7l5-5 5 5h-3z"/>
-        </symbol>
-        <symbol id="create_new_folder" viewBox="0 0 100 100">
-          <title>create_new_folder</title>
-          <path d="M0 0h24v24H0V0z"/><path d="M20 6h-8l-2-2H4c-1.11 0-1.99.89-1.99 2L2 18c0 1.11.89 2 2 2h16c1.11 0 2-.89 2-2V8c0-1.11-.89-2-2-2zm-1 8h-3v3h-2v-3h-3v-2h3V9h2v3h3v2z"/>
-        </symbol>
-        <symbol id="download" viewBox="0 0 100 100">
-          <title>download</title>
-          <path d="M0 0h24v24H0z"/><path d="M5 20h14v-2H5v2zM19 9h-4V3H9v6H5l7 7 7-7z"/>
-        </symbol>
-        <symbol id="download_done" viewBox="0 0 100 100">
-          <title>download_done</title>
-          <path d="M0 0h24v24H0z"/><path d="M20.13 5.41 18.72 4l-9.19 9.19-4.25-4.24-1.41 1.41 5.66 5.66zM5 18h14v2H5z"/>
-        </symbol>
-        <symbol id="download_for_offline" viewBox="0 0 100 100">
-          <title>download_for_offline</title>
-          <path d="M0 0h24v24H0z"/><path d="M12 2C6.49 2 2 6.49 2 12s4.49 10 10 10 10-4.49 10-10S17.51 2 12 2zm-1 8V6h2v4h3l-4 4-4-4h3zm6 7H7v-2h10v2z"/>
-        </symbol>
-        <symbol id="downloading" viewBox="0 0 100 100">
-          <title>downloading</title>
-          <path d="M0 0h24v24H0z"/><path d="M18.32 4.26A9.949 9.949 0 0 0 13 2.05v2.02c1.46.18 2.79.76 3.9 1.62l1.42-1.43zM19.93 11h2.02c-.2-2.01-1-3.84-2.21-5.32L18.31 7.1a7.941 7.941 0 0 1 1.62 3.9zm-1.62 5.9 1.43 1.43a9.981 9.981 0 0 0 2.21-5.32h-2.02a7.945 7.945 0 0 1-1.62 3.89zM13 19.93v2.02c2.01-.2 3.84-1 5.32-2.21l-1.43-1.43c-1.1.86-2.43 1.44-3.89 1.62zM13 12V7h-2v5H7l5 5 5-5h-4zm-2 7.93v2.02c-5.05-.5-9-4.76-9-9.95s3.95-9.45 9-9.95v2.02C7.05 4.56 4 7.92 4 12s3.05 7.44 7 7.93z"/>
-        </symbol>
-        <symbol id="drive_file_move" viewBox="0 0 100 100">
-          <title>drive_file_move</title>
-          <path d="M0 0h24v24H0V0z"/><path d="M20 6h-8l-2-2H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V8c0-1.1-.9-2-2-2zm-6 12v-3h-4v-4h4V8l5 5-5 5z"/>
-        </symbol>
-        <symbol id="drive_file_move_outline" viewBox="0 0 100 100">
-          <title>drive_file_move_outline</title>
-          <path d="M0 0h24v24H0z"/><path d="M20 6h-8l-2-2H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V8c0-1.1-.9-2-2-2zm0 12H4V8h16v10zm-8.01-9-1.41 1.41L12.16 12H8v2h4.16l-1.59 1.59L11.99 17 16 13.01 11.99 9z"/>
-        </symbol>
-        <symbol id="drive_file_move_rtl" viewBox="0 0 100 100">
-          <title>drive_file_move_rtl</title>
-          <path d="M0 0h24v24H0z"/><path d="M20 6h-8l-2-2H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V8c0-1.1-.9-2-2-2zm-8 11-4-4 4-4v3h4v2h-4v3z"/>
-        </symbol>
-        <symbol id="drive_file_rename_outline" viewBox="0 0 100 100">
-          <title>drive_file_rename_outline</title>
-          <path d="M0 0h24v24H0z"/><path d="M18.41 5.8 17.2 4.59c-.78-.78-2.05-.78-2.83 0l-2.68 2.68L3 15.96V20h4.04l8.74-8.74 2.63-2.63c.79-.78.79-2.05 0-2.83zM6.21 18H5v-1.21l8.66-8.66 1.21 1.21L6.21 18zM11 20l4-4h6v4H11z"/>
-        </symbol>
-        <symbol id="drive_folder_upload" viewBox="0 0 100 100">
-          <title>drive_folder_upload</title>
-          <path d="M0 0h24v24H0z"/><path d="M20 6h-8l-2-2H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V8c0-1.1-.9-2-2-2zm0 12H4V8h16v10zM8 13.01l1.41 1.41L11 12.84V17h2v-4.16l1.59 1.59L16 13.01 12.01 9 8 13.01z"/>
-        </symbol>
-        <symbol id="file_download" viewBox="0 0 100 100">
-          <title>file_download</title>
-          <path d="M0 0h24v24H0z"/><path d="M19 9h-4V3H9v6H5l7 7 7-7zM5 18v2h14v-2H5z"/>
-        </symbol>
-        <symbol id="file_download_done" viewBox="0 0 100 100">
-          <title>file_download_done</title>
-          <path d="M0 0h24v24H0V0z"/><path d="M5 18h14v2H5v-2zm4.6-2.7L5 10.7l2-1.9 2.6 2.6L17 4l2 2-9.4 9.3z"/>
-        </symbol>
-        <symbol id="file_download_off" viewBox="0 0 100 100">
-          <title>file_download_off</title>
-          <path d="M0 0h24v24H0z"/><path d="M9 6.17V3h6v6h4l-3.59 3.59L9 6.17zm12.19 15.02L2.81 2.81 1.39 4.22 6.17 9H5l7 7 .59-.59L15.17 18H5v2h12.17l2.61 2.61 1.41-1.42z"/>
-        </symbol>
-        <symbol id="file_upload" viewBox="0 0 100 100">
-          <title>file_upload</title>
-          <path d="M0 0h24v24H0z"/><path d="M9 16h6v-6h4l-7-7-7 7h4zm-4 2h14v2H5z"/>
-        </symbol>
-        <symbol id="folder" viewBox="0 0 100 100">
-          <title>folder</title>
-          <path d="M0 0h24v24H0z"/><path d="M10 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V8c0-1.1-.9-2-2-2h-8l-2-2z"/>
-        </symbol>
-        <symbol id="folder_open" viewBox="0 0 100 100">
-          <title>folder_open</title>
-          <path d="M0 0h24v24H0z"/><path d="M20 6h-8l-2-2H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V8c0-1.1-.9-2-2-2zm0 12H4V8h16v10z"/>
-        </symbol>
-        <symbol id="folder_shared" viewBox="0 0 100 100">
-          <title>folder_shared</title>
-          <path d="M0 0h24v24H0z"/><path d="M20 6h-8l-2-2H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V8c0-1.1-.9-2-2-2zm-5 3c1.1 0 2 .9 2 2s-.9 2-2 2-2-.9-2-2 .9-2 2-2zm4 8h-8v-1c0-1.33 2.67-2 4-2s4 .67 4 2v1z"/>
-        </symbol>
-        <symbol id="grid_view" viewBox="0 0 100 100">
-          <title>grid_view</title>
-          <g><path d="M0 0h24v24H0z"/><path d="M3 3v8h8V3H3zm6 6H5V5h4v4zm-6 4v8h8v-8H3zm6 6H5v-4h4v4zm4-16v8h8V3h-8zm6 6h-4V5h4v4zm-6 4v8h8v-8h-8zm6 6h-4v-4h4v4z"/></g>
-        </symbol>
-        <symbol id="request_quote" viewBox="0 0 100 100">
-          <title>request_quote</title>
-          <path d="M0 0h24v24H0z"/><path d="M14 2H6c-1.1 0-1.99.9-1.99 2L4 20c0 1.1.89 2 1.99 2H18c1.1 0 2-.9 2-2V8l-6-6zm1 10h-4v1h3c.55 0 1 .45 1 1v3c0 .55-.45 1-1 1h-1v1h-2v-1H9v-2h4v-1h-3c-.55 0-1-.45-1-1v-3c0-.55.45-1 1-1h1V9h2v1h2v2zm-2-4V3.5L17.5 8H13z"/>
-        </symbol>
-        <symbol id="rule_folder" viewBox="0 0 100 100">
-          <title>rule_folder</title>
-          <path d="M0 0h24v24H0z"/><path d="M20 6h-8l-2-2H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V8c0-1.1-.9-2-2-2zM7.83 16 5 13.17l1.41-1.41 1.41 1.41 3.54-3.54 1.41 1.41L7.83 16zm9.58-3L19 14.59 17.59 16 16 14.41 14.41 16 13 14.59 14.59 13 13 11.41 14.41 10 16 11.59 17.59 10 19 11.41 17.41 13z"/>
-        </symbol>
-        <symbol id="snippet_folder" viewBox="0 0 100 100">
-          <title>snippet_folder</title>
-          <path d="M0 0h24v24H0z"/><path d="m15.88 10.5 1.62 1.62v3.38h-3v-5h1.38zM22 8v10c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2l.01-12c0-1.1.89-2 1.99-2h6l2 2h8c1.1 0 2 .9 2 2zm-3 3.5L16.5 9H13v8h6v-5.5z"/>
-        </symbol>
-        <symbol id="text_snippet" viewBox="0 0 100 100">
-          <title>text_snippet</title>
-          <path d="M0 0h24v24H0z"/><path d="m20.41 8.41-4.83-4.83c-.37-.37-.88-.58-1.41-.58H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V9.83c0-.53-.21-1.04-.59-1.42zM7 7h7v2H7V7zm10 10H7v-2h10v2zm0-4H7v-2h10v2z"/>
-        </symbol>
-        <symbol id="topic" viewBox="0 0 100 100">
-          <title>topic</title>
-          <path d="M0 0h24v24H0z"/><path d="M20 6h-8l-2-2H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V8c0-1.1-.9-2-2-2zm-6 10H6v-2h8v2zm4-4H6v-2h12v2z"/>
-        </symbol>
-        <symbol id="upload" viewBox="0 0 100 100">
-          <title>upload</title>
-          <path d="M0 0h24v24H0z"/><path d="M5 20h14v-2H5v2zm0-10h4v6h6v-6h4l-7-7-7 7z"/>
-        </symbol>
-        <symbol id="upload_file" viewBox="0 0 100 100">
-          <title>upload_file</title>
-          <path d="M0 0h24v24H0V0z"/><path d="M14 2H6c-1.1 0-1.99.9-1.99 2L4 20c0 1.1.89 2 1.99 2H18c1.1 0 2-.9 2-2V8l-6-6zm4 18H6V4h7v5h5v11zM8 15.01l1.41 1.41L11 14.84V19h2v-4.16l1.59 1.59L16 15.01 12.01 11z"/>
-        </symbol>
-        <symbol id="workspaces" viewBox="0 0 100 100">
-          <title>workspaces</title>
-          <path d="M0 0h24v24H0z"/><path d="M6 13c-2.2 0-4 1.8-4 4s1.8 4 4 4 4-1.8 4-4-1.8-4-4-4zm6-10C9.8 3 8 4.8 8 7s1.8 4 4 4 4-1.8 4-4-1.8-4-4-4zm6 10c-2.2 0-4 1.8-4 4s1.8 4 4 4 4-1.8 4-4-1.8-4-4-4z"/>
-        </symbol>
-        <symbol id="workspaces_filled" viewBox="0 0 100 100">
-          <title>workspaces_filled</title>
-          <path d="M0 0h24v24H0z"/><path d="M6 13c-2.2 0-4 1.8-4 4s1.8 4 4 4 4-1.8 4-4-1.8-4-4-4zm6-10C9.8 3 8 4.8 8 7s1.8 4 4 4 4-1.8 4-4-1.8-4-4-4zm6 10c-2.2 0-4 1.8-4 4s1.8 4 4 4 4-1.8 4-4-1.8-4-4-4z"/>
-        </symbol>
-        <symbol id="workspaces_outline" viewBox="0 0 100 100">
-          <title>workspaces_outline</title>
-          <path d="M0 0h24v24H0z"/><path d="M6 15c1.1 0 2 .9 2 2s-.9 2-2 2-2-.9-2-2 .9-2 2-2m0-2c-2.2 0-4 1.8-4 4s1.8 4 4 4 4-1.8 4-4-1.8-4-4-4zm6-8c1.1 0 2 .9 2 2s-.9 2-2 2-2-.9-2-2 .9-2 2-2m0-2C9.8 3 8 4.8 8 7s1.8 4 4 4 4-1.8 4-4-1.8-4-4-4zm6 12c1.1 0 2 .9 2 2s-.9 2-2 2-2-.9-2-2 .9-2 2-2m0-2c-2.2 0-4 1.8-4 4s1.8 4 4 4 4-1.8 4-4-1.8-4-4-4z"/>
-        </symbol>
-    </defs>
+<defs>
+    <symbol viewBox="0 0 24 24" id="ic_attachment_24px">
+        <path d="M2 12.5C2 9.46 4.46 7 7.5 7H18c2.21 0 4 1.79 4 4s-1.79 4-4 4H9.5a2.5 2.5 0 0 1 0-5H17v2H9.41c-.55 0-.55 1 0 1H18c1.1 0 2-.9 2-2s-.9-2-2-2H7.5C5.57 9 4 10.57 4 12.5S5.57 16 7.5 16H17v2H7.5C4.46 18 2 15.54 2 12.5z" />
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="ic_cloud_24px">
+        <path d="M19.35 10.04A7.49 7.49 0 0 0 12 4C9.11 4 6.6 5.64 5.35 8.04A5.994 5.994 0 0 0 0 14c0 3.31 2.69 6 6 6h13c2.76 0 5-2.24 5-5 0-2.64-2.05-4.78-4.65-4.96z" />
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="ic_cloud_circle_24px">
+        <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm4.5 14H8c-1.66 0-3-1.34-3-3s1.34-3 3-3l.14.01A3.98 3.98 0 0 1 12 7a4 4 0 0 1 4 4h.5a2.5 2.5 0 0 1 0 5z" />
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="ic_cloud_done_24px">
+        <path d="M19.35 10.04A7.49 7.49 0 0 0 12 4C9.11 4 6.6 5.64 5.35 8.04A5.994 5.994 0 0 0 0 14c0 3.31 2.69 6 6 6h13c2.76 0 5-2.24 5-5 0-2.64-2.05-4.78-4.65-4.96zM10 17l-3.5-3.5 1.41-1.41L10 14.17 15.18 9l1.41 1.41L10 17z" />
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="ic_cloud_download_24px">
+        <path d="M19.35 10.04A7.49 7.49 0 0 0 12 4C9.11 4 6.6 5.64 5.35 8.04A5.994 5.994 0 0 0 0 14c0 3.31 2.69 6 6 6h13c2.76 0 5-2.24 5-5 0-2.64-2.05-4.78-4.65-4.96zM17 13l-5 5-5-5h3V9h4v4h3z" />
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="ic_cloud_off_24px">
+        <path d="M19.35 10.04A7.49 7.49 0 0 0 12 4c-1.48 0-2.85.43-4.01 1.17l1.46 1.46a5.497 5.497 0 0 1 8.05 4.87v.5H19c1.66 0 3 1.34 3 3 0 1.13-.64 2.11-1.56 2.62l1.45 1.45C23.16 18.16 24 16.68 24 15c0-2.64-2.05-4.78-4.65-4.96zM3 5.27l2.75 2.74C2.56 8.15 0 10.77 0 14c0 3.31 2.69 6 6 6h11.73l2 2L21 20.73 4.27 4 3 5.27zM7.73 10l8 8H6c-2.21 0-4-1.79-4-4s1.79-4 4-4h1.73z"
+        />
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="ic_cloud_queue_24px">
+        <path d="M19.35 10.04A7.49 7.49 0 0 0 12 4C9.11 4 6.6 5.64 5.35 8.04A5.994 5.994 0 0 0 0 14c0 3.31 2.69 6 6 6h13c2.76 0 5-2.24 5-5 0-2.64-2.05-4.78-4.65-4.96zM19 18H6c-2.21 0-4-1.79-4-4s1.79-4 4-4h.71A5.5 5.5 0 0 1 12 6c3.04 0 5.5 2.46 5.5 5.5v.5H19c1.66 0 3 1.34 3 3s-1.34 3-3 3z"
+        />
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="ic_cloud_upload_24px">
+        <path d="M19.35 10.04A7.49 7.49 0 0 0 12 4C9.11 4 6.6 5.64 5.35 8.04A5.994 5.994 0 0 0 0 14c0 3.31 2.69 6 6 6h13c2.76 0 5-2.24 5-5 0-2.64-2.05-4.78-4.65-4.96zM14 13v4h-4v-4H7l5-5 5 5h-3z" />
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="ic_create_new_folder_24px">
+        <path d="M20 6h-8l-2-2H4c-1.11 0-1.99.89-1.99 2L2 18c0 1.11.89 2 2 2h16c1.11 0 2-.89 2-2V8c0-1.11-.89-2-2-2zm-1 8h-3v3h-2v-3h-3v-2h3V9h2v3h3v2z" />
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="ic_file_download_24px">
+        <path d="M19 9h-4V3H9v6H5l7 7 7-7zM5 18v2h14v-2H5z" />
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="ic_file_upload_24px">
+        <path d="M9 16h6v-6h4l-7-7-7 7h4zm-4 2h14v2H5z" />
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="ic_folder_24px">
+        <path d="M10 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V8c0-1.1-.9-2-2-2h-8l-2-2z" />
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="ic_folder_open_24px">
+        <path d="M20 6h-8l-2-2H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V8c0-1.1-.9-2-2-2zm0 12H4V8h16v10z" />
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="ic_folder_shared_24px">
+        <path d="M20 6h-8l-2-2H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V8c0-1.1-.9-2-2-2zm-5 3c1.1 0 2 .9 2 2s-.9 2-2 2-2-.9-2-2 .9-2 2-2zm4 8h-8v-1c0-1.33 2.67-2 4-2s4 .67 4 2v1z" />
+    </symbol>
+</defs>
 </svg>
