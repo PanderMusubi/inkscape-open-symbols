@@ -127,37 +127,10 @@ This set contains a set of icons used by the GNOME desktop. The icons are used i
 
 **[Ionicons](http://ionicons.com/)** The premium icon font for Ionic Framework.
 
-**[SJJB Map Icons](http://www.sjjb.co.uk/mapicons/)** by SJBB Management, a simple consistent set of vector icons suitable for cartographic use, created specifically to be used by Open Street Map. All icons are available in a square and in an inverted version.
-
-<details>
-<summary>Sets</summary>
-
-* SJJB Map Icons **Accommodation** Set
-* SJJB Map Icons **Amenity** Set
-* SJJB Map Icons **Barrier** Set
-* SJJB Map Icons **Education** Set
-* SJJB Map Icons **Food** Set
-* SJJB Map Icons **Health** Set
-* SJJB Map Icons **Landuse** Set
-* SJJB Map Icons **Money** Set
-* SJJB Map Icons **Place of Worship** Set
-* SJJB Map Icons **POI** Set
-* SJJB Map Icons **Power** Set
-* SJJB Map Icons **Shopping** Set
-* SJJB Map Icons **Sport** Set
-* SJJB Map Icons **Tourist** Set
-* SJJB Map Icons **Transport** Set
-* SJJB Map Icons **Water** Set
-
-</details>
-<br/>
-
 ## Symbol set licenses
 
 - [Apache 2.0]
   - [Google Material Design Icons](https://github.com/google/material-design-icons/blob/master/LICENSE)
-- [CC0 Public Domain Dedication]
-  - [SJJB Map Icons](http://www.sjjb.co.uk/mapicons/introduction)
 - [CC BY-SA 3.0]
   - [Gnome Icon Theme Symbolic](https://git.gnome.org//browse/gnome-icon-theme-symbolic/)
 - [CC BY 4.0]
