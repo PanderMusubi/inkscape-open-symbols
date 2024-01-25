@@ -17,7 +17,7 @@ Please ensure that you have already installed:
 1. Create a new folder ```<nameofyoursymbols>``` and add all the SVGs that you want to turn into a new symbol set.
 2. Execute ```npm install``` to install the required libraries
 3. Execute ```svgo``` in your new created folder. It will clean all the icons. Some of the icons could be broken after this. We will test and fix that later.
-4. Execute ```gulp --iconset <nameofyoursymbols> --dest <nameofyoursymbols>```. Please change _<nameofyoursymbols>_ with the name of the folder you created in the step 1.
+4. Execute ```gulp --max-old-space-size=4096 --iconset <nameofyoursymbols> --dest <nameofyoursymbols>```. Please change _<nameofyoursymbols>_ with the name of the folder you created in the step 1.
 5. A new file named ```svg-sprite.svg``` will be created under ```nameofyoursymbols/nameofyoursymbols/sprite/```
 6. Duplicate the file [template.svg](https://github.com/Xaviju/inkscape-open-symbols/blob/master/template.svg) with your iconset name and copy all the ```<symbols>``` from your file replacing the placeholder symbol in the template.
 7. Edit the header info in your new file. Do not forget to add the license, the creator and the link to the original repository or website.
