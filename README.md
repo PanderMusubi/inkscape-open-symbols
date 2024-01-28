@@ -14,6 +14,55 @@ Inkscape Open Symbols adds a whole lot more!
 
 The included symbols libraries so far are:
 
+**[Automattic Genericons](https://github.com/Automattic/Genericons)** Genericons are vector icons embedded in a webfont designed to be clean and simple keeping with a generic aesthetic.
+
+**[CircuiTikZ](https://github.com/circuitikz/circuitikz/)** This list of electronic components is intended to make drawing of schematics simple, fast and very flexible, using common vector image editors.
+
+**[Dashicons](https://github.com/WordPress/dashicons)** Dashicons, the WordPress admin icon font.
+
+**[EmojiOne](http://emojione.com/)** the first complete, independent, open-source emoji set.
+
+**[Entypo](http://www.entypo.com/)** 411 carefully crafted premium pictograms by [Daniel Bruce](http://www.danielbruce.se/)
+* Entypo Icons **Social** Set, icons ported from [Entypo's Social Extension SVG Set](http://www.entypo.com/) by [Jacques Laroche](http://currentperspectives.org/about/).
+
+**[Font Awesome Icons](http://fortawesome.github.io/Font-Awesome/icons/)**
+Font Awesome is a full suite of 675 pictographic icons for easy scalable vector graphics on websites, created and maintained by Dave Gandy.
+
+<details>
+<summary>Sets</summary>
+
+* Font Awesome **Brands** Set
+* Font Awesome **Solid** Set
+* Font Awesome **Regular** Set
+
+</details>
+<br/>
+
+**[Fork Awesome](https://forkaweso.me/Fork-Awesome/)**
+Fork Awesome is a fork of Font Awesome that accepts contributions.
+
+**[Github Octicons](https://octicons.github.com/)**
+GitHub's icon font
+
+**[Gnome Icon Theme Symbolic](https://git.gnome.org//browse/gnome-icon-theme-symbolic/)**
+This set contains a set of icons used by the GNOME desktop. The icons are used in the panel menu, and in nautilus and other applications, to represent the different applications, files, directories, and devices.
+
+<details>
+<summary>Sets</summary>
+
+* Gnome Symbolic **Action** Set
+* Gnome Symbolic **Apps** Set
+* Gnome Symbolic **Categories** Set
+* Gnome Symbolic **Devices** Set
+* Gnome Symbolic **Emblems** Set
+* Gnome Symbolic **Emotes** Set
+* Gnome Symbolic **Mimetypes** Set
+* Gnome Symbolic **Places** Set
+* Gnome Symbolic **Status** Set
+
+</details>
+<br/>
+
 **[Google Material Design Icons](https://github.com/google/material-design-icons)**
 
 <details>
@@ -50,11 +99,26 @@ A live [preview](http://google.github.io/material-design-icons/) of this icon se
 </details>
 <br/>
 
-**[Github Octicons](https://octicons.github.com/)**
-GitHub's icon font
-
 **[Humble UI](https://github.com/PanderMusubi/inkscape-open-symbols/wiki/Humble-UI)**
 A simple UX UI elements for your wireframes created by [Xaviju](https://github.com/Xaviju)
+
+**[Ionicons](http://ionicons.com/)** The premium icon font for Ionic Framework.
+
+**[Nautic Alphabets](https://inkscape.org/~Moini/galleries/symbols/)** Three decorative sets of nautic alphabets from A to Z, one with signal flags, one with a sailor boy holding flags in different positions for signaling (color) and the outline variant of that.
+
+<details>
+<summary>Sets</summary>
+ 
+* **Maritime Signal Flags** Set – [Flags for maritime signaling](https://en.wikipedia.org/wiki/Maritime_signal_flag) and ship decoration (37 symbols, A-Z plus Space and numbers, fixed color)
+* **Flag Semaphore Color** Set – [Flag semaphore for maritime signaling](https://en.wikipedia.org/wiki/Flag_semaphore), color variant (30 symbols, A-Z plus some punctuation, fixed color)
+* **Flag Semaphore Outline** Set – Flag semaphore for maritime signaling, outline variant (same as above, color can be changed)
+
+</details>
+<br/>
+
+**[Open Iconic](https://github.com/iconic/open-iconic)** An open source icon set with 223 marks in SVG, webfont and raster formats
+
+**StateFace** USA States Symbol Set with all 50 states plus D.C. and a wee continental U.S. map by **[StateFace](https://propublica.github.io/stateface/)**. Thanks to [cleversomeday](https://github.com/cleversomeday)
 
 **[Suru Icon Set](https://snwh.org/suru)**
 Suru is the icon theme originally created for Ubuntu phones and tablets. Thanks to [mivoligo](https://github.com/mivoligo) for converting them to Inkscape symbols.
@@ -71,75 +135,10 @@ Suru is the icon theme originally created for Ubuntu phones and tablets. Thanks 
 </details>
 <br/>
 
-**[Font Awesome Icons](http://fortawesome.github.io/Font-Awesome/icons/)**
-Font Awesome is a full suite of 675 pictographic icons for easy scalable vector graphics on websites, created and maintained by Dave Gandy.
-
-<details>
-<summary>Sets</summary>
-
-* Font Awesome **Brands** Set
-* Font Awesome **Solid** Set
-* Font Awesome **Regular** Set
-
-</details>
-<br/>
-
-**[Fork Awesome](https://forkaweso.me/Fork-Awesome/)**
-Fork Awesome is a fork of Font Awesome that accepts contributions.
-
-**[Gnome Icon Theme Symbolic](https://git.gnome.org//browse/gnome-icon-theme-symbolic/)**
-This set contains a set of icons used by the GNOME desktop. The icons are used in the panel menu, and in nautilus and other applications, to represent the different applications, files, directories, and devices.
-
-<details>
-<summary>Sets</summary>
-
-* Gnome Symbolic **Action** Set
-* Gnome Symbolic **Apps** Set
-* Gnome Symbolic **Categories** Set
-* Gnome Symbolic **Devices** Set
-* Gnome Symbolic **Emblems** Set
-* Gnome Symbolic **Emotes** Set
-* Gnome Symbolic **Mimetypes** Set
-* Gnome Symbolic **Places** Set
-* Gnome Symbolic **Status** Set
-
-</details>
-<br/>
-
-**[Automattic Genericons](https://github.com/Automattic/Genericons)** Genericons are vector icons embedded in a webfont designed to be clean and simple keeping with a generic aesthetic.
-
 **[Taiga Icons](https://github.com/taigaio)** Icon set from Taiga: a project management platform for agile developers & designers.
 
-**[Open Iconic](https://github.com/iconic/open-iconic)** An open source icon set with 223 marks in SVG, webfont and raster formats
-
-**[Entypo](http://www.entypo.com/)** 411 carefully crafted premium pictograms by [Daniel Bruce](http://www.danielbruce.se/)
-* Entypo Icons **Social** Set, icons ported from [Entypo's Social Extension SVG Set](http://www.entypo.com/) by [Jacques Laroche](http://currentperspectives.org/about/).
-
 **Weatherize** A set of symbols for weather related events made by **[Jacques Laroche](http://currentperspectives.org/about/)**.
-
-**StateFace** USA States Symbol Set with all 50 states plus D.C. and a wee continental U.S. map by **[StateFace](https://propublica.github.io/stateface/)**. Thanks to [cleversomeday](https://github.com/cleversomeday)
-
-**[EmojiOne](http://emojione.com/)** the first complete, independent, open-source emoji set.
-
-**[Dashicons](https://github.com/WordPress/dashicons)** Dashicons, the WordPress admin icon font.
-
-**[CircuiTikZ](https://github.com/circuitikz/circuitikz/)** This list of electronic components is intended to make drawing of schematics simple, fast and very flexible, using common vector image editors.
-
-**[Ionicons](http://ionicons.com/)** The premium icon font for Ionic Framework.
-
-**[Nautic Alphabets](https://inkscape.org/~Moini/galleries/symbols/)** Three decorative sets of nautic alphabets from A to Z, one with signal flags, one with a sailor boy holding flags in different positions for signaling (color) and the outline variant of that.
-
-<details>
-<summary>Sets</summary>
- 
-* **Maritime Signal Flags** Set – [Flags for maritime signaling](https://en.wikipedia.org/wiki/Maritime_signal_flag) and ship decoration (37 symbols, A-Z plus Space and numbers, fixed color)
-* **Flag Semaphore Color** Set – [Flag semaphore for maritime signaling](https://en.wikipedia.org/wiki/Flag_semaphore), color variant (30 symbols, A-Z plus some punctuation, fixed color)
-* **Flag Semaphore Outline** Set – Flag semaphore for maritime signaling, outline variant (same as above, color can be changed)
-
-</details>
-<br/>
         
-
 ## Symbol set licenses
 
 - [Apache 2.0]
@@ -160,8 +159,8 @@ This set contains a set of icons used by the GNOME desktop. The icons are used i
   - [CircuiTikZ](https://github.com/circuitikz/circuitikz/blob/master/gpl-3.0_license.txt)
   - [Suru](https://github.com/snwh/suru-icon-theme/blob/master/COPYING)
 - [MIT]
-  - [Humble UI](https://github.com/PanderMusubi/inkscape-open-symbols/wiki/Humble-UI)
   - [Github Octicons](https://github.com/primer/octicons/blob/master/LICENSE)
+  - [Humble UI](https://github.com/PanderMusubi/inkscape-open-symbols/wiki/Humble-UI)
   - [Ionicons](https://github.com/ionic-team/ionicons/blob/master/LICENSE)
   - [Open Iconic](https://github.com/iconic/open-iconic/blob/master/ICON-LICENSE)
   - [StateFace](https://propublica.github.io/stateface/)
@@ -170,15 +169,16 @@ This set contains a set of icons used by the GNOME desktop. The icons are used i
   
 **Note: This repository contains multiple symbol sets with their own licenses. Using them requires you to be aware that you are subject to the license of the used symbol set. All symbol set licenses are listed in the README file and in their own file metadata. The LICENSE file refers to everything unrelated to the symbol sets.**
 
-[MIT]: https://opensource.org/licenses/MIT
 [Apache 2.0]: http://www.apache.org/licenses/LICENSE-2.0
-[SIL OFL 1.1]: http://scripts.sil.org/OFL
-[GPL v2+]: https://www.gnu.org/licenses/gpl-2.0.en.html
-[GPL V3+]: https://www.gnu.org/licenses/gpl-3.0.en.html
 [CC0 Public Domain Dedication]: https://creativecommons.org/publicdomain/zero/1.0/
 [CC BY-SA 3.0]: https://creativecommons.org/licenses/by-sa/3.0/
-[CC BY-SA 4.0]: https://creativecommons.org/licenses/by-sa/4.0/
 [CC BY 4.0]: https://creativecommons.org/licenses/by/4.0/
+[CC BY-SA 4.0]: https://creativecommons.org/licenses/by-sa/4.0/
+[GPL v2+]: https://www.gnu.org/licenses/gpl-2.0.en.html
+[GPL V3+]: https://www.gnu.org/licenses/gpl-3.0.en.html
+[MIT]: https://opensource.org/licenses/MIT
+[SIL OFL 1.1]: http://scripts.sil.org/OFL
+
 
 ## How do I install Inkscape Open Symbols?
 
