@@ -127,6 +127,19 @@ This set contains a set of icons used by the GNOME desktop. The icons are used i
 
 **[Ionicons](http://ionicons.com/)** The premium icon font for Ionic Framework.
 
+**[Nautic Alphabets](https://inkscape.org/~Moini/galleries/symbols/)** Three decorative sets of nautic alphabets from A to Z, one with signal flags, one with a sailor boy holding flags in different positions for signaling (color) and the outline variant of that.
+
+<details>
+<summary>Sets</summary>
+ 
+* **Maritime Signal Flags** Set – [Flags for maritime signaling](https://en.wikipedia.org/wiki/Maritime_signal_flag) and ship decoration (37 symbols, A-Z plus Space and numbers, fixed color)
+* **Flag Semaphore Color** Set – [Flag semaphore for maritime signaling](https://en.wikipedia.org/wiki/Flag_semaphore), color variant (30 symbols, A-Z plus some punctuation, fixed color)
+* **Flag Semaphore Outline** Set – Flag semaphore for maritime signaling, outline variant (same as above, color can be changed)
+
+</details>
+<br/>
+        
+
 ## Symbol set licenses
 
 - [Apache 2.0]
@@ -137,6 +150,7 @@ This set contains a set of icons used by the GNOME desktop. The icons are used i
   - [Emoji one](http://emojione.com/licensing/)
 - [CC BY-SA 4.0]
   - [Entypo](http://www.entypo.com/)
+  - [Nautic Alphabets](https://inkscape.org/~Moini/galleries/symbols/)
   - [Taiga Icons](https://github.com/taigaio/taiga-design/blob/master/LICENSE)
   - [Wheatherize](https://github.com/jlar0che)
 - [GPL v2+]
