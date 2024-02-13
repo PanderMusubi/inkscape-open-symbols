@@ -189,6 +189,7 @@ For other platform or distributions:
 2. Copy the individual SVG files into your Inkscape config folder under the ```symbols``` folder. If it's not there, create it.
   - For OS X and Linux, the local user directory is `~/.config/inkscape/symbols`.
   - For Windows, the local user roaming directory is `%APPDATA%\inkscape\symbols`.
+  - For Flatpak, use `~/.var/app/org.inkscape.Inkscape/config/inkscape/symbols`
 3. Launch Inkscape (close it first if it's already running).
 4. Open Symbols from ```Object > symbols``` or press ```Ctrl+Shift+Y```. You should see all icon sets in the "Symbol set" dropdown.
 
